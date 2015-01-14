@@ -1,3 +1,3 @@
 # social-id-crawler
 
-a [Sails](http://sailsjs.org) application
+Social media data crawler
