@@ -7,7 +7,10 @@ module.exports.getUser = function(id){
   return new Promise(function(resolve, reject){
     fb.get(id, function(error, params){
 
-      if(error) reject(error);
+      if(error) {
+        console.log(error);
+        reject(error);
+      }
 
       resolve(params);
 
