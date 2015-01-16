@@ -842,6 +842,7 @@ module.exports = {
     _.each(jsonsu, function(n,i){
       sql.push('(null,"'+ n.object_name + '","facebook","account","' + n.content + '","' + n.extra_content + '", @APPID, now())');
     });
+    console.log(sql.length);
     res.ok(sql.join(', '));
   },
   url: function(req,res){
