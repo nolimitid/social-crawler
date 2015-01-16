@@ -8,7 +8,7 @@ module.exports.getUser = function(id){
     fb.get(id, function(error, params){
 
       if(error) {
-        console.log(error);
+        console.log(error, params);
         reject(error);
       }
 
