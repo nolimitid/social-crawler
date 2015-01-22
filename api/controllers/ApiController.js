@@ -5,105 +5,161 @@
  * @help        :: See http://links.sailsjs.org/docs/controllers
  */
 var Promise = require('bluebird');
+var fs = require('fs');
 
-var ids = 'IndonesiaGaruda,MerpatiAirways,LionAirIndo,bataviaair,tigerairmandala,Citilink,BatikAir,Kalstar_Online,PelitaAirlines,Sky_Aviation,SriwijayaAir,trigana_air,lionairnews,Trans7OnTheSpot,TRANS_IMB,HitamPutihT7,IndonesianIdol,liputan6dotcom,inserttranstv,MataNajwa,KickAndyShow,MarioTeguhFB,dahSyatMusik,InboxSCTV_,TheComment_NET,bukan4mata,Ini_Talkshow,TonightShow_NET,TMG_NET,FTV_SCTV,wideshotmetrotv,sketsatranstv,standupmetrotv,ceriwis_transtv,HomestayTrans7,Isengbanget_T7,BSWayang_NET,86_NetTV,myTrip_myAdvntr,Kartu_As,Telkomsel,simPATI,XLCare,IndosatCare,IndosatMania,smartfrenworld,AXISgsm,XL123,untungpakeesia,triindonesia,FlexiIrit,bankmandiri,bukopinsiaga,BANKBRI_ID,BANKBTN_ID,XpresiBCA,bank_jateng,kas_pm,BNI46,bukopinsiaga,kartudanamon,CIMBIndonesia,bankocbcnisp,joylivingPB,syariahmandiri,TweetBMS,BankSinarmas,BSyariahBukopin,PT_Bankbtpn,BNISyariah,BRISyariah,biifriends,CIMBIndonesia,BankMuamalat,Panin_Bank,bank_jatim,infobankbjb,bankpundi,Citibank,sehatAQUA,virowater,SuperO2,AmidisWater,AirMineralClub,DaihatsuInd,DaihatsuInd,ertiga_ID,hondaisme,hondaisme,IsuzuID,ToyotaID,DaihatsuInd,Livinaclub,SuzukiIndonesia,SuzukiIndonesia,ToyotaID,AvanzaClub_ID,DaihatsuInd,KTBMitsubishi,SuzukiIndonesia,KTBMitsubishi,ToyotaID,ChevyIndonesia,SuzukiIndonesia,SuzukiIndonesia,ToyotaID,hondaisme,SuzukiIndonesia,ToyotaID,DaihatsuInd,ToyotaID,DaihatsuInd,KTBMitsubishi,hondaisme,ToyotaID,NissanID,MazdaMotorID,SuzukiIndonesia,DaihatsuInd,ChevyIndonesia,hyundaimobil,hyundaimobil,KTBMitsubishi,ToyotaID,SuzukiIndonesia,ToyotaID,KIAmotorsID,KIAmotorsID,NissanID,ToyotaID,SuzukiIndonesia,ToyotaID,IsuzuID,mbindonesia,audi_indonesia,NissanID,ToyotaID,hyundaimobil,KIAmotorsID,ToyotaID,ToyotaID,hondaisme,KTBMitsubishi,ToyotaID,hyundaimobil,hondaisme,NissanID,SuzukiIndonesia,SuzukiIndonesia,ford_id,hondaisme,DaihatsuInd,HondaJazzKom,hyundaimobil,SuzukiIndonesia,NissanID,KIAMotorsID,suzukisplash,SuzukiIndonesia,YarisID,ViosID,HondaBrioID,NissanID,HondaCivicID,DaihatsuInd,hondaisme,hondaisme,ToyotaID,MazdaMotorID,DaihatsuInd,SuzukiIndonesia,DaihatsuInd,ToyotaID,AvanzaClub_ID,IsuzuID,ToyotaID,SuzukiIndonesia,BMW_Indonesia,NissanID,MazdaMotorID,ChevyIndonesia,StarletID,hondaisme,LamboJakarta,ToyotaID,ToyotaID,KIAmotorsID,SuzukiIndonesia,hondaisme,KIAmotorsID,SuzukiIndonesia,ToyotaID,KTBMitsubishi,SuzukiIndonesia,KTBMitsubishi,SuzukiIndonesia,mbindonesia,SuzukiIndonesia,ford_id,MazdaMotorID,hyundaimobil,hyundaimobil,KIAmotorsID,SuzukiIndonesia,KTBMitsubishi,SuzukiIndonesia,DaihatsuInd,KTBMitsubishi,IsuzuID,SuzukiMotorID,welovehonda,YamahaIndonesia,KawasakiLovers,KTMIndonesia,Vespa_IND,Ducati_Ind,Minerva_id,SunsilkID,GarnierID,VaselineID,CLEARIndonesia,Veet_ID,id_oriflame,AXE_ID,LUX_ID,TheBodyShopIndo,ZincActivateYou,LorealParisID,OlayIndonesia,HeadShouldersID,PanteneID,LorealMenID,cleanandclearID,CantikCitra,vaselinemen,myponds,rexona_id,EmeronLovely,Mirabella_MT,mustikaratu,id_oriflame,PixyIndonesia,myponds,REVLONid,Sariayu_MT,VivaCosmetics,wardahbeauty,MaybellineINA,MarinaCosmetic,lipiceID,LorealParisID,Purbasari_ID,fanbofantastic,ULTIMA_id,Sophie_smarang,mustikaputeri,LancomeID,inezcosmetics,mustikaputeri,MarinaCosmetic,OlayIndonesia,caring_colours,NIVEA_ID,PAC_MT,SILKYGIRLovers,herborist_id,mustikaratuIND,myponds,Purbasari_ID,Sariayu_MT,PutihituShinzui,wardahbeauty,LUX_ID,BeritaSehatID,IDbiore,SahabatMarina,VivaCosmetics,OvaleBeauty,VivelleCare,OlayIndonesia,VaselineID,GarnierID,NIVEA_ID,LATULIPE_COSM,Dove_IDN,RudyHadisuwarno,SALSACOSMETICS,TheBodyShopIndo,baliratih,id_oriflame,PixyIndonesia,herborist_id,Biokos_MT,inezcosmetics,NatashaSkinCare,id_oriflame,BioreIndonesia,TjeFuk,MarinaCosmetic,mustikaratu,PixyIndonesia,myponds,Sariayu_MT,VivaCosmetics,wardahbeauty,REVLONid,Mirabella_MT,LorealParisID,MaybellineINA,inezcosmetics,id_oriflame,myRed_A,CussonsMumMe_ID,zwitsal_id,ULTIMA_id,caring_colours,GarnierID,OlayIndonesia,ULTIMA_id,CantikCitra,Purbasari_ID,deoonardcream,CantikCitra,gatsby_id,VivelleCare,Sariayu_MT,EskulinID,CussonsMumMe_ID,SHElalaland,MustikaPuteriID,rexona_id,IzziLoveID,VivaCosmetics,SahabatMarina,inezcosmetics,AXE_ID,beliagurlzone,zwitsal_id,id_oriflame,Dove_IDN,LorealParisID,TheBodyShopIndo,VaselineID,REVLONid,Purbasari_ID,EnchanteurIndon,VivelleCare,YSL_ID,NIVEA_ID,Sophie_Paris,AllianzId,Jiwasraya,AXA_Mandiri,BPJSTKinfo,bumiputera,myprudential,Sequislife,as_sinarmas,bumiputera,Panin_Bank,Jiwasraya,jasaraharja_pst,BANKBRI_ID,BRIngin_Life,INFOBPJS,ptaskes,acaasuransi,bankmandiri,asuransisunlife,kartudanamon,MNC_LIFE,AdiraIns,Zurich_ID,acaasuransi,CommBank_ID,Kratingdaeng,hemaviton_id,M150ID,Proman5Jam,mizoneid,pocariID,ExtraJossFans,kukubima_energi,CoolantID,SuperO2,YouCIsotonic,My_HydroCoco,diarykiranti,Fatigon_Spirit,Gatorade,LMen,ExtraJossFans,ngejrengs,kukubima_energi,kopimantapABC,CNI_Corporate,KapalApi_ID,kopijahe41,Kedai_Torabika,TOPKopi,AngetSariJahe,KafeKopiLuwak,IniBaruHidup,kopimantapABC,AikCheongIndo,KapalApi_ID,luwakwhitekoffi,TOPKopi,Kedai_Torabika,ayammerak_id,Sidojahe,GoodDayID,kopiko78,kopimantapABC,KapalApi_ID,TOPKopi,sahabatibu,MamyPokoID,happynappyid,KacangGaruda,DuaKelinci,GirlBestFriend,SoftexGirlsRoom,AnionAsli,infopembalut,kotexduniacewe,scoindonesia,shinewithcharm,tempodotco,kompascom,VIVAnews,detikcom,whatsonANTV,TRANS7,TRANSTV_CORP,SCTV_,OfficialRCTI,tvOneNews,Metro_TV,IndosiarTVtwit,netmediatama,KompasTV,Globaltvseru,Official_MNCTV,Trans7OnTheSpot,TRANS_IMB,HitamPutihT7,IndonesianIdol,liputan6dotcom,inserttranstv,MataNajwa,KickAndyShow,MarioTeguhFB,dahSyatMusik,InboxSCTV_,TheComment_NET,bukan4mata,Ini_Talkshow,TonightShow_NET,TMG_NET,FTV_SCTV,wideshotmetrotv,sketsatranstv,standupmetrotv,ceriwis_transtv,HomestayTrans7,Isengbanget_T7,BSWayang_NET,86_NetTV,myTrip_myAdvntr,987Genfm,101Jakfm,Prambors,Delta_FM,ozradiojakarta,TraxFMJKT,Iradiojakarta,mustang88fm,979FeMaleRadio,884GlobalFM,ardanradio,99ersRadio_Bdg,hardrockfm,Hitsradiobdg,UrbanRadio254,VRadioFM,SindoTrijayaFM,kisfmjakarta,967HitzFM,tab_gaul,TabKerenBeken,TabloidBintang,TabloidAURA,tabloidphone3,tabloidpulsa,CHIPIndonesia,TabloidNakita,Otomotifweekly,cek_ricek,tabloidrumah,tabloidsaji,swamagazine,mixmarcomm,marketingcoid,TechnoKonstruks,MSwadaya,idebisnismag,forumpengusaha,LuarBiasaMagz,tempodotco,GATRA_News,cerdaspolitik,INSPIRASIMAGZ,MajalahKartini,FeminaMagazine,CosmoIndonesia,GADISmagz,elleindonesia,majalahummi,MarieClaireID,bazaarindonesia,TabloidNurani,cleo_ind,GogirlMagazine,KPK_RI,SAR_NASIONAL,Kemenag_RI,KESDM,Portal_Kemlu_RI,Humas_Kumham,Kemenhut,KemenkeuRI,KelautanKKP,Kemdikbud_RI,kemkominfo,KemenPU,Kemdikbud_RI,Kemendag,kementan,Kemenperin_RI,humasnakertrans,depkop,HumasKLH,bappenas,KPDT_RI,KemenporaRI,ristekgaul,setkabgoid,Puspen_TNI,Kemenkopolhukam,ArsipNasionalRI,KPURI2014,bpkri,PPATK,BPS_Indonesia,infoBMKG,TMCPoldaMetro,PersibOfficial,PMSnews,_SriwijayaFC_,deltras_fc,FCSemenPadang,Aremafc_ISL,Persija_Jkt,FCPERSEBAYA,Persijap,bontangfc_1988,FCPERSEMA,PERSIPURA_,persiram_raja4,baritoputera,MitraKukar,PersisamID,PersepamMadura,GresikUnited_FC,PerselaFC,PersitaOfficial,persiba,PERSERU_SERUI,Persik_ID,pbandungrayafc,PersikaboLovers,Persiraja,PartaiHANURA,PDI_Perjuangan,DPP_PPP,PKSejahtera,PDemokrat,PemudaNasDem,Gerindra,Golkar5,BeritaPKB,DPPBulanBintang,infoPNA12,IndonesiaGaruda,merpatiairlines,ptpn11,pusripalembang,PerumPerhutani,PTBalaiPustaka,OfficialAntam,PTPERTAMINA,pln_123,ptinka,HumasLen,TelkomIndonesia,StudioPFN,IndosatMania,ptdahana,PTPINDAD,infogaram,PosIndonesia,PTPERTAMINA,radityadika,djenarmaesaayu,tehniadinata,ndorokakung,moammaremka,h_elshirazy,deelestari,Poconggg,TrinityTraveler,asmanadia,sittakarina,clara_ng,vabyo,alandakariza,FiraBasuki,adhityamulya,ninityunita,fuadi1,benzbara_,pidibaiq,marischkaprue,takdos,ikanatassa,rheinfathia,Andreahirata,ClaudiaKaunang,maswaditya,windyariestanty,MerryRiana,Iwan9S10A,theitasembiring,daraprayoga_,shitlicious,LunaMaya26,sherinasinna,bclsinclair,agnezmo,olla_ramlan,shireensungkar,raisa6690,jess_iskandar,Bellaudya829,gitagut,juliaperrez,mrsayudewi,SandraDewi88,memes605,chantalconcetta,dagnesia,thalitalatief,quinnfarah,tasyakamila,andienaisyah,pevpearce,WulanGuritno,mratuliu,deamirella,itsmeAsmirandah,Happy_Salma,aurakasih87,RealSyahnazS,_widikidiw_,nikitawilly_24,HarukaN_JKT48,sherylsheinafia,sarseh,Julstelle,sophieNavita,AdiniaWirasti,mynameisrossa,fitrop,Anggun_Cipta,xcintakiehlx,riantic,TitiRajoBintang,nirina_zubir,maudyayunda,chelseaislan,kimbrlyryder,sophialatjuba88,nabilahJKT48,therealDiSastr,naymirdad,dindakanyaa,atiqahhasiholan,marshanda,septriasa_acha,zaskiadyamecca,Vaelovexia,zaskiasungkarIR,NRamadhani,kinaryosih_03,nurimaulida,ayudiac,_kiranalara,dindahw,TyasMirasih8487,ralineshah,itsPrisia,OlgaLy_DIA,OliveJensen,yukikato,christiejulia,tinatoon93,Jscmila,popsovia,Ayuhastari,alicesofieNORIN,audimarissa_,nindysings,ardinarasti6,Titi_KamaLL,ti2dj,Nadya_HutaGalng,shandy_aulia,cumarachel,tikeprie,ersamayori,rezerdewi,showimah,donitabhubiy,Graciaz14,KarthykaPutri,mzalianty80,millanef,chelseaolivia92,nadinelist,MelaneyRicardo,intanuraini,cindybernadette,LauraBas,melly_goeslaw,indybarends,dewisandra,shanty78,Lady6igi,PrincesSyahrini,aurelhermansyah,PrillyBie,EnzyStoria,Zaskia_Gotix,gisel_la,arieltatum,MissSharena,kddevie,_PoppyBunga,dhiniaminarti29,cutmeyriska,evaceliaa,NinaZatulini,nafaurbach15,novaeliza,mieke_amalia,aawdee_uwais,ashantysiddik,astridbasjar,tiaaaaan,maudymikha,citraciki,basuki_btp,hattarajasa,mohmahfudmd,jokowi_do2,anasurbaningrum,Prabowo08,Yusrilihza_Mhd,iskan_dahlan,tifsembiring,Pak_JK,fadjroeL,IndraJPiliang,AlissaWahid,budimandjatmiko,benhan,ulil,kahfi_siregar,wimar,bangfauzibowo,pramonoanung,PoppyDharsono,lukmansaifuddin,marzukialie_MA,boediono,hnurwahid,ruhutsitompul,vjdaniel,vidialdiano,desta80s,corbuzer,ringgoagus,GlennFredly,gadiiing,armandmaulana,apriliokevin,afgansyah_reza,Riodewantoo,_VinoGBastian,RaffiAhmadLagi,OlgaSyahputra82,anjasmara,TukulWongNdeso,t_ORASUDI_ro,nicsap,Irwansyah_zs,evansanders_id,alysyarief,AlKohler7,Joe_Taslim,iko_uwais,randpunk90,boyhamzah,cjerikho829,realfedinuril,tulusm,Judikajude,SondoroMusic,riofebrian25,petra_sihombing,MarcelloTahitoe,mkhshn,MichaelMohede,bebiromeo2,AHMADDHANIPRAST,DennyCagur,AbangNarjiCagur,WCIndonesia,dhikacungkring,teukuwisnu2,dude2harlino,vickykciv,samuelrizal01,Herjunot7Ali,El8Rumi,dimasbeck_,MrRD_sit,RickyHarun45MF,adiipati,ashraf sinclair,okaantara,_baimwong,csugiono,saipul_jamil,irfanhakim,arsyilrahman,ruben_onsu,boywilliam,UyaKuya_SCTV,indraherlambang,OFCIvanGunawan,sammy0809SmrgkR,VictorySitohang,reu_reu,ramzi_tebe,PutraNababan,TerasTinaTalisa,desianwar,karniilyas,najwashihab,Tomtjok,budionodarsono,fifialeyda,Rosianna766Hi,meutya_hafid,_jeremyteti,marissaanita,s_nacita,smalakiano,flidwina,pritalaura,gadizafauzi,isyanabagoesoka,e_julianti,zeld_ung,kaniaswinata,avimalik,zackiarfan,rikeamru,nova_rini,juanita_aline,me_putri,bayusutiyono,dianabustami,fer_djo,NOAH_ID,slankdotcom,SMASHindonesia,Cherrybelleindo,Vierratale,kotakband_,geishaindonesia,SID_Official,dmasivband,BondanF2B,nidji,EndankSoekamti_,GBluesShelter,ADA_INDONESIA,princess_ind,myLASTCHILD,band_Armada,PASbandOfficial,Thebrandals,ALEXAtheBand,MaliqMusic,twitchangcuters,kerispatih_band,sheilaon7,gigi_band,kangenband_,Naifband,thesigit,repvblik_ind,ungu_tweet,kahitnafull,yovieandnuno,theovertunes,lylaindonesia,__rif,alexatheband,abackbone,cokelatband,cjrcomate31,ecoutez_ekute,fiveminutes_fm,bandwali,wsatcc,Bagindaria_ID_,dcinnamonsband,de19wa,jrocks1spirit,jamrudband,jikustik,officialjkt48,moccaofficial,naff_band,netral_official,projectpop,radja_band,ranforyourlife,seventeenband,saykoji,_setia_band_,she_band,ten2fiveband,tanggamusic,thevirginrcm,hijaudauntweet,lettoband,tdc_band,therainband,ZIGAZrocks,zivilia,SafirSenduk,RoyShakti,mrshananto,AidilAKBAR,FreddyPieloor,AirAsiald';
-var fbs = 'AirAsiaIndonesia,garudaindonesia,167688383326905,tiketlionair,Y6BataviaAir,TigerairIndonesia,citilink,batikair,KalstarAviationPt,PelitaAir,57357699696,skyaviation,sriwijayaair.co.id,TriganaAirService,TraviraAir,tiketwingsair,IMB2014,indonesianidolofficial,liputan6online,127222570698367,52472954880,41083683391,Inbox.SuryaCitraTV,TheCommentNET2013,875923712434746,tetanggamasagitunet,FTV.SCTV,792327067454350,174105516106810,KartuAs,telkomsel,simPATI,xlrame,Indosat.IM3,Indosat.Mentari,smartfren,AXISgsm,xlrame,esiaspot,triindonesia,107071722668538,mandirifiesta,Bukopin.Siaga,BankBRIofficial,54086589301,XpresiBCA,bankjateng.community,182700508509333,BNI,Bukopin.Siaga,kartudanamon,CIMBIndonesia,bankocbcnisp,joyliving,119633074766327,syariahmandiri,megasyariah,107223592701139,222749127806282,BankBTPNSyariah,BNISyariah,BRISyariah,biifriends,KTAKartuKreditCIMBNiaga,BankMuamalatIndonesia,229769927036879,125258877580283,BankBJBOfficial,bankpundi,194933313878810,SehatAQUA,Virowater,supero2,amidisprincipal,minumvit,AdesIndonesia,ClubAirMineral,FREEDIndonesia,isuzu.indonesia,NissanLivinaClub,suzukiindonesia,suzukiindonesia,ToyotaID,ToyotaID,daihatsuindonesia,KTBMitsubishiMotorsIndonesia,suzukiindonesia,KTBMitsubishiMotorsIndonesia,ToyotaID,chevyindonesia,suzukiindonesia,suzukiindonesia,ToyotaID,149509846287,suzukiindonesia,ToyotaID,daihatsuindonesia,ToyotaID,daihatsuindonesia,KTBMitsubishiMotorsIndonesia,149509846287,ToyotaID,NissanZoneIndonesia,Mazdamotorindonesia,suzukiindonesia,daihatsuindonesia,chevyindonesia,hyundaimobil,hyundaimobil,KTBMitsubishiMotorsIndonesia,ToyotaID,suzukiindonesia,ToyotaID,Kiamotorsindonesia,Kiamotorsindonesia,NissanZoneIndonesia,ToyotaID,suzukiindonesia,ToyotaID,IsuzuID,MercedesBenzID,GrandLivinaIndonesia,ToyotaID,hyundaimobil,Kiamotorsindonesia,ToyotaID,ToyotaID,149509846287,KTBMitsubishiMotorsIndonesia,ToyotaID,hyundaimobil,149509846287,NissanZoneIndonesia,48329531516,suzukiindonesia,app_208195102528120,149509846287,suzukiindonesia,suzukiindonesia,vios.indonesia,BrioIndonesia,NissanZoneIndonesia,211436748836,daihatsuindonesia,149509846287,149509846287,ToyotaID,Mazdamotorindonesia,daihatsuindonesia,suzukiindonesia,daihatsuindonesia,ToyotaID,ToyotaID,IsuzuID,ToyotaID,suzukiindonesia,bmw.indonesia,GrandLivinaIndonesia,Mazdamotorindonesia,chevyindonesia,174435762567699,FREEDIndonesia,117544075003149,ToyotaID,ToyotaID,Kiamotorsindonesia,suzukiindonesia,149509846287,Kiamotorsindonesia,suzukiindonesia,ToyotaID,KTBMitsubishiMotorsIndonesia,suzukiindonesia,KTBMitsubishiMotorsIndonesia,suzukiindonesia,MercedesBenzID,suzukiindonesia,app_208195102528120,Mazdamotorindonesia,hyundaimobil,hyundaimobil,Kiamotorsindonesia,suzukiindonesia,KTBMitsubishiMotorsIndonesia,suzukiindonesia,daihatsuindonesia,KTBMitsubishiMotorsIndonesia,IsuzuID,suzukimotorindonesia,welovehonda,yamaholigan,KawasakiIndonesia,ktmina,VespaPID,PulsarIndonesia,DucatiIndonesia,minerva.indonesia,SunsilkIndonesia,GarnierIndonesia,VaselineID,ClearIndonesia,veet.id,id.oriflame,AXE.ID,LuxIndonesia,TheBodyShopIndonesia,LOrealParisID,OlayIndonesia,HeadandShouldersIndonesia,panteneindonesia,MenExpertIndonesia,cleanclearindonesia,79003217653,VaselineMEN,pondsindonesia,RexonaID,EmeronLovely,292128914221835,MirabellaCosmeticS,156153587777254,id.oriflame,PIXYIndonesiaOfficial,pondsindonesia,RevlonID,124990560860823,VivaCosmetics,wardahbeauty,MaybellineINA,133772801981,lipiceindonesia,LOrealParisID,Purbasari.Indonesia,FanboCosmetics,ultimaIIindonesia,sophiemartinesia,MustikaPuteri,143474012340307,217347921617477,MustikaPuteri,133772801981,MaryKayIDN,OlayIndonesia,caringcolours.ycpa,niveaid,134308649970017,pacmarthatilaar,SILKYGIRLIndonesia,131897073504018,HerboristNaturalCare,mustikaratuIND,pondsindonesia,Purbasari.Indonesia,sariayu.MT,PutihItuShinzui,Sumber-Ayu,wardahbeauty,LuxIndonesia,LifebuoyIndonesia,idbiore,sahabat.marina,VivaCosmetics,OvaleBeauty,183928901635651,OlayIndonesia,VaselineID,GarnierIndonesia,niveaid,292128914221835,doveindonesia,RudyHadisuwarnoCosmetics,SalsaCosmetics,TheBodyShopIndonesia,narcheese.baliratih,id.oriflame,PIXYIndonesiaOfficial,HerboristNaturalCare,biokosmt,inezcosmetics,NatashaSkinCare,id.oriflame,KaoBiore,tje.fuk.12,FanboCosmetics,292128914221835,231935806819862,133772801981,156153587777254,PIXYIndonesiaOfficial,pondsindonesia,124990560860823,VivaCosmetics,wardahbeauty,RevlonID,MirabellaCosmeticS,LOrealParisID,MaybellineINA,PigeonTeens,217347921617477,id.oriflame,RedACosmetics,clarestaindonesia,CussonsMumMe.Id,ZwitsalBabyCorner,ultimaIIindonesia,348176248590774,caringcolours.ycpa,231935806819862,GarnierIndonesia,OlayIndonesia,ultimaIIindonesia,79003217653,Purbasari.Indonesia,230255643653921,79003217653,GatsbyIndonesia,183928901635651,sariayu.MT,cheersmeup,CussonsMumMe.Id,SHElalaland,MustikaPuteriID,RexonaID,GetIZZIGetLove,VivaCosmetics,sahabat.marina,217347921617477,AXE.ID,beliagurlzone,ZwitsalBabyCorner,id.oriflame,doveindonesia,LOrealParisID,TheBodyShopIndonesia,VaselineID,RevlonID,Purbasari.Indonesia,348176248590774,183928901635651,niveaid,sophieparisindonesia,AIAAsuransiIndonesia,AllianzIndonesiaCommunity,asuransi.jiwasraya.1859,axamandiri,424843504198910,BPJSTKinfo,AJBBumiputera1912,prudential.indonesia,AsuransiSequislifeIndonesia,107223592701139,AJBBumiputera1912,229769927036879,asuransi.jiwasraya.1859,JasaRaharja,BankBRIofficial,360847693984321,BpjsInfo,timeline,424843504198910,mandirifiesta,1423982334512197,128141253911399,asuransitakaful,238698282846342,kartudanamon,MNCLIFEINSURANCE,157831064342505,57859554896,ZurichIndonesia,timeline,CommbankID,MyKratingdaeng,hemaviton,M150Indonesia,Proman5Jam,mizone,pocariID,info.extrajoss,kukubimaenergi,CoolantID,supero2,EnaOGeneration,youcisotonic,HydroCoco,diarykiranti,fatigonspirit,Gatorade,LMen.fanpage,info.extrajoss,kukubimaenergi,kopimantapabc,284302391685694,KopiKapalApi,kopijahe41,571984899529729,215957281781084,TOPCoffeeIndonesia,571984899529729,angetsari.id,kopiradixhpa,kopiluwak.civetcoffee,NescafeID,kopilanangmalangsari,kopimantapabc,89487173018,52030028053,KopiKapalApi,152170381472524,KopiLuwakWhiteKoffee,TOPCoffeeIndonesia,215957281781084,507962272578846,155192021295653,kopiGoodDay.indonesia,kopimantapabc,KopiKapalApi,TOPCoffeeIndonesia,sahabatibu,MamyPokoIndonesia,BundaCermat,PampersIndonesia,HappyNappyIndonesia,kacanggaruda,DuaKelinciID,girlbestfriend,lovemoonanionpembalutsehat,nateshpembalut,kotexduniacewe,450987771610865,ShinewithCharm,354981542517,252369521494578,OfficialTRANS7,148636738536241,147622975307583,OfficialRCTI.TV,metrotv,IndosiarID.TV,netmediatamaindonesia,KompasTV,GlobaltvIndonesia,MnctvOfficial,IMB2014,indonesianidolofficial,liputan6online,127222570698367,52472954880,41083683391,Inbox.SuryaCitraTV,TheCommentNET2013,875923712434746,tetanggamasagitunet,FTV.SCTV,792327067454350,174105516106810,987genfmjkt,101Jakfm,prambors,DeltaFMRadio,ozradio.jakarta.9,1014TRAXFM,IRADIOJAKARTA,mustang88fm,femaleradio,78363072223,ardanradiobandung,113008405438894,876hardrockfm,HitsRadioBandung,137924826278505,vradio.jakarta,sindotrijayafm,kisfmjakarta,967hitzfm,159251644114961,102248076477671,107890462563680,tabloidbintang,170416916313377,287926684597821,pulcom,101399716568600,151954181525822,114634101892589,111047108906175,cekricek,TabloidRUMAH,tabloidsaji,swamagazine,216464115059193,mixmarcomm,Marketingcoid,technokonstruksi,majalah.swadaya,idebisnismag,112510268795023,103774869657240,TempoMedia,GATRAMAGZ,beritaindonesia,Inspirasi.Indonesia,KartiniMagazine,FeminaMagazineIndonesia,153605411957,148144452487,ELLEINDONESIAmagazine,MajalahUmmi,206928762665582,159486907425282,118472648351102,CLEO.Ind,gogirlmagz,107501425128,286506207927,kesdm,Kemlu.RI,KEMENKUMHAM.RI,138151149577999,217934864971247,196629527026251,Kemdikbud.RI,Kemkominfo,publikasi.kementerianpu,Kemdikbud.RI,608925165792115,233402133510931,kppdanpa,ristekgaul,Kejaksaan.Republik.Indonesia,350005585069284,polri,169257903141478,147810415382310,137473109756643,auditboard.RI,21164211233,163185546552,sriwijayafc,deltamaniasidoarjo,semenpadangfc,aremaindonesiafc,195433703597,185380884826216,FansPersijap,bontang.FC,persema,persipura,257095531010842,PsBaritoPuteraKalsel,mitrakukar,PersisamID,Persepam.mu,ultrasmaniagresik,PerselaFC,26633412083,persiba,Perseru,Persik,PelitaBandungRayaFc,PBLOfficial,54724763780,hanura.official,DPP.PDI.Perjuangan,pppdpp,HumasPartaiKeadilanSejahtera,pdemokrat,135724689838285,gerindra,PagePartaiGolkar,pkb2pkb,amanatnasional,114716555303039,infopna12,PT.GarudaIndonesia,59975819750,116142031781012,111067895643837,328929549705,ptpn09,1430808697164788,ptpnVI,102869616505644,145483318812097,ptpn11,249687625117927,213266588707257,157362670977664,224379790937318,77208773950,Multimedia.PT.Balai.Pustaka.Persero,258118647629283,ptpertaminapersero,130479023722680,cc123pln,BukitAsamOfficial,113480665416468,129652197116026,ptbarata,108337514684,TelekomunikasiIndonesia,Indosat.IM3,dahana.persero,179347639820,166100293465058,semengresik,semenkupang,100919599991648,posindonesia,ptpertaminapersero,radityadikapages,ndorokakung,283768426740,6846134641,160943630633564,TrinityTraveler,AsmaNadia.Penulis,sittakarina,vabyo,alandakarizapage,fuadiN5M,batubara.bernard,marischka.prudencefull,ika.natassa,RheinFathiaWriter,ClaudiaKaunangFanpage,windy.ariestanty,inspirationbymerryriana,102167306543767,shitliciousdotcom,officiallunamaya,SherinaOfficial,bclofficialpage,agnesmonica,Raisa6690,jessicaiskandarofficial,GitaGutawa,chantaldellaconcetta,ItsFarahQuinn,TasyaKamilaOfficial,44971471700,49414159393,sherylsheinafia05,RossaOfficial,207202594045,anggun.official,CintaLaura.OfficialPage,AyundaFazaMaudy,1468991113364871,marshandafilm,ZaskiaMeccaOfficial,1499240397010919,olga.lydia.35,jessica.m.agnesia.5,260259620764429,TitiDJOfficial,NadyaHutagalungPage,209290562455174,rachelmaryams,103961707268,millanefernandez,49586517592,327452267415356,928683410494867,155572797835677,127551525482,MMMT.maudymikha,1383941375220354,AhokBTP,M.Hatta.Rajasa,mmd.mahfudmd,JKWofficial,138554352826249,PrabowoSubianto,302310959806242,tifatul.sembiring,46629561325,bangfauzibowo,744536835564211,65059916338,81041498233,MHidayatNurWahid,ruhutsitompul2,megawati.soekarnoputri,VJDanielOfficial,VidiAldiano,DeddyMahendraDestaDestaOvj,mastercorbuzier,186844197219,435929406457654,226265450761910,240200780207,35021957015,AfganOfficial1,337798076258677,B212VGB,148155805263902,150196321670537,anjasmara.prasetya,fanspage.tukularwana,Torasudi,160981653945750,IRWANSYAH.OneSyahDevotee,114980865191958,157874861064230,AL7Official,joetaslim.page,155706447787255,188354774576662,106124162806152,71490253478,123153981103737,musiktulus,Judika,sandhysondoroband,riofebrian25,97513897539,37598944098,marcellsiahaan,129094723794524,619820951365349,225074140365,607513425988603,333996936702491,SiWendyCagur,108378012538726,117705024930225,243956682294867,113884555338433,SamuelRizalA,109571059084448,453902777973732,126090210740441,118607501492631,863438627009464,334043883411397,officialashrafsinclair,147222758664175,199442116787994,221779291190072,saipuljamilindonesia,IrfanHakimPage,104184559671,87530503143,219218448112469,115799048456417,indraherlambang13,653342668115656,131626690247812,ChokySitohangFull.New,reuben.elishama.9,ramzi.tebe.7,450291004997946,184336824414,214602385643,256239354400055,59617814993,tomtjok.tjokro,bdi.budionodarsono,118318544852203,fpandyfnoya,RosiannaSilalahi,85241740520,168461089859683,198400063514216,51011802974,43552087552,gadiza.fauzi.14,endiruruh,69943418552,BakerVirgie,100001454637620,kania.sutisnawinata.1,114994641854467,509900159064484,anastasya.putri.50,139571722779886,chantaldellaconcetta,239565192797836,NOAH.ID.MUSIC,slankband,CherryBelle.Official.FanPage,Vierratale.official,KotakAsli,GeishaIndonesia,SupermanIsDeadSidOfficial,194148335787,bondanf2b,NIDJIholic,endanksoekamti,231675880190849,173265536020370,PrincessIndonesia,lastchild,armada.musik,pasband.info,112570826262,Alexatheband,Maliqndessentials,thechangcutersrock,kerispatih.band,108424945858274,118388814844519,official.kangenband,Naif8and,thesigitofficial,202317706632226,UNGUBand,KAHITNA,39816754628,TheOvertunes,LYLAFANSCLUB,126719926577,7ICONS,Alexatheband,backbone.official,CokelatBand,789905201029819,45224000026,FiveMinutesIndonesia,118270987889,56185409640,259860837382982,59197338558,Dewa19,jrocks.official,657051284333946,official.JKT48,moccaband,NaFFOnline,220045414763494,project.pop,ranforyourlife,SeventeenBand,saykoji,SetiaBand,shestheband,ten2fiveband,TANGGAMUSIC,hijaudaun,116726395015445,103105913062773,TheRain,231542615914,110476975653027,safirsenduk,179559162075625,334787519678,aidilakbarmadjid,FREDDYPIELOOR';
-var parseUrl = function(url){
+var fulljson = JSON.parse(fs.readFileSync('./file/fullparsed.json'));
+var validjson = JSON.parse(fs.readFileSync('./file/validation.json'));
+
+var parseUrl = function (url) {
+  if (!url) return '';
   var Url = require('url');
   var raw = Url.parse(url);
+  if (!raw) return '';
   return raw.pathname.split('/').reverse()[0];
 };
 
 module.exports = {
-	user : function(req,res){
-    //var ids = req.param('ids'),
-    var arrIds = ids.split(','),
-      reduced = [],
-      promises = [];
+  validate: function (req, res) {
+    res.json(_.map(fulljson, function (n) {
+      var temp = n;
+      var validation = {
+        twitter: {},
+        fb: {}
+      };
 
-    _.each(arrIds, function(n,i){
-      var group = Math.ceil(i/99);
-      if(typeof(reduced[group])==='undefined'){ reduced[group] = [] }
+      var full = _.map(fulljson, function (n) {
+        var temp = n;
+        //check twitter
+        if (typeof validation.twitter[n.twitter] === 'undefined') {
+          validation.twitter[n.twitter] = {
+            count: 1,
+            list: [n]
+          };
+          temp.twitterValid = true;
+          if (n.twitter === '') temp.twitterValid = false;
+        }
+        else {
+          validation.twitter[n.twitter].count += 1;
+          validation.twitter[n.twitter].list.push(n);
+          temp.twitterValid = false;
+        }
+
+        //check fb
+        if (typeof validation.fb[n.fb] === 'undefined') {
+          validation.fb[n.fb] = {
+            count: 1,
+            list: [n]
+          };
+          temp.fbValid = true;
+          if (n.fb === '') temp.fbValid = false;
+        }
+        else {
+          validation.fb[n.fb].count += 1;
+          validation.fb[n.fb].list.push(n);
+          temp.fbValid = false;
+        }
+
+        return temp;
+      });
+
+      var summary = {
+        twitter: {
+          validRows: 0,
+          list: []
+        },
+        fb: {
+          validRows: 0,
+          list: []
+        }
+      };
+
+      _.each(full, function (n) {
+        //check twitter
+        if (n.twitterValid === true) {
+          summary.twitter.validRows += 1;
+          summary.twitter.list.push(n.twitter);
+        }
+        if (n.fbValid === true) {
+          summary.fb.validRows += 1;
+          summary.fb.list.push(n.fb);
+        }
+      });
+
+      res.json({
+        full: full,
+        validation: validation,
+        summary: summary
+      });
+    }));
+  },
+  twitter: function (req, res) {
+    var arrIds = validjson.summary.twitter.list,
+        reduced = [],
+        promises = [];
+
+    _.each(arrIds, function (n, i) {
+      var group = Math.ceil(i / 99);
+      if (typeof(reduced[group]) === 'undefined') {
+        reduced[group] = []
+      }
       reduced[group].push(n);
     });
 
-    _.each(reduced, function(n,i){
-      promises.push( twitter.getUser(n) );
+    _.each(reduced, function (n, i) {
+      promises.push(twitter.getUser(n));
     });
 
     Promise.all(promises)
-      .then(function(results){
+      .then(function (results) {
         var flatten = _.flatten(results);
-        var require = _.map(flatten, function(n){
+        var require = _.map(flatten, function (n) {
           return {
             object_name: n.name,
             content: n.id_str,
             extra_content: n.screen_name
           }
         });
-        res.ok(require);
+        res.json(require);
       });
   },
-  //twitter: function(req, res){
-  //  var sql = [];
-  //
-  //  var jsonsu = {};
-  //  _.each(jsons, function(n,i){
-  //    if(typeof(jsonsu[n.content]) === 'undefined'){
-  //      jsonsu[n.content] = n;
-  //    }
-  //  });
-  //  _.each(jsonsu, function(n,i){
-  //    sql.push('(null,"'+ n.object_name + '","facebook","account","' + n.content + '","' + n.extra_content + '", @APPID, now())');
-  //  });
-  //  console.log(sql.length);
-  //  res.ok(sql.join(', '));
-  //},
-  url: function(req,res){
-    var raw = [];
-    var coll = urls.split(',');
-    _.each(coll, function(n,i){
-      raw.push(parseUrl(n));
-    });
-    res.json({
-      res: raw.join(',')
-    })
-  },
-  fb: function(req, res){
-    var arrIds = fbs.split(','),
-      reduced = [],
-      promises = [];
+  fb: function (req, res) {
+    //var arrIds = validjson.summary.fb.list.slice(0,200),
+    var arrIds = validjson.summary.fb.list,
+        reduced = [],
+        promises = [];
 
-    _.each(arrIds, function(n,i){
-      promises.push(new Promise(function(resolve, reject){
-        setTimeout(function(){
-          facebook.getUser(n)
-            .then(function(resu){
-              //var sql = '(null,"'+ resu.name + '","twitter","account","' + resu.id + '","' + resu.id + '",@APPID, now()), ';
-              var sql = {
-                object_name: resu.name,
-                content: resu.id,
-                extra_content: resu.id
-              };
-              console.log(JSON.stringify(sql)+',');
-              resolve(resu);
-            });
-        }, i*4500);
-      }));
+    _.each(arrIds, function (n, i) {
+      var group = Math.ceil(i / 49);
+      if (typeof(reduced[group]) === 'undefined') {
+        reduced[group] = []
+      }
+      reduced[group].push(n);
     });
 
-    //Promise.all(promises)
-    //  .then(function(results){
-    //    var require = _.map(results, function(n){
-    //      return {
-    //        object_name: n.name,
-    //        content: n.id,
-    //        extra_content: n.id
-    //      }
-    //    });
-    //
-    //  });
+    sails.log.verbose('Getting Facebook\'s users divided into '+reduced.length+' groups');
+    _.each(reduced, function (n, i) {
+      var ids = n.join(',');
+      promises.push(facebook.getUser(ids,i));
+    });
 
-    res.ok('wait and look at log.');
+    Promise.all(promises)
+      .then(function(results, rejects){
+        //console.log(results);
+        var flatten = _.flatten(_.map(results, function(n){
+          return _.map(n, function(o){
+            return o;
+          });
+        }));
+        //console.log(flatten);
+        var require = _.map(flatten, function(n){
+          return {
+            object_name: n.name || '',
+            content: n.id || '',
+            extra_content: n.id || ''
+          }
+        });
+        if(rejects) return res.json(rejects);
+        res.json(require);
+      });
   }
 };
