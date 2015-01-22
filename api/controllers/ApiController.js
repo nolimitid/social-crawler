@@ -168,7 +168,7 @@ module.exports = {
 
     var file = JSON.parse(fs.readFileSync('./file/' + media + '.json'));
     var sql = _.map(file, function (n) {
-      return '(object_name,media_id,stream_type,content,extra_content,app_id,date_created) VALUES ("' + n.object_name + '","' + media + '","account","' + n.content + '","' + n.extra_content + '", @APPID, now())'
+      return '("' + n.object_name + '","' + media + '","account","' + n.content + '","' + n.extra_content + '", @APPID, now())'
     }).join(',');
     res.ok(sql);
   }
