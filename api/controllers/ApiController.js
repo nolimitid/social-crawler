@@ -6,9 +6,12 @@
  */
 var Promise = require('bluebird');
 var fs = require('fs');
+var tosql = require('mongo-sql');
 
 var fulljson = JSON.parse(fs.readFileSync('./file/fullparsed.json'));
 var validjson = JSON.parse(fs.readFileSync('./file/validation.json'));
+//var keyword = JSON.parse(fs.readFileSync('./file/keyword.json'));
+var socialData = JSON.parse(fs.readFileSync('./file/social_data.json'));
 
 var parseUrl = function (url) {
   if (!url) return '';
@@ -171,5 +174,58 @@ module.exports = {
       return '("' + n.object_name + '","' + media + '","account","' + n.content + '","' + n.extra_content + '", @APPID, now())'
     }).join(',');
     res.ok(sql);
+  },
+  parsing: function (req, res) {
+    var result = [];
+    sails.log.verbose('social_data length: ' + socialData.length);
+    _.each(socialData, function (n) {
+      var stream_type = 'account';
+      //if (n.keyword_supertype === 2) {
+      //  stream_type = 'account'
+      //}
+      //else if (n.keyword_supertype === 1) {
+      //  stream_type = 'account'
+      //}
+
+      var media;
+      if (n.social_type === 1) {
+        media = 'twitter'
+      }
+      else if (n.social_type === 2) {
+        media = 'facebook'
+      }
+      else if (n.social_type === 3) {
+        media = 'facebook'
+      }
+
+      var object_name = n.socialaccount_id;
+      var content = n.social_id;
+      //var extra_content = n.extra_content;
+      var extra_content = n.display_name;
+
+      if (!(media && stream_type)) return;
+
+      result.push('("' + object_name + '","' + media + '","' + stream_type + '","' + content + '","' + extra_content + '", @APPID, now())');
+      //result.push({
+      //  object_name: object_name,
+      //  media_id: media,
+      //  stream_type: stream_type,
+      //  content: content,
+      //  extra_content: extra_content,
+      //  app_id: '@APPID',
+      //  date_created: 'NOW()'
+      //});
+    });
+
+    sails.log.verbose('Results length: ' + result.length)
+
+    //var sql = tosql.sql({
+    //  type: 'insert',
+    //  table: 'object',
+    //  columns: ['object_name', 'media_id', 'stream_type', 'content', 'extra_content', 'app_id', 'date_created'],
+    //  values: result
+    //}).toString();
+
+    res.ok(result.join(', '));
   }
 };
