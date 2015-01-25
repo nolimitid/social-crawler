@@ -1,0 +1,6255 @@
+
+[
+  {
+    "name": "Laurier",
+    "rawFb": "https://www.facebook.com/girlbestfriend",
+    "fb": "girlbestfriend",
+    "twitter": "GirlBestFriend"
+  },
+  {
+    "name": "Softex",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "SoftexGirlsRoom"
+  },
+  {
+    "name": "Anion",
+    "rawFb": "https://www.facebook.com/lovemoonanionpembalutsehat",
+    "fb": "lovemoonanionpembalutsehat",
+    "twitter": "AnionAsli"
+  },
+  {
+    "name": "Natesh",
+    "rawFb": "https://www.facebook.com/nateshpembalut",
+    "fb": "nateshpembalut",
+    "twitter": "infopembalut"
+  },
+  {
+    "name": "Kotex",
+    "rawFb": "https://www.facebook.com/kotexduniacewe?ref=ts&fref=ts",
+    "fb": "kotexduniacewe",
+    "twitter": "kotexduniacewe"
+  },
+  {
+    "name": "s.co",
+    "rawFb": "https://www.facebook.com/pages/Sco-Pembalut-Herbal/450987771610865?fref=ts",
+    "fb": "450987771610865",
+    "twitter": "scoindonesia"
+  },
+  {
+    "name": "Charm",
+    "rawFb": "https://www.facebook.com/ShinewithCharm?fref=nf",
+    "fb": "ShinewithCharm",
+    "twitter": "shinewithcharm"
+  },
+  {
+    "name": "Feminine Comfort",
+    "rawFb": "https://www.facebook.com/pages/PEMBALUT-HERBAL-AVAIL-fEMININE-cOMFORT/354981542517?ref=ts&fref=ts",
+    "fb": "354981542517",
+    "twitter": ""
+  },
+  {
+    "name": "Garuda",
+    "rawFb": "https://id-id.facebook.com/kacanggaruda",
+    "fb": "kacanggaruda",
+    "twitter": "KacangGaruda"
+  },
+  {
+    "name": "Dua Kelinci",
+    "rawFb": "https://id-id.facebook.com/DuaKelinciID",
+    "fb": "DuaKelinciID",
+    "twitter": "DuaKelinci"
+  },
+  {
+    "name": "Huggies",
+    "rawFb": "https://www.facebook.com/sahabatibu",
+    "fb": "sahabatibu",
+    "twitter": "sahabatibu"
+  },
+  {
+    "name": "Mamy Poko",
+    "rawFb": "https://www.facebook.com/MamyPokoIndonesia",
+    "fb": "MamyPokoIndonesia",
+    "twitter": "MamyPokoID"
+  },
+  {
+    "name": "Sweety",
+    "rawFb": "https://www.facebook.com/BundaCermat",
+    "fb": "BundaCermat",
+    "twitter": ""
+  },
+  {
+    "name": "Pampers",
+    "rawFb": "https://www.facebook.com/PampersIndonesia",
+    "fb": "PampersIndonesia",
+    "twitter": ""
+  },
+  {
+    "name": "Happy Nappy",
+    "rawFb": "https://www.facebook.com/HappyNappyIndonesia",
+    "fb": "HappyNappyIndonesia",
+    "twitter": "happynappyid"
+  },
+  {
+    "name": "ABC Gingseng",
+    "rawFb": "https://www.facebook.com/kopimantapabc",
+    "fb": "kopimantapabc",
+    "twitter": "kopimantapABC"
+  },
+  {
+    "name": "CNI",
+    "rawFb": "https://www.facebook.com/pages/CNI-Corporate/284302391685694",
+    "fb": "284302391685694",
+    "twitter": "CNI_Corporate"
+  },
+  {
+    "name": "Kapal Api",
+    "rawFb": "https://www.facebook.com/KopiKapalApi",
+    "fb": "KopiKapalApi",
+    "twitter": "KapalApi_ID"
+  },
+  {
+    "name": "Kopi 41",
+    "rawFb": "https://www.facebook.com/kopijahe41",
+    "fb": "kopijahe41",
+    "twitter": "kopijahe41"
+  },
+  {
+    "name": "Sidomuncul",
+    "rawFb": "https://www.facebook.com/pages/Kukubima-Kopiginseng/571984899529729",
+    "fb": "571984899529729",
+    "twitter": ""
+  },
+  {
+    "name": "Torabika",
+    "rawFb": "https://www.facebook.com/pages/Kopi-Torabika/215957281781084",
+    "fb": "215957281781084",
+    "twitter": "Kedai_Torabika"
+  },
+  {
+    "name": "Top Kopi",
+    "rawFb": "https://www.facebook.com/TOPCoffeeIndonesia",
+    "fb": "TOPCoffeeIndonesia",
+    "twitter": "TOPKopi"
+  },
+  {
+    "name": "Kukubima",
+    "rawFb": "https://www.facebook.com/pages/Kukubima-Kopiginseng/571984899529729",
+    "fb": "571984899529729",
+    "twitter": ""
+  },
+  {
+    "name": "Anget Sari",
+    "rawFb": "https://www.facebook.com/angetsari.id",
+    "fb": "angetsari.id",
+    "twitter": "AngetSariJahe"
+  },
+  {
+    "name": "HPA",
+    "rawFb": "https://www.facebook.com/kopiradixhpa",
+    "fb": "kopiradixhpa",
+    "twitter": ""
+  },
+  {
+    "name": "Luwak",
+    "rawFb": "https://www.facebook.com/kopiluwak.civetcoffee",
+    "fb": "kopiluwak.civetcoffee",
+    "twitter": "KafeKopiLuwak"
+  },
+  {
+    "name": "Nescafe",
+    "rawFb": "https://www.facebook.com/NescafeID?brand_redir=1",
+    "fb": "NescafeID",
+    "twitter": "IniBaruHidup"
+  },
+  {
+    "name": "Kopi Lanang",
+    "rawFb": "https://www.facebook.com/kopilanangmalangsari",
+    "fb": "kopilanangmalangsari",
+    "twitter": ""
+  },
+  {
+    "name": "ABC White Coffee",
+    "rawFb": "https://www.facebook.com/kopimantapabc",
+    "fb": "kopimantapabc",
+    "twitter": "kopimantapABC"
+  },
+  {
+    "name": "Aik Cheong White Coffee",
+    "rawFb": "https://www.facebook.com/pages/Aik-Cheong-Indonesia/89487173018",
+    "fb": "89487173018",
+    "twitter": "AikCheongIndo"
+  },
+  {
+    "name": "Indocafe White Coffee",
+    "rawFb": "https://www.facebook.com/pages/Indocafe-Coffee-Mix/52030028053?sk=timeline",
+    "fb": "52030028053",
+    "twitter": ""
+  },
+  {
+    "name": "Kapal Api White Coffee",
+    "rawFb": "https://www.facebook.com/KopiKapalApi",
+    "fb": "KopiKapalApi",
+    "twitter": "KapalApi_ID"
+  },
+  {
+    "name": "King Star Ipoh White Coffee",
+    "rawFb": "https://www.facebook.com/pages/KING-STAR-Ipoh-White-Coffee/152170381472524?sk=timeline&ref=page_internal",
+    "fb": "152170381472524",
+    "twitter": ""
+  },
+  {
+    "name": "Luwak White Coffee",
+    "rawFb": "https://www.facebook.com/KopiLuwakWhiteKoffee",
+    "fb": "KopiLuwakWhiteKoffee",
+    "twitter": "luwakwhitekoffi"
+  },
+  {
+    "name": "Top Coffee",
+    "rawFb": "https://www.facebook.com/TOPCoffeeIndonesia",
+    "fb": "TOPCoffeeIndonesia",
+    "twitter": "TOPKopi"
+  },
+  {
+    "name": "Torabika",
+    "rawFb": "https://www.facebook.com/pages/Kopi-Torabika/215957281781084",
+    "fb": "215957281781084",
+    "twitter": "Kedai_Torabika"
+  },
+  {
+    "name": "Ayam Merak",
+    "rawFb": "https://www.facebook.com/pages/Kopi-Ayam-Merak/507962272578846",
+    "fb": "507962272578846",
+    "twitter": "ayammerak_id"
+  },
+  {
+    "name": "Kopi jahe sidomuncul",
+    "rawFb": "https://www.facebook.com/pages/Kopi-Jahe-Sidomuncul/155192021295653",
+    "fb": "155192021295653",
+    "twitter": "Sidojahe"
+  },
+  {
+    "name": "GOOD DAY",
+    "rawFb": "https://www.facebook.com/kopiGoodDay.indonesia",
+    "fb": "kopiGoodDay.indonesia",
+    "twitter": "GoodDayID"
+  },
+  {
+    "name": "78 KOPI",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kopiko78"
+  },
+  {
+    "name": "ABC",
+    "rawFb": "https://www.facebook.com/kopimantapabc",
+    "fb": "kopimantapabc",
+    "twitter": "kopimantapABC"
+  },
+  {
+    "name": "KAPAL API",
+    "rawFb": "https://www.facebook.com/KopiKapalApi",
+    "fb": "KopiKapalApi",
+    "twitter": "KapalApi_ID"
+  },
+  {
+    "name": "TOP COFFE",
+    "rawFb": "https://www.facebook.com/TOPCoffeeIndonesia",
+    "fb": "TOPCoffeeIndonesia",
+    "twitter": "TOPKopi"
+  },
+  {
+    "name": "Kratindeng",
+    "rawFb": "facebook.com/MyKratingdaeng",
+    "fb": "MyKratingdaeng",
+    "twitter": "Kratingdaeng"
+  },
+  {
+    "name": "Hemaviton",
+    "rawFb": "facebook.com/hemaviton",
+    "fb": "hemaviton",
+    "twitter": "hemaviton_id"
+  },
+  {
+    "name": "M150",
+    "rawFb": "facebook.com/M150Indonesia",
+    "fb": "M150Indonesia",
+    "twitter": "M150ID"
+  },
+  {
+    "name": "Proman",
+    "rawFb": "facebook.com/Proman5Jam",
+    "fb": "Proman5Jam",
+    "twitter": "Proman5Jam"
+  },
+  {
+    "name": "Mizone",
+    "rawFb": "facebook.com/mizone ",
+    "fb": "mizone",
+    "twitter": "mizoneid"
+  },
+  {
+    "name": "Pocari Sweat",
+    "rawFb": "facebook.com/pocariID",
+    "fb": "pocariID",
+    "twitter": "pocariID"
+  },
+  {
+    "name": "Extra Joss",
+    "rawFb": "facebook.com/info.extrajoss",
+    "fb": "info.extrajoss",
+    "twitter": "ExtraJossFans"
+  },
+  {
+    "name": "Kukubima",
+    "rawFb": "facebook.com/kukubimaenergi",
+    "fb": "kukubimaenergi",
+    "twitter": "kukubima_energi"
+  },
+  {
+    "name": "Coolant",
+    "rawFb": "facebook.com/CoolantID ",
+    "fb": "CoolantID",
+    "twitter": "CoolantID"
+  },
+  {
+    "name": "Super 02",
+    "rawFb": "facebook.com/supero2",
+    "fb": "supero2",
+    "twitter": "SuperO2"
+  },
+  {
+    "name": "Ena O",
+    "rawFb": "facebook.com/EnaOGeneration",
+    "fb": "EnaOGeneration",
+    "twitter": ""
+  },
+  {
+    "name": "YouC1000",
+    "rawFb": "facebook.com/youcisotonic",
+    "fb": "youcisotonic",
+    "twitter": "YouCIsotonic"
+  },
+  {
+    "name": "Fatigon Hydro",
+    "rawFb": "facebook.com/HydroCoco",
+    "fb": "HydroCoco",
+    "twitter": "My_HydroCoco"
+  },
+  {
+    "name": "Kiranti",
+    "rawFb": "facebook.com/diarykiranti",
+    "fb": "diarykiranti",
+    "twitter": "diarykiranti"
+  },
+  {
+    "name": "Spirit",
+    "rawFb": "facebook.com/fatigonspirit",
+    "fb": "fatigonspirit",
+    "twitter": "Fatigon_Spirit"
+  },
+  {
+    "name": "Gatorade",
+    "rawFb": "facebook.com/Gatorade",
+    "fb": "Gatorade",
+    "twitter": "Gatorade"
+  },
+  {
+    "name": "L-men",
+    "rawFb": "facebook.com/LMen.fanpage",
+    "fb": "LMen.fanpage",
+    "twitter": "LMen"
+  },
+  {
+    "name": "Extra joss",
+    "rawFb": "facebook.com/info.extrajoss",
+    "fb": "info.extrajoss",
+    "twitter": "ExtraJossFans"
+  },
+  {
+    "name": "Hemaviton Jreng",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ngejrengs"
+  },
+  {
+    "name": "Kuku Bima Ener-G",
+    "rawFb": "facebook.com/kukubimaenergi",
+    "fb": "kukubimaenergi",
+    "twitter": "kukubima_energi"
+  },
+  {
+    "name": "AIA",
+    "rawFb": "https://www.facebook.com/AIAAsuransiIndonesia",
+    "fb": "AIAAsuransiIndonesia",
+    "twitter": ""
+  },
+  {
+    "name": "Allianz",
+    "rawFb": "https://www.facebook.com/AllianzIndonesiaCommunity",
+    "fb": "AllianzIndonesiaCommunity",
+    "twitter": "AllianzId"
+  },
+  {
+    "name": "Asuransi Jiwa Sraya",
+    "rawFb": "https://www.facebook.com/asuransi.jiwasraya.1859",
+    "fb": "asuransi.jiwasraya.1859",
+    "twitter": "Jiwasraya"
+  },
+  {
+    "name": "Axa Life Mandiri",
+    "rawFb": "https://www.facebook.com/axamandiri",
+    "fb": "axamandiri",
+    "twitter": "AXA_Mandiri"
+  },
+  {
+    "name": "Bumi Asih Jaya",
+    "rawFb": "https://www.facebook.com/pages/BUMI-ASIH-JAYA/424843504198910",
+    "fb": "424843504198910",
+    "twitter": ""
+  },
+  {
+    "name": "Jamsostek",
+    "rawFb": "https://www.facebook.com/BPJSTKinfo",
+    "fb": "BPJSTKinfo",
+    "twitter": "BPJSTKinfo"
+  },
+  {
+    "name": "Jiwa Bersama Bumiputera",
+    "rawFb": "https://www.facebook.com/AJBBumiputera1912",
+    "fb": "AJBBumiputera1912",
+    "twitter": "bumiputera"
+  },
+  {
+    "name": "Manu Life",
+    "rawFb": "Manulife_ID",
+    "fb": "Manulife_ID",
+    "twitter": ""
+  },
+  {
+    "name": "Prudential",
+    "rawFb": "https://www.facebook.com/prudential.indonesia",
+    "fb": "prudential.indonesia",
+    "twitter": "myprudential"
+  },
+  {
+    "name": "Sequis Life",
+    "rawFb": "https://www.facebook.com/AsuransiSequislifeIndonesia",
+    "fb": "AsuransiSequislifeIndonesia",
+    "twitter": "Sequislife"
+  },
+  {
+    "name": "Sinar Mas",
+    "rawFb": "https://www.facebook.com/pages/Asuransi-Sinar-Mas-Official/107223592701139",
+    "fb": "107223592701139",
+    "twitter": "as_sinarmas"
+  },
+  {
+    "name": "BUMI PUTERA",
+    "rawFb": "https://www.facebook.com/AJBBumiputera1912",
+    "fb": "AJBBumiputera1912",
+    "twitter": "bumiputera"
+  },
+  {
+    "name": "PANIN",
+    "rawFb": "https://www.facebook.com/pages/Panin-BANK/229769927036879",
+    "fb": "229769927036879",
+    "twitter": "Panin_Bank"
+  },
+  {
+    "name": "JIWA SRAYA",
+    "rawFb": "https://www.facebook.com/asuransi.jiwasraya.1859",
+    "fb": "asuransi.jiwasraya.1859",
+    "twitter": "Jiwasraya"
+  },
+  {
+    "name": "JASA RAHARJA",
+    "rawFb": "https://www.facebook.com/JasaRaharja",
+    "fb": "JasaRaharja",
+    "twitter": "jasaraharja_pst"
+  },
+  {
+    "name": "ASURANSI BRI",
+    "rawFb": "https://www.facebook.com/BankBRIofficial",
+    "fb": "BankBRIofficial",
+    "twitter": "BANKBRI_ID"
+  },
+  {
+    "name": "BRINGIN LIFE",
+    "rawFb": "https://www.facebook.com/pages/PT-Asuransi-Jiwa-Bringin-Life/360847693984321",
+    "fb": "360847693984321",
+    "twitter": "BRIngin_Life"
+  },
+  {
+    "name": "BPJS",
+    "rawFb": "https://www.facebook.com/BpjsInfo",
+    "fb": "BpjsInfo",
+    "twitter": "INFOBPJS"
+  },
+  {
+    "name": "ASKES ",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ptaskes"
+  },
+  {
+    "name": "ASURANSI CENTRAL ASIA",
+    "rawFb": "https://www.facebook.com/acaasuransi/timeline",
+    "fb": "timeline",
+    "twitter": "acaasuransi"
+  },
+  {
+    "name": "BUMI ASIH JAYA",
+    "rawFb": "https://www.facebook.com/pages/BUMI-ASIH-JAYA/424843504198910",
+    "fb": "424843504198910",
+    "twitter": ""
+  },
+  {
+    "name": "MANDIRI",
+    "rawFb": "https://www.facebook.com/mandirifiesta",
+    "fb": "mandirifiesta",
+    "twitter": "bankmandiri"
+  },
+  {
+    "name": "CAR",
+    "rawFb": "https://www.facebook.com/pages/CAR-Central-Asia-Raya-Asuransi-Jiwa/1423982334512197",
+    "fb": "1423982334512197",
+    "twitter": ""
+  },
+  {
+    "name": "SUN LIFE",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "asuransisunlife"
+  },
+  {
+    "name": "BNI LIFE",
+    "rawFb": "https://www.facebook.com/pages/PT-BNI-Life-Insurance/128141253911399",
+    "fb": "128141253911399",
+    "twitter": ""
+  },
+  {
+    "name": "TA KAFUL",
+    "rawFb": "https://www.facebook.com/asuransitakaful",
+    "fb": "asuransitakaful",
+    "twitter": ""
+  },
+  {
+    "name": "ACE",
+    "rawFb": "https://www.facebook.com/pages/ACE-Insurance-Indonesia/238698282846342",
+    "fb": "238698282846342",
+    "twitter": ""
+  },
+  {
+    "name": "DANAMON",
+    "rawFb": "https://www.facebook.com/kartudanamon",
+    "fb": "kartudanamon",
+    "twitter": "kartudanamon"
+  },
+  {
+    "name": "MNC LIFE",
+    "rawFb": "https://www.facebook.com/MNCLIFEINSURANCE",
+    "fb": "MNCLIFEINSURANCE",
+    "twitter": "MNC_LIFE"
+  },
+  {
+    "name": "ADIRA",
+    "rawFb": "https://www.facebook.com/pages/Asuransi-Marine-Cargo-Adira-Insurance/157831064342505",
+    "fb": "157831064342505",
+    "twitter": "AdiraIns"
+  },
+  {
+    "name": "JAMKESMAS",
+    "rawFb": "https://www.facebook.com/pages/JAMKESMAS-Jaminan-Kesehatan-Masyarakat/57859554896",
+    "fb": "57859554896",
+    "twitter": ""
+  },
+  {
+    "name": "Zurich",
+    "rawFb": "https://www.facebook.com/ZurichIndonesia",
+    "fb": "ZurichIndonesia",
+    "twitter": "Zurich_ID"
+  },
+  {
+    "name": "ACA",
+    "rawFb": "https://www.facebook.com/acaasuransi/timeline",
+    "fb": "timeline",
+    "twitter": "acaasuransi"
+  },
+  {
+    "name": "Common Walth",
+    "rawFb": "https://www.facebook.com/CommbankID",
+    "fb": "CommbankID",
+    "twitter": "CommBank_ID"
+  },
+  {
+    "name": "Sunsilk",
+    "rawFb": "https://www.facebook.com/SunsilkIndonesia",
+    "fb": "SunsilkIndonesia",
+    "twitter": "SunsilkID"
+  },
+  {
+    "name": "Garnier",
+    "rawFb": "https://www.facebook.com/GarnierIndonesia",
+    "fb": "GarnierIndonesia",
+    "twitter": "GarnierID"
+  },
+  {
+    "name": "Vaseline",
+    "rawFb": "https://www.facebook.com/VaselineID?brand_redir=1",
+    "fb": "VaselineID",
+    "twitter": "VaselineID"
+  },
+  {
+    "name": "Clear",
+    "rawFb": "https://www.facebook.com/ClearIndonesia",
+    "fb": "ClearIndonesia",
+    "twitter": "CLEARIndonesia"
+  },
+  {
+    "name": "Veet",
+    "rawFb": "https://www.facebook.com/veet.id",
+    "fb": "veet.id",
+    "twitter": "Veet_ID"
+  },
+  {
+    "name": "Oriflame",
+    "rawFb": "https://www.facebook.com/id.oriflame?brand_redir=1",
+    "fb": "id.oriflame",
+    "twitter": "id_oriflame"
+  },
+  {
+    "name": "AXE",
+    "rawFb": "https://www.facebook.com/AXE.ID",
+    "fb": "AXE.ID",
+    "twitter": "AXE_ID"
+  },
+  {
+    "name": "LUX",
+    "rawFb": "https://www.facebook.com/LuxIndonesia",
+    "fb": "LuxIndonesia",
+    "twitter": "LUX_ID"
+  },
+  {
+    "name": "Bodyshop",
+    "rawFb": "https://www.facebook.com/TheBodyShopIndonesia",
+    "fb": "TheBodyShopIndonesia",
+    "twitter": "TheBodyShopIndo"
+  },
+  {
+    "name": "Zinc",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ZincActivateYou"
+  },
+  {
+    "name": "LorealParis",
+    "rawFb": "https://www.facebook.com/LOrealParisID",
+    "fb": "LOrealParisID",
+    "twitter": "LorealParisID"
+  },
+  {
+    "name": "Olay",
+    "rawFb": "https://www.facebook.com/OlayIndonesia",
+    "fb": "OlayIndonesia",
+    "twitter": "OlayIndonesia"
+  },
+  {
+    "name": "Head & Shoulders",
+    "rawFb": "https://www.facebook.com/HeadandShouldersIndonesia",
+    "fb": "HeadandShouldersIndonesia",
+    "twitter": "HeadShouldersID"
+  },
+  {
+    "name": "Pantene",
+    "rawFb": "https://www.facebook.com/panteneindonesia",
+    "fb": "panteneindonesia",
+    "twitter": "PanteneID"
+  },
+  {
+    "name": "LorealMen",
+    "rawFb": "https://www.facebook.com/MenExpertIndonesia",
+    "fb": "MenExpertIndonesia",
+    "twitter": "LorealMenID"
+  },
+  {
+    "name": "Clean and Clear",
+    "rawFb": "https://www.facebook.com/cleanclearindonesia",
+    "fb": "cleanclearindonesia",
+    "twitter": "cleanandclearID"
+  },
+  {
+    "name": "Citra",
+    "rawFb": "https://www.facebook.com/pages/Rumah-Cantik-Citra/79003217653",
+    "fb": "79003217653",
+    "twitter": "CantikCitra"
+  },
+  {
+    "name": "VaselineMen",
+    "rawFb": "https://www.facebook.com/VaselineMEN",
+    "fb": "VaselineMEN",
+    "twitter": "vaselinemen"
+  },
+  {
+    "name": "Ponds",
+    "rawFb": "https://www.facebook.com/pondsindonesia",
+    "fb": "pondsindonesia",
+    "twitter": "myponds"
+  },
+  {
+    "name": "Rexona",
+    "rawFb": "https://www.facebook.com/RexonaID?brand_redir=1",
+    "fb": "RexonaID",
+    "twitter": "rexona_id"
+  },
+  {
+    "name": "Emeron",
+    "rawFb": "https://www.facebook.com/EmeronLovely",
+    "fb": "EmeronLovely",
+    "twitter": "EmeronLovely"
+  },
+  {
+    "name": "latulip",
+    "rawFb": "https://www.facebook.com/pages/La-Tulipe-Cosmetiques-OFFICIAL/292128914221835",
+    "fb": "292128914221835",
+    "twitter": ""
+  },
+  {
+    "name": "mirabella",
+    "rawFb": "https://www.facebook.com/MirabellaCosmeticS",
+    "fb": "MirabellaCosmeticS",
+    "twitter": "Mirabella_MT"
+  },
+  {
+    "name": "mustika ratu",
+    "rawFb": "https://www.facebook.com/pages/mustika-ratu/156153587777254",
+    "fb": "156153587777254",
+    "twitter": "mustikaratu"
+  },
+  {
+    "name": "oriflame",
+    "rawFb": "https://www.facebook.com/id.oriflame?brand_redir=1",
+    "fb": "id.oriflame",
+    "twitter": "id_oriflame"
+  },
+  {
+    "name": "pixy",
+    "rawFb": "https://www.facebook.com/PIXYIndonesiaOfficial",
+    "fb": "PIXYIndonesiaOfficial",
+    "twitter": "PixyIndonesia"
+  },
+  {
+    "name": "pond's",
+    "rawFb": "https://www.facebook.com/pondsindonesia",
+    "fb": "pondsindonesia",
+    "twitter": "myponds"
+  },
+  {
+    "name": "revlon",
+    "rawFb": "https://www.facebook.com/RevlonID",
+    "fb": "RevlonID",
+    "twitter": "REVLONid"
+  },
+  {
+    "name": "sari ayu",
+    "rawFb": "https://www.facebook.com/pages/Sariayu/124990560860823",
+    "fb": "124990560860823",
+    "twitter": "Sariayu_MT"
+  },
+  {
+    "name": "viva",
+    "rawFb": "https://www.facebook.com/VivaCosmetics",
+    "fb": "VivaCosmetics",
+    "twitter": "VivaCosmetics"
+  },
+  {
+    "name": "wardah",
+    "rawFb": "https://www.facebook.com/wardahbeauty",
+    "fb": "wardahbeauty",
+    "twitter": "wardahbeauty"
+  },
+  {
+    "name": "maybeline",
+    "rawFb": "https://www.facebook.com/MaybellineINA",
+    "fb": "MaybellineINA",
+    "twitter": "MaybellineINA"
+  },
+  {
+    "name": "marina",
+    "rawFb": "https://www.facebook.com/pages/Marina-Cosmetics/133772801981",
+    "fb": "133772801981",
+    "twitter": "MarinaCosmetic"
+  },
+  {
+    "name": "lip ice",
+    "rawFb": "https://www.facebook.com/lipiceindonesia",
+    "fb": "lipiceindonesia",
+    "twitter": "lipiceID"
+  },
+  {
+    "name": "loreal",
+    "rawFb": "https://www.facebook.com/LOrealParisID",
+    "fb": "LOrealParisID",
+    "twitter": "LorealParisID"
+  },
+  {
+    "name": "purbasari",
+    "rawFb": "https://www.facebook.com/Purbasari.Indonesia",
+    "fb": "Purbasari.Indonesia",
+    "twitter": "Purbasari_ID"
+  },
+  {
+    "name": "fanbo",
+    "rawFb": "https://www.facebook.com/FanboCosmetics",
+    "fb": "FanboCosmetics",
+    "twitter": "fanbofantastic"
+  },
+  {
+    "name": "ultima",
+    "rawFb": "https://www.facebook.com/ultimaIIindonesia",
+    "fb": "ultimaIIindonesia",
+    "twitter": "ULTIMA_id"
+  },
+  {
+    "name": "sofie martin",
+    "rawFb": "https://www.facebook.com/sophiemartinesia",
+    "fb": "sophiemartinesia",
+    "twitter": "Sophie_smarang"
+  },
+  {
+    "name": "putri",
+    "rawFb": "https://www.facebook.com/MustikaPuteri",
+    "fb": "MustikaPuteri",
+    "twitter": "mustikaputeri"
+  },
+  {
+    "name": "lancome",
+    "rawFb": "https://www.facebook.com/pages/Lancome/143474012340307",
+    "fb": "143474012340307",
+    "twitter": "LancomeID"
+  },
+  {
+    "name": "inez",
+    "rawFb": "https://www.facebook.com/pages/Inez-Cosmetics/217347921617477",
+    "fb": "217347921617477",
+    "twitter": "inezcosmetics"
+  },
+  {
+    "name": "putri",
+    "rawFb": "https://www.facebook.com/MustikaPuteri",
+    "fb": "MustikaPuteri",
+    "twitter": "mustikaputeri"
+  },
+  {
+    "name": "marina",
+    "rawFb": "https://www.facebook.com/pages/Marina-Cosmetics/133772801981",
+    "fb": "133772801981",
+    "twitter": "MarinaCosmetic"
+  },
+  {
+    "name": "mary kay",
+    "rawFb": "https://www.facebook.com/MaryKayIDN",
+    "fb": "MaryKayIDN",
+    "twitter": ""
+  },
+  {
+    "name": "olay",
+    "rawFb": "https://www.facebook.com/OlayIndonesia",
+    "fb": "OlayIndonesia",
+    "twitter": "OlayIndonesia"
+  },
+  {
+    "name": "caring colour",
+    "rawFb": "https://www.facebook.com/caringcolours.ycpa",
+    "fb": "caringcolours.ycpa",
+    "twitter": "caring_colours"
+  },
+  {
+    "name": "nivea",
+    "rawFb": "https://www.facebook.com/niveaid",
+    "fb": "niveaid",
+    "twitter": "NIVEA_ID"
+  },
+  {
+    "name": "ratu ayu",
+    "rawFb": "https://www.facebook.com/pages/Ratu-Ayu-Bio-AHA/134308649970017",
+    "fb": "134308649970017",
+    "twitter": ""
+  },
+  {
+    "name": "PAC",
+    "rawFb": "https://www.facebook.com/pacmarthatilaar?filter=3",
+    "fb": "pacmarthatilaar",
+    "twitter": "PAC_MT"
+  },
+  {
+    "name": "silky girl",
+    "rawFb": "https://www.facebook.com/SILKYGIRLIndonesia",
+    "fb": "SILKYGIRLIndonesia",
+    "twitter": "SILKYGIRLovers"
+  },
+  {
+    "name": "Citra",
+    "rawFb": "facebook.com/pages/Citra-Hand-and-body-lotion/131897073504018",
+    "fb": "131897073504018",
+    "twitter": ""
+  },
+  {
+    "name": "Herborist",
+    "rawFb": "facebook.com/HerboristNaturalCare",
+    "fb": "HerboristNaturalCare",
+    "twitter": "herborist_id"
+  },
+  {
+    "name": "Mustika ratu",
+    "rawFb": "facebook.com/mustikaratuIND",
+    "fb": "mustikaratuIND",
+    "twitter": "mustikaratuIND"
+  },
+  {
+    "name": "Pond's",
+    "rawFb": "facebook.com/pondsindonesia",
+    "fb": "pondsindonesia",
+    "twitter": "myponds"
+  },
+  {
+    "name": "Purbasari",
+    "rawFb": "facebook.com/Purbasari.Indonesia",
+    "fb": "Purbasari.Indonesia",
+    "twitter": "Purbasari_ID"
+  },
+  {
+    "name": "Sariayu",
+    "rawFb": "facebook.com/sariayu.MT",
+    "fb": "sariayu.MT",
+    "twitter": "Sariayu_MT"
+  },
+  {
+    "name": "Shinzui",
+    "rawFb": "facebook.com/PutihItuShinzui",
+    "fb": "PutihItuShinzui",
+    "twitter": "PutihituShinzui"
+  },
+  {
+    "name": "Sumber Ayu",
+    "rawFb": "facebook.com/pages/Sumber-Ayu",
+    "fb": "Sumber-Ayu",
+    "twitter": ""
+  },
+  {
+    "name": "Wardah",
+    "rawFb": "facebook.com/wardahbeauty",
+    "fb": "wardahbeauty",
+    "twitter": "wardahbeauty"
+  },
+  {
+    "name": "LUX",
+    "rawFb": "facebook.com/LuxIndonesia",
+    "fb": "LuxIndonesia",
+    "twitter": "LUX_ID"
+  },
+  {
+    "name": "LIFE BOY",
+    "rawFb": "facebook.com/LifebuoyIndonesia",
+    "fb": "LifebuoyIndonesia",
+    "twitter": "BeritaSehatID"
+  },
+  {
+    "name": "BIORE",
+    "rawFb": "facebook.com/idbiore",
+    "fb": "idbiore",
+    "twitter": "IDbiore"
+  },
+  {
+    "name": "MARINA",
+    "rawFb": "facebook.com/sahabat.marina",
+    "fb": "sahabat.marina",
+    "twitter": "SahabatMarina"
+  },
+  {
+    "name": "VIVA",
+    "rawFb": "facebook.com/VivaCosmetics",
+    "fb": "VivaCosmetics",
+    "twitter": "VivaCosmetics"
+  },
+  {
+    "name": "OVALE",
+    "rawFb": "facebook.com/OvaleBeauty",
+    "fb": "OvaleBeauty",
+    "twitter": "OvaleBeauty"
+  },
+  {
+    "name": "VIVELLE",
+    "rawFb": "facebook.com/pages/Vivelle/183928901635651",
+    "fb": "183928901635651",
+    "twitter": "VivelleCare"
+  },
+  {
+    "name": "OLAY",
+    "rawFb": "facebook.com/OlayIndonesia",
+    "fb": "OlayIndonesia",
+    "twitter": "OlayIndonesia"
+  },
+  {
+    "name": "VASELLINE",
+    "rawFb": "facebook.com/VaselineID",
+    "fb": "VaselineID",
+    "twitter": "VaselineID"
+  },
+  {
+    "name": "GARNIER",
+    "rawFb": "facebook.com/GarnierIndonesia",
+    "fb": "GarnierIndonesia",
+    "twitter": "GarnierID"
+  },
+  {
+    "name": "NIVEA",
+    "rawFb": "facebook.com/niveaid",
+    "fb": "niveaid",
+    "twitter": "NIVEA_ID"
+  },
+  {
+    "name": "LATULIP",
+    "rawFb": "facebook.com/pages/La-Tulipe-Cosmetiques-OFFICIAL/292128914221835",
+    "fb": "292128914221835",
+    "twitter": "LATULIPE_COSM"
+  },
+  {
+    "name": "DOVE",
+    "rawFb": "facebook.com/doveindonesia",
+    "fb": "doveindonesia",
+    "twitter": "Dove_IDN"
+  },
+  {
+    "name": "HADI SUWARNO",
+    "rawFb": "facebook.com/RudyHadisuwarnoCosmetics",
+    "fb": "RudyHadisuwarnoCosmetics",
+    "twitter": "RudyHadisuwarno"
+  },
+  {
+    "name": "SALSA",
+    "rawFb": "facebook.com/SalsaCosmetics",
+    "fb": "SalsaCosmetics",
+    "twitter": "SALSACOSMETICS"
+  },
+  {
+    "name": "BODY SHOP",
+    "rawFb": "facebook.com/TheBodyShopIndonesia",
+    "fb": "TheBodyShopIndonesia",
+    "twitter": "TheBodyShopIndo"
+  },
+  {
+    "name": "BALI RATIH",
+    "rawFb": "facebook.com/narcheese.baliratih",
+    "fb": "narcheese.baliratih",
+    "twitter": "baliratih"
+  },
+  {
+    "name": "ORIFLAME",
+    "rawFb": "facebook.com/id.oriflame",
+    "fb": "id.oriflame",
+    "twitter": "id_oriflame"
+  },
+  {
+    "name": "PIXI",
+    "rawFb": "facebook.com/PIXYIndonesiaOfficial",
+    "fb": "PIXYIndonesiaOfficial",
+    "twitter": "PixyIndonesia"
+  },
+  {
+    "name": "HERBORIST",
+    "rawFb": "facebook.com/HerboristNaturalCare",
+    "fb": "HerboristNaturalCare",
+    "twitter": "herborist_id"
+  },
+  {
+    "name": "RISTRA",
+    "rawFb": "facebook.com/biokosmt",
+    "fb": "biokosmt",
+    "twitter": "Biokos_MT"
+  },
+  {
+    "name": "HAZELINE",
+    "rawFb": "facebook.com/inezcosmetics",
+    "fb": "inezcosmetics",
+    "twitter": "inezcosmetics"
+  },
+  {
+    "name": "JAHWA",
+    "rawFb": "facebook.com/NatashaSkinCare",
+    "fb": "NatashaSkinCare",
+    "twitter": "NatashaSkinCare"
+  },
+  {
+    "name": "PUTRI",
+    "rawFb": "facebook.com/id.oriflame",
+    "fb": "id.oriflame",
+    "twitter": "id_oriflame"
+  },
+  {
+    "name": "ORIFLAME",
+    "rawFb": "facebook.com/KaoBiore",
+    "fb": "KaoBiore",
+    "twitter": "BioreIndonesia"
+  },
+  {
+    "name": "BODY SHOP",
+    "rawFb": "facebook.com/tje.fuk.12",
+    "fb": "tje.fuk.12",
+    "twitter": "TjeFuk"
+  },
+  {
+    "name": "fanbo",
+    "rawFb": "https://www.facebook.com/FanboCosmetics",
+    "fb": "FanboCosmetics",
+    "twitter": ""
+  },
+  {
+    "name": "latulip",
+    "rawFb": "https://www.facebook.com/pages/La-Tulipe-Cosmetiques-OFFICIAL/292128914221835",
+    "fb": "292128914221835",
+    "twitter": ""
+  },
+  {
+    "name": "marcks",
+    "rawFb": "https://www.facebook.com/pages/Marcks-Venus/231935806819862",
+    "fb": "231935806819862",
+    "twitter": ""
+  },
+  {
+    "name": "marina",
+    "rawFb": "https://www.facebook.com/pages/Marina-Cosmetics/133772801981",
+    "fb": "133772801981",
+    "twitter": "MarinaCosmetic"
+  },
+  {
+    "name": "mustika ratu",
+    "rawFb": "https://www.facebook.com/pages/mustika-ratu/156153587777254",
+    "fb": "156153587777254",
+    "twitter": "mustikaratu"
+  },
+  {
+    "name": "pixy",
+    "rawFb": "https://www.facebook.com/PIXYIndonesiaOfficial",
+    "fb": "PIXYIndonesiaOfficial",
+    "twitter": "PixyIndonesia"
+  },
+  {
+    "name": "pond's",
+    "rawFb": "https://www.facebook.com/pondsindonesia",
+    "fb": "pondsindonesia",
+    "twitter": "myponds"
+  },
+  {
+    "name": "sari ayu",
+    "rawFb": "https://www.facebook.com/pages/Sariayu/124990560860823",
+    "fb": "124990560860823",
+    "twitter": "Sariayu_MT"
+  },
+  {
+    "name": "viva",
+    "rawFb": "https://www.facebook.com/VivaCosmetics",
+    "fb": "VivaCosmetics",
+    "twitter": "VivaCosmetics"
+  },
+  {
+    "name": "wardah",
+    "rawFb": "https://www.facebook.com/wardahbeauty",
+    "fb": "wardahbeauty",
+    "twitter": "wardahbeauty"
+  },
+  {
+    "name": "revlon",
+    "rawFb": "https://www.facebook.com/RevlonID",
+    "fb": "RevlonID",
+    "twitter": "REVLONid"
+  },
+  {
+    "name": "mirabella",
+    "rawFb": "https://www.facebook.com/MirabellaCosmeticS",
+    "fb": "MirabellaCosmeticS",
+    "twitter": "Mirabella_MT"
+  },
+  {
+    "name": "loreal",
+    "rawFb": "https://www.facebook.com/LOrealParisID",
+    "fb": "LOrealParisID",
+    "twitter": "LorealParisID"
+  },
+  {
+    "name": "maybeline",
+    "rawFb": "https://www.facebook.com/MaybellineINA",
+    "fb": "MaybellineINA",
+    "twitter": "MaybellineINA"
+  },
+  {
+    "name": "pigeon",
+    "rawFb": "https://www.facebook.com/PigeonTeens",
+    "fb": "PigeonTeens",
+    "twitter": ""
+  },
+  {
+    "name": "inez",
+    "rawFb": "https://www.facebook.com/pages/Inez-Cosmetics/217347921617477",
+    "fb": "217347921617477",
+    "twitter": "inezcosmetics"
+  },
+  {
+    "name": "oriflame",
+    "rawFb": "https://www.facebook.com/id.oriflame?brand_redir=1",
+    "fb": "id.oriflame",
+    "twitter": "id_oriflame"
+  },
+  {
+    "name": "red A",
+    "rawFb": "https://www.facebook.com/RedACosmetics",
+    "fb": "RedACosmetics",
+    "twitter": "myRed_A"
+  },
+  {
+    "name": "clarista",
+    "rawFb": "https://www.facebook.com/clarestaindonesia",
+    "fb": "clarestaindonesia",
+    "twitter": ""
+  },
+  {
+    "name": "cusson",
+    "rawFb": "https://www.facebook.com/CussonsMumMe.Id",
+    "fb": "CussonsMumMe.Id",
+    "twitter": "CussonsMumMe_ID"
+  },
+  {
+    "name": "switsal",
+    "rawFb": "https://www.facebook.com/ZwitsalBabyCorner",
+    "fb": "ZwitsalBabyCorner",
+    "twitter": "zwitsal_id"
+  },
+  {
+    "name": "ultima",
+    "rawFb": "https://www.facebook.com/ultimaIIindonesia",
+    "fb": "ultimaIIindonesia",
+    "twitter": "ULTIMA_id"
+  },
+  {
+    "name": "avon",
+    "rawFb": "https://www.facebook.com/pages/Avon-indonesia/348176248590774",
+    "fb": "348176248590774",
+    "twitter": ""
+  },
+  {
+    "name": "caring colours",
+    "rawFb": "https://www.facebook.com/caringcolours.ycpa",
+    "fb": "caringcolours.ycpa",
+    "twitter": "caring_colours"
+  },
+  {
+    "name": "venus",
+    "rawFb": "https://www.facebook.com/pages/Marcks-Venus/231935806819862",
+    "fb": "231935806819862",
+    "twitter": ""
+  },
+  {
+    "name": "garnier",
+    "rawFb": "https://www.facebook.com/GarnierIndonesia",
+    "fb": "GarnierIndonesia",
+    "twitter": "GarnierID"
+  },
+  {
+    "name": "olay",
+    "rawFb": "https://www.facebook.com/OlayIndonesia",
+    "fb": "OlayIndonesia",
+    "twitter": "OlayIndonesia"
+  },
+  {
+    "name": "ultima",
+    "rawFb": "https://www.facebook.com/ultimaIIindonesia",
+    "fb": "ultimaIIindonesia",
+    "twitter": "ULTIMA_id"
+  },
+  {
+    "name": "citra",
+    "rawFb": "https://www.facebook.com/pages/Rumah-Cantik-Citra/79003217653",
+    "fb": "79003217653",
+    "twitter": "CantikCitra"
+  },
+  {
+    "name": "purbasari",
+    "rawFb": "https://www.facebook.com/Purbasari.Indonesia",
+    "fb": "Purbasari.Indonesia",
+    "twitter": "Purbasari_ID"
+  },
+  {
+    "name": "deonard",
+    "rawFb": "https://www.facebook.com/pages/DEOONARD-CREAM-Pemutih-Wajah-Penghilang-Jerawat-Flek-Hitam-/230255643653921",
+    "fb": "230255643653921",
+    "twitter": "deoonardcream"
+  },
+  {
+    "name": "citra",
+    "rawFb": "https://www.facebook.com/pages/Rumah-Cantik-Citra/79003217653",
+    "fb": "79003217653",
+    "twitter": "CantikCitra"
+  },
+  {
+    "name": "Gatsby",
+    "rawFb": "https://www.facebook.com/GatsbyIndonesia",
+    "fb": "GatsbyIndonesia",
+    "twitter": "gatsby_id"
+  },
+  {
+    "name": "Vivele",
+    "rawFb": "https://www.facebook.com/pages/Vivelle/183928901635651",
+    "fb": "183928901635651",
+    "twitter": "VivelleCare"
+  },
+  {
+    "name": "Sariayu",
+    "rawFb": "https://www.facebook.com/sariayu.MT",
+    "fb": "sariayu.MT",
+    "twitter": "Sariayu_MT"
+  },
+  {
+    "name": "Eskulin",
+    "rawFb": "https://www.facebook.com/cheersmeup",
+    "fb": "cheersmeup",
+    "twitter": "EskulinID"
+  },
+  {
+    "name": "Cussons",
+    "rawFb": "https://www.facebook.com/CussonsMumMe.Id",
+    "fb": "CussonsMumMe.Id",
+    "twitter": "CussonsMumMe_ID"
+  },
+  {
+    "name": "She",
+    "rawFb": "https://www.facebook.com/SHElalaland",
+    "fb": "SHElalaland",
+    "twitter": "SHElalaland"
+  },
+  {
+    "name": "Mustika Puteri",
+    "rawFb": "https://www.facebook.com/MustikaPuteriID",
+    "fb": "MustikaPuteriID",
+    "twitter": "MustikaPuteriID"
+  },
+  {
+    "name": "Rexona",
+    "rawFb": "https://www.facebook.com/RexonaID",
+    "fb": "RexonaID",
+    "twitter": "rexona_id"
+  },
+  {
+    "name": "Izzy",
+    "rawFb": "https://www.facebook.com/GetIZZIGetLove",
+    "fb": "GetIZZIGetLove",
+    "twitter": "IzziLoveID"
+  },
+  {
+    "name": "Viva",
+    "rawFb": "https://www.facebook.com/VivaCosmetics",
+    "fb": "VivaCosmetics",
+    "twitter": "VivaCosmetics"
+  },
+  {
+    "name": "Marina",
+    "rawFb": "https://www.facebook.com/sahabat.marina",
+    "fb": "sahabat.marina",
+    "twitter": "SahabatMarina"
+  },
+  {
+    "name": "Inez",
+    "rawFb": "https://www.facebook.com/pages/Inez-Cosmetics/217347921617477",
+    "fb": "217347921617477",
+    "twitter": "inezcosmetics"
+  },
+  {
+    "name": "Axe",
+    "rawFb": "https://www.facebook.com/AXE.ID",
+    "fb": "AXE.ID",
+    "twitter": "AXE_ID"
+  },
+  {
+    "name": "Belia",
+    "rawFb": "https://www.facebook.com/beliagurlzone",
+    "fb": "beliagurlzone",
+    "twitter": "beliagurlzone"
+  },
+  {
+    "name": "Zwitsal",
+    "rawFb": "https://www.facebook.com/ZwitsalBabyCorner",
+    "fb": "ZwitsalBabyCorner",
+    "twitter": "zwitsal_id"
+  },
+  {
+    "name": "Oriflame",
+    "rawFb": "https://www.facebook.com/id.oriflame",
+    "fb": "id.oriflame",
+    "twitter": "id_oriflame"
+  },
+  {
+    "name": "Dove",
+    "rawFb": "https://www.facebook.com/doveindonesia",
+    "fb": "doveindonesia",
+    "twitter": "Dove_IDN"
+  },
+  {
+    "name": "L'oreal",
+    "rawFb": "https://www.facebook.com/LOrealParisID",
+    "fb": "LOrealParisID",
+    "twitter": "LorealParisID"
+  },
+  {
+    "name": "Body Shop",
+    "rawFb": "https://www.facebook.com/TheBodyShopIndonesia",
+    "fb": "TheBodyShopIndonesia",
+    "twitter": "TheBodyShopIndo"
+  },
+  {
+    "name": "Vaseline",
+    "rawFb": "https://www.facebook.com/VaselineID",
+    "fb": "VaselineID",
+    "twitter": "VaselineID"
+  },
+  {
+    "name": "Revlon",
+    "rawFb": "https://www.facebook.com/RevlonID",
+    "fb": "RevlonID",
+    "twitter": "REVLONid"
+  },
+  {
+    "name": "Purbasari",
+    "rawFb": "https://www.facebook.com/Purbasari.Indonesia",
+    "fb": "Purbasari.Indonesia",
+    "twitter": "Purbasari_ID"
+  },
+  {
+    "name": "Avon",
+    "rawFb": "https://www.facebook.com/pages/Avon-indonesia/348176248590774",
+    "fb": "348176248590774",
+    "twitter": ""
+  },
+  {
+    "name": "Enchanteur",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "EnchanteurIndon"
+  },
+  {
+    "name": "Wesley",
+    "rawFb": "https://www.facebook.com/pages/Vivelle/183928901635651",
+    "fb": "183928901635651",
+    "twitter": "VivelleCare"
+  },
+  {
+    "name": "YSL",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "YSL_ID"
+  },
+  {
+    "name": "Nivea",
+    "rawFb": "https://www.facebook.com/niveaid",
+    "fb": "niveaid",
+    "twitter": "NIVEA_ID"
+  },
+  {
+    "name": "Sophie Paris",
+    "rawFb": "https://www.facebook.com/sophieparisindonesia",
+    "fb": "sophieparisindonesia",
+    "twitter": "Sophie_Paris"
+  },
+  {
+    "name": "Suzuki",
+    "rawFb": "https://www.facebook.com/suzukimotorindonesia",
+    "fb": "suzukimotorindonesia",
+    "twitter": "SuzukiMotorID"
+  },
+  {
+    "name": "Honda",
+    "rawFb": "https://www.facebook.com/welovehonda",
+    "fb": "welovehonda",
+    "twitter": "welovehonda"
+  },
+  {
+    "name": "Yamaha",
+    "rawFb": "https://www.facebook.com/yamaholigan",
+    "fb": "yamaholigan",
+    "twitter": "YamahaIndonesia"
+  },
+  {
+    "name": "Kawasaki",
+    "rawFb": "https://www.facebook.com/KawasakiIndonesia",
+    "fb": "KawasakiIndonesia",
+    "twitter": "KawasakiLovers"
+  },
+  {
+    "name": "KTM",
+    "rawFb": "https://www.facebook.com/ktmina",
+    "fb": "ktmina",
+    "twitter": "KTMIndonesia"
+  },
+  {
+    "name": "Vespa",
+    "rawFb": "https://www.facebook.com/VespaPID",
+    "fb": "VespaPID",
+    "twitter": "Vespa_IND"
+  },
+  {
+    "name": "Pulsar",
+    "rawFb": "https://www.facebook.com/PulsarIndonesia",
+    "fb": "PulsarIndonesia",
+    "twitter": ""
+  },
+  {
+    "name": "Ducati",
+    "rawFb": "https://www.facebook.com/DucatiIndonesia",
+    "fb": "DucatiIndonesia",
+    "twitter": "Ducati_Ind"
+  },
+  {
+    "name": "Minerva",
+    "rawFb": "https://www.facebook.com/minerva.indonesia",
+    "fb": "minerva.indonesia",
+    "twitter": "Minerva_id"
+  },
+  {
+    "name": "Daihatsu Grand Max",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Daihatsu Xenia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Ertiga",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ertiga_ID"
+  },
+  {
+    "name": "Honda Freed",
+    "rawFb": "https://www.facebook.com/FREEDIndonesia",
+    "fb": "FREEDIndonesia",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Honda Stream",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Isuzu Panther",
+    "rawFb": "https://www.facebook.com/isuzu.indonesia",
+    "fb": "isuzu.indonesia",
+    "twitter": "IsuzuID"
+  },
+  {
+    "name": "Kijang",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Luxio",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Nissan Grand Livina",
+    "rawFb": "https://www.facebook.com/NissanLivinaClub",
+    "fb": "NissanLivinaClub",
+    "twitter": "Livinaclub"
+  },
+  {
+    "name": "Suzuki APV",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Suzuki Camry",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Toyota Innova",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Toyota Avanza",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "AvanzaClub_ID"
+  },
+  {
+    "name": "Daihatsu Zebra",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Mitsubishi L300",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Suzuki Sidekick",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Mitsubishi Pajero",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Toyota Rush",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Chevrolet Orlando",
+    "rawFb": "https://www.facebook.com/chevyindonesia",
+    "fb": "chevyindonesia",
+    "twitter": "ChevyIndonesia"
+  },
+  {
+    "name": "Suzuki Karimun",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Suzuki APV Arena",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Alphard",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Honda CRv",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "EVR ( Suzuki X-Over)",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Toyota Fortuner",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Daihatsu Taruna",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Kijang Lux",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Daihatsu Terios",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Mitsubishi",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Honda Mobillio",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Kijang LGX",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Nissan Serana",
+    "rawFb": "https://www.facebook.com/NissanZoneIndonesia",
+    "fb": "NissanZoneIndonesia",
+    "twitter": "NissanID"
+  },
+  {
+    "name": "Mazda",
+    "rawFb": "https://www.facebook.com/Mazdamotorindonesia",
+    "fb": "Mazdamotorindonesia",
+    "twitter": "MazdaMotorID"
+  },
+  {
+    "name": "Suzuky Futura Carry",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Daihatsu Espass",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Captiva",
+    "rawFb": "https://www.facebook.com/chevyindonesia",
+    "fb": "chevyindonesia",
+    "twitter": "ChevyIndonesia"
+  },
+  {
+    "name": "Hyundai Matrix",
+    "rawFb": "https://www.facebook.com/hyundaimobil",
+    "fb": "hyundaimobil",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": "Hyundai Traget",
+    "rawFb": "https://www.facebook.com/hyundaimobil",
+    "fb": "hyundaimobil",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": "Pajero Sport",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Kijang Crista",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Suzuki Aerio",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Toyota Kijang Super",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "KIA Carnival",
+    "rawFb": "https://www.facebook.com/Kiamotorsindonesia",
+    "fb": "Kiamotorsindonesia",
+    "twitter": "KIAmotorsID"
+  },
+  {
+    "name": "Sportage",
+    "rawFb": "https://www.facebook.com/Kiamotorsindonesia",
+    "fb": "Kiamotorsindonesia",
+    "twitter": "KIAmotorsID"
+  },
+  {
+    "name": "Juke",
+    "rawFb": "https://www.facebook.com/NissanZoneIndonesia",
+    "fb": "NissanZoneIndonesia",
+    "twitter": "NissanID"
+  },
+  {
+    "name": "Toyota Alphard",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Ertiga",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": " Toyota Harrier",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": " Isuzu MU7",
+    "rawFb": "https://www.facebook.com/IsuzuID",
+    "fb": "IsuzuID",
+    "twitter": "IsuzuID"
+  },
+  {
+    "name": " Mercedes Benz ML63",
+    "rawFb": "https://www.facebook.com/MercedesBenzID",
+    "fb": "MercedesBenzID",
+    "twitter": "mbindonesia"
+  },
+  {
+    "name": " Audi Q3",
+    "rawFb": " -",
+    "fb": "-",
+    "twitter": "audi_indonesia"
+  },
+  {
+    "name": " Grand Livina",
+    "rawFb": "https://www.facebook.com/GrandLivinaIndonesia",
+    "fb": "GrandLivinaIndonesia",
+    "twitter": "NissanID"
+  },
+  {
+    "name": " Toyota Fortuner",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": " Hyundai Santafe",
+    "rawFb": "https://www.facebook.com/hyundaimobil",
+    "fb": "hyundaimobil",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": " Kia Sorento",
+    "rawFb": "https://www.facebook.com/Kiamotorsindonesia",
+    "fb": "Kiamotorsindonesia",
+    "twitter": "KIAmotorsID"
+  },
+  {
+    "name": " Toyota Rush",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": " Kijang Inova",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": " Honda CRV",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": " Mitsubishi Outlander",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": " Toyota Alphar",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": " Hyundai Tucson",
+    "rawFb": "https://www.facebook.com/hyundaimobil",
+    "fb": "hyundaimobil",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": " Honda Freed",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": " Nissa X Trail",
+    "rawFb": "https://www.facebook.com/NissanZoneIndonesia",
+    "fb": "NissanZoneIndonesia",
+    "twitter": "NissanID"
+  },
+  {
+    "name": " Suzuki Grand Vitara",
+    "rawFb": "https://www.facebook.com/pages/Suzuki-Grand-Vitara-Indonesia/48329531516",
+    "fb": "48329531516",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": " Suzuki X Over",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": " Ford Ecosport",
+    "rawFb": "https://www.facebook.com/FordIndonesia/app_208195102528120",
+    "fb": "app_208195102528120",
+    "twitter": "ford_id"
+  },
+  {
+    "name": " Honda vezel Hybrit",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Daihatsu Sirion ",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Honda Jazz",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HondaJazzKom"
+  },
+  {
+    "name": "Hyundai Atoz",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": "Karimun",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Nissan Juke",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "NissanID"
+  },
+  {
+    "name": "Picanto",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KIAMotorsID"
+  },
+  {
+    "name": "Suzuki Splash",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "suzukisplash"
+  },
+  {
+    "name": "Suzuki Swift",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Toyota Yaris",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "YarisID"
+  },
+  {
+    "name": "Toyota Vios",
+    "rawFb": "https://www.facebook.com/vios.indonesia",
+    "fb": "vios.indonesia",
+    "twitter": "ViosID"
+  },
+  {
+    "name": "Honda Brio",
+    "rawFb": "https://www.facebook.com/BrioIndonesia",
+    "fb": "BrioIndonesia",
+    "twitter": "HondaBrioID"
+  },
+  {
+    "name": "Nissan March",
+    "rawFb": "https://www.facebook.com/NissanZoneIndonesia",
+    "fb": "NissanZoneIndonesia",
+    "twitter": "NissanID"
+  },
+  {
+    "name": "Honda Civic",
+    "rawFb": "https://www.facebook.com/pages/Honda-Civic-Indonesia/211436748836",
+    "fb": "211436748836",
+    "twitter": "HondaCivicID"
+  },
+  {
+    "name": "Daihatsu Ceria",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Honda City",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Honda Accord",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Toyata Altis",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Mazda",
+    "rawFb": "https://www.facebook.com/Mazdamotorindonesia",
+    "fb": "Mazdamotorindonesia",
+    "twitter": "MazdaMotorID"
+  },
+  {
+    "name": "Daihatsu Ayla",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Suzuki Baleno",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Daihatsu Xenia",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Toyota Agya",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Toyota Avanza",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "AvanzaClub_ID"
+  },
+  {
+    "name": "Isuzu Panther",
+    "rawFb": "https://www.facebook.com/IsuzuID",
+    "fb": "IsuzuID",
+    "twitter": "IsuzuID"
+  },
+  {
+    "name": "Kijang Innova",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Suzuki Katana",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "BMW",
+    "rawFb": "https://www.facebook.com/bmw.indonesia",
+    "fb": "bmw.indonesia",
+    "twitter": "BMW_Indonesia"
+  },
+  {
+    "name": "Grand Livina",
+    "rawFb": "https://www.facebook.com/GrandLivinaIndonesia",
+    "fb": "GrandLivinaIndonesia",
+    "twitter": "NissanID"
+  },
+  {
+    "name": "Mazda 2",
+    "rawFb": "https://www.facebook.com/Mazdamotorindonesia",
+    "fb": "Mazdamotorindonesia",
+    "twitter": "MazdaMotorID"
+  },
+  {
+    "name": "Chevrolet",
+    "rawFb": "https://www.facebook.com/chevyindonesia",
+    "fb": "chevyindonesia",
+    "twitter": "ChevyIndonesia"
+  },
+  {
+    "name": "Toyota Starlet",
+    "rawFb": "https://www.facebook.com/pages/Toyota-Starlet-Indonesia/174435762567699",
+    "fb": "174435762567699",
+    "twitter": "StarletID"
+  },
+  {
+    "name": "Honda Freed",
+    "rawFb": "https://www.facebook.com/FREEDIndonesia",
+    "fb": "FREEDIndonesia",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "Lamborgini Sport",
+    "rawFb": "https://www.facebook.com/pages/Lamborghini-Indonesia/117544075003149",
+    "fb": "117544075003149",
+    "twitter": "LamboJakarta"
+  },
+  {
+    "name": "Toyota Corrolla",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Toyota New Camry",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "KIA Rio",
+    "rawFb": "https://www.facebook.com/Kiamotorsindonesia",
+    "fb": "Kiamotorsindonesia",
+    "twitter": "KIAmotorsID"
+  },
+  {
+    "name": "Suzuki Karimun",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Honda CRV",
+    "rawFb": "https://www.facebook.com/pages/HONDA-MOTOR-INDONESIA/149509846287",
+    "fb": "149509846287",
+    "twitter": "hondaisme"
+  },
+  {
+    "name": "KIA ",
+    "rawFb": "https://www.facebook.com/Kiamotorsindonesia",
+    "fb": "Kiamotorsindonesia",
+    "twitter": "KIAmotorsID"
+  },
+  {
+    "name": "Suzuki Ertiga",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Toyota Great Corrolla",
+    "rawFb": "https://www.facebook.com/ToyotaID",
+    "fb": "ToyotaID",
+    "twitter": "ToyotaID"
+  },
+  {
+    "name": "Mitsubishi Mirage",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Suzuki Estilo",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Mitsubishi Pajero",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Suzuki Esteem",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Mercy (Mecedez Benz)",
+    "rawFb": "https://www.facebook.com/MercedesBenzID",
+    "fb": "MercedesBenzID",
+    "twitter": "mbindonesia"
+  },
+  {
+    "name": "Suzuki Forsa",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Ford Fiesta",
+    "rawFb": "https://www.facebook.com/FordIndonesia/app_208195102528120",
+    "fb": "app_208195102528120",
+    "twitter": "ford_id"
+  },
+  {
+    "name": "Mazda RX8",
+    "rawFb": "https://www.facebook.com/Mazdamotorindonesia",
+    "fb": "Mazdamotorindonesia",
+    "twitter": "MazdaMotorID"
+  },
+  {
+    "name": "Hyundai Grand Avega",
+    "rawFb": "https://www.facebook.com/hyundaimobil",
+    "fb": "hyundaimobil",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": "Hyundai Get",
+    "rawFb": "https://www.facebook.com/hyundaimobil",
+    "fb": "hyundaimobil",
+    "twitter": "hyundaimobil"
+  },
+  {
+    "name": "KIA Visto",
+    "rawFb": "https://www.facebook.com/Kiamotorsindonesia",
+    "fb": "Kiamotorsindonesia",
+    "twitter": "KIAmotorsID"
+  },
+  {
+    "name": "Suzuki Amelity",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Mitsubishi Lancer",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Suzuki Aerio",
+    "rawFb": "https://www.facebook.com/suzukiindonesia",
+    "fb": "suzukiindonesia",
+    "twitter": "SuzukiIndonesia"
+  },
+  {
+    "name": "Daihatsu Charade",
+    "rawFb": "https://www.facebook.com/daihatsuindonesia",
+    "fb": "daihatsuindonesia",
+    "twitter": "DaihatsuInd"
+  },
+  {
+    "name": "Mitsubishi Gandis",
+    "rawFb": "https://www.facebook.com/KTBMitsubishiMotorsIndonesia",
+    "fb": "KTBMitsubishiMotorsIndonesia",
+    "twitter": "KTBMitsubishi"
+  },
+  {
+    "name": "Isuzu ELP",
+    "rawFb": "https://www.facebook.com/IsuzuID",
+    "fb": "IsuzuID",
+    "twitter": "IsuzuID"
+  },
+  {
+    "name": "Aqua",
+    "rawFb": "https://www.facebook.com/SehatAQUA",
+    "fb": "SehatAQUA",
+    "twitter": "sehatAQUA"
+  },
+  {
+    "name": "Viro Water",
+    "rawFb": "https://www.facebook.com/Virowater",
+    "fb": "Virowater",
+    "twitter": "virowater"
+  },
+  {
+    "name": "Super O2",
+    "rawFb": "https://www.facebook.com/supero2",
+    "fb": "supero2",
+    "twitter": "SuperO2"
+  },
+  {
+    "name": "Amidis Water",
+    "rawFb": "https://www.facebook.com/amidisprincipal",
+    "fb": "amidisprincipal",
+    "twitter": "AmidisWater"
+  },
+  {
+    "name": "vit",
+    "rawFb": "https://www.facebook.com/minumvit?__fns&hash=Ac33QPporl5I4YPF",
+    "fb": "minumvit",
+    "twitter": ""
+  },
+  {
+    "name": "ades",
+    "rawFb": "https://www.facebook.com/AdesIndonesia",
+    "fb": "AdesIndonesia",
+    "twitter": ""
+  },
+  {
+    "name": "club",
+    "rawFb": "https://www.facebook.com/ClubAirMineral",
+    "fb": "ClubAirMineral",
+    "twitter": "AirMineralClub"
+  },
+  {
+    "name": "Bank Mandiri",
+    "rawFb": "https://www.facebook.com/mandirifiesta",
+    "fb": "mandirifiesta",
+    "twitter": "bankmandiri"
+  },
+  {
+    "name": "Bank Bukopin",
+    "rawFb": "https://www.facebook.com/Bukopin.Siaga?filter=1",
+    "fb": "Bukopin.Siaga",
+    "twitter": "bukopinsiaga"
+  },
+  {
+    "name": "Bank BRI",
+    "rawFb": "https://www.facebook.com/BankBRIofficial",
+    "fb": "BankBRIofficial",
+    "twitter": "BANKBRI_ID"
+  },
+  {
+    "name": "Bank BTN",
+    "rawFb": "https://www.facebook.com/pages/Bank-BTN/54086589301",
+    "fb": "54086589301",
+    "twitter": "BANKBTN_ID"
+  },
+  {
+    "name": "Bank BCA",
+    "rawFb": "https://www.facebook.com/XpresiBCA",
+    "fb": "XpresiBCA",
+    "twitter": "XpresiBCA"
+  },
+  {
+    "name": "Bank Jateng",
+    "rawFb": "https://www.facebook.com/bankjateng.community?fref=nf",
+    "fb": "bankjateng.community",
+    "twitter": "bank_jateng"
+  },
+  {
+    "name": "Bank Kaltim",
+    "rawFb": "https://www.facebook.com/pages/BPD-Kaltim/182700508509333",
+    "fb": "182700508509333",
+    "twitter": "kas_pm"
+  },
+  {
+    "name": "Bank BNI",
+    "rawFb": "https://www.facebook.com/BNI",
+    "fb": "BNI",
+    "twitter": "BNI46"
+  },
+  {
+    "name": "Bank Bukopin",
+    "rawFb": "https://www.facebook.com/Bukopin.Siaga?filter=1",
+    "fb": "Bukopin.Siaga",
+    "twitter": "bukopinsiaga"
+  },
+  {
+    "name": "Bank Danamon",
+    "rawFb": "https://www.facebook.com/kartudanamon",
+    "fb": "kartudanamon",
+    "twitter": "kartudanamon"
+  },
+  {
+    "name": "Bank Cimb Niaga",
+    "rawFb": "https://www.facebook.com/CIMBIndonesia",
+    "fb": "CIMBIndonesia",
+    "twitter": "CIMBIndonesia"
+  },
+  {
+    "name": "OCBC NISP",
+    "rawFb": "https://www.facebook.com/bankocbcnisp",
+    "fb": "bankocbcnisp",
+    "twitter": "bankocbcnisp"
+  },
+  {
+    "name": "Permata Bank",
+    "rawFb": "https://www.facebook.com/joyliving",
+    "fb": "joyliving",
+    "twitter": "joylivingPB"
+  },
+  {
+    "name": "Bank Mega",
+    "rawFb": "https://www.facebook.com/pages/Bank-Mega/119633074766327",
+    "fb": "119633074766327",
+    "twitter": ""
+  },
+  {
+    "name": "Bank Mandiri Syariah",
+    "rawFb": "https://www.facebook.com/syariahmandiri",
+    "fb": "syariahmandiri",
+    "twitter": "syariahmandiri"
+  },
+  {
+    "name": "Bank Mega Syariah",
+    "rawFb": "https://www.facebook.com/megasyariah",
+    "fb": "megasyariah",
+    "twitter": "TweetBMS"
+  },
+  {
+    "name": "SINARMAS",
+    "rawFb": "https://www.facebook.com/pages/Asuransi-Sinar-Mas-Official/107223592701139",
+    "fb": "107223592701139",
+    "twitter": "BankSinarmas"
+  },
+  {
+    "name": "Bukopin Syariah",
+    "rawFb": "https://www.facebook.com/pages/Bank-Syariah-Bukopin/222749127806282",
+    "fb": "222749127806282",
+    "twitter": "BSyariahBukopin"
+  },
+  {
+    "name": "Bank BTPN",
+    "rawFb": "https://www.facebook.com/BankBTPNSyariah",
+    "fb": "BankBTPNSyariah",
+    "twitter": "PT_Bankbtpn"
+  },
+  {
+    "name": "BNI SYARIAH",
+    "rawFb": "https://www.facebook.com/BNISyariah",
+    "fb": "BNISyariah",
+    "twitter": "BNISyariah"
+  },
+  {
+    "name": "BRI SYARIAH",
+    "rawFb": "https://www.facebook.com/BRISyariah",
+    "fb": "BRISyariah",
+    "twitter": "BRISyariah"
+  },
+  {
+    "name": "BII",
+    "rawFb": "https://www.facebook.com/biifriends",
+    "fb": "biifriends",
+    "twitter": "biifriends"
+  },
+  {
+    "name": "CIMB Niaga",
+    "rawFb": "https://www.facebook.com/KTAKartuKreditCIMBNiaga",
+    "fb": "KTAKartuKreditCIMBNiaga",
+    "twitter": "CIMBIndonesia"
+  },
+  {
+    "name": "Bank Muamalat",
+    "rawFb": "https://www.facebook.com/BankMuamalatIndonesia",
+    "fb": "BankMuamalatIndonesia",
+    "twitter": "BankMuamalat"
+  },
+  {
+    "name": "Panin Bank",
+    "rawFb": "https://www.facebook.com/pages/Panin-BANK/229769927036879",
+    "fb": "229769927036879",
+    "twitter": "Panin_Bank"
+  },
+  {
+    "name": "Bank Jatim",
+    "rawFb": "https://www.facebook.com/pages/bank-jatim/125258877580283?ref=br_rs",
+    "fb": "125258877580283",
+    "twitter": "bank_jatim"
+  },
+  {
+    "name": "Bank BJB",
+    "rawFb": "https://www.facebook.com/BankBJBOfficial",
+    "fb": "BankBJBOfficial",
+    "twitter": "infobankbjb"
+  },
+  {
+    "name": "Bank Pundi",
+    "rawFb": "https://www.facebook.com/bankpundi",
+    "fb": "bankpundi",
+    "twitter": "bankpundi"
+  },
+  {
+    "name": "Citibank",
+    "rawFb": "https://www.facebook.com/pages/Citibank-credit-card/194933313878810",
+    "fb": "194933313878810",
+    "twitter": "Citibank"
+  },
+  {
+    "name": "Kaertu As",
+    "rawFb": "https://www.facebook.com/KartuAs",
+    "fb": "KartuAs",
+    "twitter": "Kartu_As"
+  },
+  {
+    "name": "Telkomsel",
+    "rawFb": "https://www.facebook.com/telkomsel?fref=ts",
+    "fb": "telkomsel",
+    "twitter": "Telkomsel"
+  },
+  {
+    "name": "Simpati",
+    "rawFb": "https://www.facebook.com/simPATI?fref=ts",
+    "fb": "simPATI",
+    "twitter": "simPATI"
+  },
+  {
+    "name": "Xl",
+    "rawFb": "https://www.facebook.com/xlrame?fref=ts",
+    "fb": "xlrame",
+    "twitter": "XLCare"
+  },
+  {
+    "name": "Indosat care",
+    "rawFb": "https://www.facebook.com/Indosat.IM3?ref=ts&fref=ts",
+    "fb": "Indosat.IM3",
+    "twitter": "IndosatCare"
+  },
+  {
+    "name": "Indosat mania",
+    "rawFb": "https://www.facebook.com/Indosat.Mentari?fref=ts",
+    "fb": "Indosat.Mentari",
+    "twitter": "IndosatMania"
+  },
+  {
+    "name": "Smartfren",
+    "rawFb": "https://www.facebook.com/smartfren",
+    "fb": "smartfren",
+    "twitter": "smartfrenworld"
+  },
+  {
+    "name": "Axis",
+    "rawFb": "https://www.facebook.com/AXISgsm?fref=ts",
+    "fb": "AXISgsm",
+    "twitter": "AXISgsm"
+  },
+  {
+    "name": "Xl",
+    "rawFb": "https://www.facebook.com/xlrame?fref=ts",
+    "fb": "xlrame",
+    "twitter": "XL123"
+  },
+  {
+    "name": "Esia",
+    "rawFb": "https://www.facebook.com/esiaspot?fref=ts",
+    "fb": "esiaspot",
+    "twitter": "untungpakeesia"
+  },
+  {
+    "name": "Tri",
+    "rawFb": "https://www.facebook.com/triindonesia",
+    "fb": "triindonesia",
+    "twitter": "triindonesia"
+  },
+  {
+    "name": "Flexi",
+    "rawFb": "https://www.facebook.com/pages/FlexiMania/107071722668538?ref=stream&fref=nf",
+    "fb": "107071722668538",
+    "twitter": "FlexiIrit"
+  },
+  {
+    "name": "On The Spot",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Trans7OnTheSpot"
+  },
+  {
+    "name": "Indonesia Mecari Bakat",
+    "rawFb": "https://www.facebook.com/IMB2014",
+    "fb": "IMB2014",
+    "twitter": "TRANS_IMB"
+  },
+  {
+    "name": "Hitam Putih",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HitamPutihT7"
+  },
+  {
+    "name": "Indonesian Idol",
+    "rawFb": "https://id-id.facebook.com/indonesianidolofficial",
+    "fb": "indonesianidolofficial",
+    "twitter": "IndonesianIdol"
+  },
+  {
+    "name": "Liputan 6",
+    "rawFb": "https://id-id.facebook.com/liputan6online",
+    "fb": "liputan6online",
+    "twitter": "liputan6dotcom"
+  },
+  {
+    "name": "Insert",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "inserttranstv"
+  },
+  {
+    "name": "Mata Najwa",
+    "rawFb": "https://www.facebook.com/pages/MATA-NAJWA/127222570698367",
+    "fb": "127222570698367",
+    "twitter": "MataNajwa"
+  },
+  {
+    "name": "Kick Andy",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KickAndyShow"
+  },
+  {
+    "name": "Mario Teguh",
+    "rawFb": "https://id-id.facebook.com/pages/Mario-Teguh/52472954880",
+    "fb": "52472954880",
+    "twitter": "MarioTeguhFB"
+  },
+  {
+    "name": "Dahsyat",
+    "rawFb": "https://id-id.facebook.com/pages/Dahsyat/41083683391",
+    "fb": "41083683391",
+    "twitter": "dahSyatMusik"
+  },
+  {
+    "name": "Inbox",
+    "rawFb": "https://id-id.facebook.com/Inbox.SuryaCitraTV",
+    "fb": "Inbox.SuryaCitraTV",
+    "twitter": "InboxSCTV_"
+  },
+  {
+    "name": "The Comment",
+    "rawFb": "https://www.facebook.com/TheCommentNET2013",
+    "fb": "TheCommentNET2013",
+    "twitter": "TheComment_NET"
+  },
+  {
+    "name": "Bukan Empat Mata",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "bukan4mata"
+  },
+  {
+    "name": "Ini Talkshow",
+    "rawFb": "https://id-id.facebook.com/pages/Ini-TalkShow-NET/875923712434746",
+    "fb": "875923712434746",
+    "twitter": "Ini_Talkshow"
+  },
+  {
+    "name": "Tonight show",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "TonightShow_NET"
+  },
+  {
+    "name": "Tetangga masa gitu",
+    "rawFb": "https://id-id.facebook.com/tetanggamasagitunet",
+    "fb": "tetanggamasagitunet",
+    "twitter": "TMG_NET"
+  },
+  {
+    "name": "FTV SCTV",
+    "rawFb": "https://www.facebook.com/FTV.SCTV",
+    "fb": "FTV.SCTV",
+    "twitter": "FTV_SCTV"
+  },
+  {
+    "name": "Wide Shot",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "wideshotmetrotv"
+  },
+  {
+    "name": "Sketsa",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "sketsatranstv"
+  },
+  {
+    "name": "Stand up Metro TV",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "standupmetrotv"
+  },
+  {
+    "name": "Ceriwis",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ceriwis_transtv"
+  },
+  {
+    "name": "Homestay",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HomestayTrans7"
+  },
+  {
+    "name": "Iseng Banget",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Isengbanget_T7"
+  },
+  {
+    "name": "Bukan sekedang wayang",
+    "rawFb": "https://id-id.facebook.com/pages/Bukan-Sekedar-Wayang/792327067454350",
+    "fb": "792327067454350",
+    "twitter": "BSWayang_NET"
+  },
+  {
+    "name": "86",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "86_NetTV"
+  },
+  {
+    "name": "My trip My adventure",
+    "rawFb": "https://www.facebook.com/pages/My-Trip-My-Adventure/174105516106810",
+    "fb": "174105516106810",
+    "twitter": "myTrip_myAdvntr"
+  },
+  {
+    "name": "Indonesia AirAsia",
+    "rawFb": "https://www.facebook.com/AirAsiaIndonesia?ref=ts&fref=ts",
+    "fb": "AirAsiaIndonesia",
+    "twitter": "AirAsiald"
+  },
+  {
+    "name": "Garuda Indonesia",
+    "rawFb": "https://www.facebook.com/garudaindonesia?fref=ts",
+    "fb": "garudaindonesia",
+    "twitter": "IndonesiaGaruda"
+  },
+  {
+    "name": "Merpati Nusantara Airlines",
+    "rawFb": "https://www.facebook.com/pages/Merpati-Nusantara-Airlines/167688383326905?fref=ts",
+    "fb": "167688383326905",
+    "twitter": "MerpatiAirways"
+  },
+  {
+    "name": "Lion air",
+    "rawFb": "https://www.facebook.com/tiketlionair?fref=ts",
+    "fb": "tiketlionair",
+    "twitter": "LionAirIndo"
+  },
+  {
+    "name": "Batavia air",
+    "rawFb": "https://www.facebook.com/Y6BataviaAir",
+    "fb": "Y6BataviaAir",
+    "twitter": "bataviaair"
+  },
+  {
+    "name": "Mandala Airlines",
+    "rawFb": "https://www.facebook.com/TigerairIndonesia",
+    "fb": "TigerairIndonesia",
+    "twitter": "tigerairmandala"
+  },
+  {
+    "name": "Citilink",
+    "rawFb": "https://www.facebook.com/citilink",
+    "fb": "citilink",
+    "twitter": "Citilink"
+  },
+  {
+    "name": "Batik Air",
+    "rawFb": "https://www.facebook.com/batikair",
+    "fb": "batikair",
+    "twitter": "BatikAir"
+  },
+  {
+    "name": "Kalstar Aviation",
+    "rawFb": "https://www.facebook.com/KalstarAviationPt",
+    "fb": "KalstarAviationPt",
+    "twitter": "Kalstar_Online"
+  },
+  {
+    "name": "Pelita Air Service",
+    "rawFb": "https://www.facebook.com/PelitaAir",
+    "fb": "PelitaAir",
+    "twitter": "PelitaAirlines"
+  },
+  {
+    "name": "Riau Airlines",
+    "rawFb": "https://www.facebook.com/pages/Riau-Airlines/57357699696",
+    "fb": "57357699696",
+    "twitter": ""
+  },
+  {
+    "name": "Sky Aviation",
+    "rawFb": "https://www.facebook.com/skyaviation",
+    "fb": "skyaviation",
+    "twitter": "Sky_Aviation"
+  },
+  {
+    "name": "Sriwijaya Air",
+    "rawFb": "https://www.facebook.com/sriwijayaair.co.id",
+    "fb": "sriwijayaair.co.id",
+    "twitter": "SriwijayaAir"
+  },
+  {
+    "name": "Trigana Air Service",
+    "rawFb": "https://www.facebook.com/TriganaAirService",
+    "fb": "TriganaAirService",
+    "twitter": "trigana_air"
+  },
+  {
+    "name": "Travira Air",
+    "rawFb": "https://www.facebook.com/TraviraAir",
+    "fb": "TraviraAir",
+    "twitter": ""
+  },
+  {
+    "name": "Wings Air",
+    "rawFb": "https://www.facebook.com/tiketwingsair",
+    "fb": "tiketwingsair",
+    "twitter": "lionairnews"
+  },
+  {
+    "name": "TEMPO",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "tempodotco"
+  },
+  {
+    "name": "KOMPAS",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kompascom"
+  },
+  {
+    "name": "VIVA",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "VIVAnews"
+  },
+  {
+    "name": "DETIK",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "detikcom"
+  },
+  {
+    "name": "Gaul",
+    "rawFb": "https://id-id.facebook.com/pages/Tabloid-GAUL/159251644114961",
+    "fb": "159251644114961",
+    "twitter": "tab_gaul"
+  },
+  {
+    "name": "Keren Beken",
+    "rawFb": "https://www.facebook.com/pages/Tabloid-Keren-Beken/102248076477671",
+    "fb": "102248076477671",
+    "twitter": "TabKerenBeken"
+  },
+  {
+    "name": "Teen",
+    "rawFb": "https://www.facebook.com/pages/Tabloid-Teen/107890462563680",
+    "fb": "107890462563680",
+    "twitter": ""
+  },
+  {
+    "name": "Bintang",
+    "rawFb": "https://www.facebook.com/tabloidbintang",
+    "fb": "tabloidbintang",
+    "twitter": "TabloidBintang"
+  },
+  {
+    "name": "Aura",
+    "rawFb": "https://id-id.facebook.com/pages/Tabloid-Aura/170416916313377",
+    "fb": "170416916313377",
+    "twitter": "TabloidAURA"
+  },
+  {
+    "name": "Phone3",
+    "rawFb": "https://www.facebook.com/pages/tabloid-phone3/287926684597821",
+    "fb": "287926684597821",
+    "twitter": "tabloidphone3"
+  },
+  {
+    "name": "Pulsa",
+    "rawFb": "https://www.facebook.com/pulcom",
+    "fb": "pulcom",
+    "twitter": "tabloidpulsa"
+  },
+  {
+    "name": "Chip",
+    "rawFb": "https://www.facebook.com/pages/Tabloid-Chip/101399716568600",
+    "fb": "101399716568600",
+    "twitter": "CHIPIndonesia"
+  },
+  {
+    "name": "Nakita",
+    "rawFb": "https://www.facebook.com/pages/Tabloid-Nakita/151954181525822",
+    "fb": "151954181525822",
+    "twitter": "TabloidNakita"
+  },
+  {
+    "name": "Otomotif",
+    "rawFb": "https://id-id.facebook.com/pages/Tabloid-otomotif/114634101892589",
+    "fb": "114634101892589",
+    "twitter": "Otomotifweekly"
+  },
+  {
+    "name": "Citra",
+    "rawFb": "https://www.facebook.com/pages/Tabloid-Citra/111047108906175",
+    "fb": "111047108906175",
+    "twitter": ""
+  },
+  {
+    "name": "Cek & Ricek",
+    "rawFb": "https://www.facebook.com/cekricek",
+    "fb": "cekricek",
+    "twitter": "cek_ricek"
+  },
+  {
+    "name": "Tabloid Rumah",
+    "rawFb": "https://www.facebook.com/TabloidRUMAH",
+    "fb": "TabloidRUMAH",
+    "twitter": "tabloidrumah"
+  },
+  {
+    "name": "Tabloid Saji",
+    "rawFb": "https://id-id.facebook.com/tabloidsaji",
+    "fb": "tabloidsaji",
+    "twitter": "tabloidsaji"
+  },
+  {
+    "name": "Swa",
+    "rawFb": "https://www.facebook.com/swamagazine",
+    "fb": "swamagazine",
+    "twitter": "swamagazine"
+  },
+  {
+    "name": "Trust",
+    "rawFb": "https://www.facebook.com/pages/TRUST-Majalah-Berita-Ekonomi-Bisnis/216464115059193",
+    "fb": "216464115059193",
+    "twitter": ""
+  },
+  {
+    "name": "Mix",
+    "rawFb": "https://www.facebook.com/mixmarcomm",
+    "fb": "mixmarcomm",
+    "twitter": "mixmarcomm"
+  },
+  {
+    "name": "Merketing",
+    "rawFb": "https://www.facebook.com/Marketingcoid",
+    "fb": "Marketingcoid",
+    "twitter": "marketingcoid"
+  },
+  {
+    "name": "Tekno Kontruksi",
+    "rawFb": "https://www.facebook.com/technokonstruksi",
+    "fb": "technokonstruksi",
+    "twitter": "TechnoKonstruks"
+  },
+  {
+    "name": "Swadaya",
+    "rawFb": "https://id-id.facebook.com/majalah.swadaya",
+    "fb": "majalah.swadaya",
+    "twitter": "MSwadaya"
+  },
+  {
+    "name": "Ide Bisnis",
+    "rawFb": "https://www.facebook.com/idebisnismag",
+    "fb": "idebisnismag",
+    "twitter": "idebisnismag"
+  },
+  {
+    "name": "Pengusaha Indonesia",
+    "rawFb": "https://www.facebook.com/pages/Majalah-Pengusaha-Indonesia/112510268795023",
+    "fb": "112510268795023",
+    "twitter": "forumpengusaha"
+  },
+  {
+    "name": "Majalah Motivasi Luar Biasa",
+    "rawFb": "https://www.facebook.com/pages/Majalah-Motivasi-Luar-Biasa/103774869657240",
+    "fb": "103774869657240",
+    "twitter": "LuarBiasaMagz"
+  },
+  {
+    "name": "Tempo ",
+    "rawFb": "https://www.facebook.com/TempoMedia",
+    "fb": "TempoMedia",
+    "twitter": "tempodotco"
+  },
+  {
+    "name": "Gatra",
+    "rawFb": "https://www.facebook.com/GATRAMAGZ?fref=ts",
+    "fb": "GATRAMAGZ",
+    "twitter": "GATRA_News"
+  },
+  {
+    "name": "Berita Indonesia",
+    "rawFb": "https://www.facebook.com/beritaindonesia",
+    "fb": "beritaindonesia",
+    "twitter": ""
+  },
+  {
+    "name": "Gotik",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "cerdaspolitik"
+  },
+  {
+    "name": "Inspirasi Indonesia",
+    "rawFb": "https://www.facebook.com/Inspirasi.Indonesia",
+    "fb": "Inspirasi.Indonesia",
+    "twitter": "INSPIRASIMAGZ"
+  },
+  {
+    "name": "Kartini",
+    "rawFb": "https://www.facebook.com/KartiniMagazine?fref=ts",
+    "fb": "KartiniMagazine",
+    "twitter": "MajalahKartini"
+  },
+  {
+    "name": "Femina",
+    "rawFb": "https://www.facebook.com/FeminaMagazineIndonesia",
+    "fb": "FeminaMagazineIndonesia",
+    "twitter": "FeminaMagazine"
+  },
+  {
+    "name": "Cocmopolitan",
+    "rawFb": "https://www.facebook.com/pages/Cosmopolitan-Indonesia/153605411957",
+    "fb": "153605411957",
+    "twitter": "CosmoIndonesia"
+  },
+  {
+    "name": "Majalah Gadis",
+    "rawFb": "https://www.facebook.com/pages/Majalah-GADIS-Gaya-Gaul-Gosip/148144452487?ref=ts",
+    "fb": "148144452487",
+    "twitter": "GADISmagz"
+  },
+  {
+    "name": "Majalah Elle",
+    "rawFb": "https://www.facebook.com/ELLEINDONESIAmagazine",
+    "fb": "ELLEINDONESIAmagazine",
+    "twitter": "elleindonesia"
+  },
+  {
+    "name": "Majalah Ummi",
+    "rawFb": "https://www.facebook.com/MajalahUmmi",
+    "fb": "MajalahUmmi",
+    "twitter": "majalahummi"
+  },
+  {
+    "name": "Marie Claire Indonesia",
+    "rawFb": "https://www.facebook.com/pages/Indonesian-Marie-Claire/206928762665582",
+    "fb": "206928762665582",
+    "twitter": "MarieClaireID"
+  },
+  {
+    "name": "Harper's Bazaar Indonesia",
+    "rawFb": "https://www.facebook.com/pages/Harpers-Bazaar-Indonesia/159486907425282",
+    "fb": "159486907425282",
+    "twitter": "bazaarindonesia"
+  },
+  {
+    "name": "Nurani",
+    "rawFb": "https://www.facebook.com/pages/Tabloid-nurani/118472648351102",
+    "fb": "118472648351102",
+    "twitter": "TabloidNurani"
+  },
+  {
+    "name": "Cleo Indonesia",
+    "rawFb": "https://www.facebook.com/CLEO.Ind",
+    "fb": "CLEO.Ind",
+    "twitter": "cleo_ind"
+  },
+  {
+    "name": "GoGirl",
+    "rawFb": "https://www.facebook.com/gogirlmagz",
+    "fb": "gogirlmagz",
+    "twitter": "GogirlMagazine"
+  },
+  {
+    "name": "ANTV",
+    "rawFb": "https://www.facebook.com/pages/ANTVLovers/252369521494578",
+    "fb": "252369521494578",
+    "twitter": "whatsonANTV"
+  },
+  {
+    "name": "TRANS7",
+    "rawFb": "https://id-id.facebook.com/OfficialTRANS7",
+    "fb": "OfficialTRANS7",
+    "twitter": "TRANS7"
+  },
+  {
+    "name": "TRANSTV",
+    "rawFb": "https://id-id.facebook.com/pages/Trans-TV/148636738536241",
+    "fb": "148636738536241",
+    "twitter": "TRANSTV_CORP"
+  },
+  {
+    "name": "SCTV",
+    "rawFb": "https://id-id.facebook.com/pages/SCTV-Program/147622975307583",
+    "fb": "147622975307583",
+    "twitter": "SCTV_"
+  },
+  {
+    "name": "RCTI",
+    "rawFb": "https://www.facebook.com/OfficialRCTI.TV",
+    "fb": "OfficialRCTI.TV",
+    "twitter": "OfficialRCTI"
+  },
+  {
+    "name": "TV ONE",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "tvOneNews"
+  },
+  {
+    "name": "METRO TV",
+    "rawFb": "https://id-id.facebook.com/metrotv",
+    "fb": "metrotv",
+    "twitter": "Metro_TV"
+  },
+  {
+    "name": "INDOSIAR",
+    "rawFb": "https://www.facebook.com/IndosiarID.TV",
+    "fb": "IndosiarID.TV",
+    "twitter": "IndosiarTVtwit"
+  },
+  {
+    "name": "NET TV",
+    "rawFb": "https://www.facebook.com/netmediatamaindonesia",
+    "fb": "netmediatamaindonesia",
+    "twitter": "netmediatama"
+  },
+  {
+    "name": "KOMPAS TV",
+    "rawFb": "https://id-id.facebook.com/KompasTV",
+    "fb": "KompasTV",
+    "twitter": "KompasTV"
+  },
+  {
+    "name": "GLOBAL TV",
+    "rawFb": "https://id-id.facebook.com/GlobaltvIndonesia",
+    "fb": "GlobaltvIndonesia",
+    "twitter": "Globaltvseru"
+  },
+  {
+    "name": "MNC TV",
+    "rawFb": "https://www.facebook.com/MnctvOfficial",
+    "fb": "MnctvOfficial",
+    "twitter": "Official_MNCTV"
+  },
+  {
+    "name": "On The Spot",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Trans7OnTheSpot"
+  },
+  {
+    "name": "Indonesia Mecari Bakat",
+    "rawFb": "https://www.facebook.com/IMB2014",
+    "fb": "IMB2014",
+    "twitter": "TRANS_IMB"
+  },
+  {
+    "name": "Hitam Putih",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HitamPutihT7"
+  },
+  {
+    "name": "Indonesian Idol",
+    "rawFb": "https://id-id.facebook.com/indonesianidolofficial",
+    "fb": "indonesianidolofficial",
+    "twitter": "IndonesianIdol"
+  },
+  {
+    "name": "Liputan 6",
+    "rawFb": "https://id-id.facebook.com/liputan6online",
+    "fb": "liputan6online",
+    "twitter": "liputan6dotcom"
+  },
+  {
+    "name": "Insert",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "inserttranstv"
+  },
+  {
+    "name": "Mata Najwa",
+    "rawFb": "https://www.facebook.com/pages/MATA-NAJWA/127222570698367",
+    "fb": "127222570698367",
+    "twitter": "MataNajwa"
+  },
+  {
+    "name": "Kick Andy",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KickAndyShow"
+  },
+  {
+    "name": "Mario Teguh",
+    "rawFb": "https://id-id.facebook.com/pages/Mario-Teguh/52472954880",
+    "fb": "52472954880",
+    "twitter": "MarioTeguhFB"
+  },
+  {
+    "name": "Dahsyat",
+    "rawFb": "https://id-id.facebook.com/pages/Dahsyat/41083683391",
+    "fb": "41083683391",
+    "twitter": "dahSyatMusik"
+  },
+  {
+    "name": "Inbox",
+    "rawFb": "https://id-id.facebook.com/Inbox.SuryaCitraTV",
+    "fb": "Inbox.SuryaCitraTV",
+    "twitter": "InboxSCTV_"
+  },
+  {
+    "name": "The Comment",
+    "rawFb": "https://www.facebook.com/TheCommentNET2013",
+    "fb": "TheCommentNET2013",
+    "twitter": "TheComment_NET"
+  },
+  {
+    "name": "Bukan Empat Mata",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "bukan4mata"
+  },
+  {
+    "name": "Ini Talkshow",
+    "rawFb": "https://id-id.facebook.com/pages/Ini-TalkShow-NET/875923712434746",
+    "fb": "875923712434746",
+    "twitter": "Ini_Talkshow"
+  },
+  {
+    "name": "Tonight show",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "TonightShow_NET"
+  },
+  {
+    "name": "Tetangga masa gitu",
+    "rawFb": "https://id-id.facebook.com/tetanggamasagitunet",
+    "fb": "tetanggamasagitunet",
+    "twitter": "TMG_NET"
+  },
+  {
+    "name": "FTV SCTV",
+    "rawFb": "https://www.facebook.com/FTV.SCTV",
+    "fb": "FTV.SCTV",
+    "twitter": "FTV_SCTV"
+  },
+  {
+    "name": "Wide Shot",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "wideshotmetrotv"
+  },
+  {
+    "name": "Sketsa",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "sketsatranstv"
+  },
+  {
+    "name": "Stand up Metro TV",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "standupmetrotv"
+  },
+  {
+    "name": "Ceriwis",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ceriwis_transtv"
+  },
+  {
+    "name": "Homestay",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HomestayTrans7"
+  },
+  {
+    "name": "Iseng Banget",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Isengbanget_T7"
+  },
+  {
+    "name": "Bukan sekedang wayang",
+    "rawFb": "https://id-id.facebook.com/pages/Bukan-Sekedar-Wayang/792327067454350",
+    "fb": "792327067454350",
+    "twitter": "BSWayang_NET"
+  },
+  {
+    "name": "Net TV",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "86_NetTV"
+  },
+  {
+    "name": "My trip My adventure",
+    "rawFb": "https://www.facebook.com/pages/My-Trip-My-Adventure/174105516106810",
+    "fb": "174105516106810",
+    "twitter": "myTrip_myAdvntr"
+  },
+  {
+    "name": "Gen FM",
+    "rawFb": "https://www.facebook.com/987genfmjkt",
+    "fb": "987genfmjkt",
+    "twitter": "987Genfm"
+  },
+  {
+    "name": "Jak FM",
+    "rawFb": "https://www.facebook.com/101Jakfm",
+    "fb": "101Jakfm",
+    "twitter": "101Jakfm"
+  },
+  {
+    "name": "Prambors",
+    "rawFb": "https://www.facebook.com/prambors",
+    "fb": "prambors",
+    "twitter": "Prambors"
+  },
+  {
+    "name": "Delta FM",
+    "rawFb": "https://www.facebook.com/DeltaFMRadio",
+    "fb": "DeltaFMRadio",
+    "twitter": "Delta_FM"
+  },
+  {
+    "name": "OZ",
+    "rawFb": "https://www.facebook.com/ozradio.jakarta.9?fref=ts",
+    "fb": "ozradio.jakarta.9",
+    "twitter": "ozradiojakarta"
+  },
+  {
+    "name": "TRAX",
+    "rawFb": "https://www.facebook.com/1014TRAXFM",
+    "fb": "1014TRAXFM",
+    "twitter": "TraxFMJKT"
+  },
+  {
+    "name": "I-RADIO",
+    "rawFb": "https://www.facebook.com/IRADIOJAKARTA",
+    "fb": "IRADIOJAKARTA",
+    "twitter": "Iradiojakarta"
+  },
+  {
+    "name": "Mustang",
+    "rawFb": "https://www.facebook.com/mustang88fm",
+    "fb": "mustang88fm",
+    "twitter": "mustang88fm"
+  },
+  {
+    "name": "Female ",
+    "rawFb": "https://www.facebook.com/femaleradio",
+    "fb": "femaleradio",
+    "twitter": "979FeMaleRadio"
+  },
+  {
+    "name": "Global",
+    "rawFb": "https://www.facebook.com/pages/Global-Radio-Jakarta/78363072223",
+    "fb": "78363072223",
+    "twitter": "884GlobalFM"
+  },
+  {
+    "name": "Ardan",
+    "rawFb": "https://www.facebook.com/ardanradiobandung",
+    "fb": "ardanradiobandung",
+    "twitter": "ardanradio"
+  },
+  {
+    "name": "99ers",
+    "rawFb": "https://www.facebook.com/pages/99ers-100-FM-Bandung/113008405438894",
+    "fb": "113008405438894",
+    "twitter": "99ersRadio_Bdg"
+  },
+  {
+    "name": "Hardrock",
+    "rawFb": "https://www.facebook.com/876hardrockfm",
+    "fb": "876hardrockfm",
+    "twitter": "hardrockfm"
+  },
+  {
+    "name": "HITS",
+    "rawFb": "https://www.facebook.com/HitsRadioBandung",
+    "fb": "HitsRadioBandung",
+    "twitter": "Hitsradiobdg"
+  },
+  {
+    "name": "Urban",
+    "rawFb": "https://www.facebook.com/pages/1063-FM-Urban-Radio-Bandung/137924826278505",
+    "fb": "137924826278505",
+    "twitter": "UrbanRadio254"
+  },
+  {
+    "name": "V Radio",
+    "rawFb": "https://www.facebook.com/vradio.jakarta",
+    "fb": "vradio.jakarta",
+    "twitter": "VRadioFM"
+  },
+  {
+    "name": "Sindo Trijaya",
+    "rawFb": "https://www.facebook.com/sindotrijayafm",
+    "fb": "sindotrijayafm",
+    "twitter": "SindoTrijayaFM"
+  },
+  {
+    "name": "KIS FM",
+    "rawFb": "https://www.facebook.com/kisfmjakarta",
+    "fb": "kisfmjakarta",
+    "twitter": "kisfmjakarta"
+  },
+  {
+    "name": "HITZ FM",
+    "rawFb": "https://www.facebook.com/967hitzfm",
+    "fb": "967hitzfm",
+    "twitter": "967HitzFM"
+  },
+  {
+    "name": "PT Garuda Indonesia",
+    "rawFb": "https://id-id.facebook.com/PT.GarudaIndonesia",
+    "fb": "PT.GarudaIndonesia",
+    "twitter": "IndonesiaGaruda"
+  },
+  {
+    "name": "PT Merpati NusantaraÿAirlinesÿ",
+    "rawFb": "https://id-id.facebook.com/pages/PT-MERPATI-NUSANTARA-AIRLINES/59975819750",
+    "fb": "59975819750",
+    "twitter": "merpatiairlines"
+  },
+  {
+    "name": "PT Dok dan Perkapalan Surabaya",
+    "rawFb": "https://id-id.facebook.com/pages/PTDok-dan-Perkapalan-Surabaya-PERSERO/116142031781012",
+    "fb": "116142031781012",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara III",
+    "rawFb": "https://www.facebook.com/pages/PT-Perkebunan-Nusantara-III-Persero/111067895643837",
+    "fb": "111067895643837",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara IV",
+    "rawFb": "https://id-id.facebook.com/pages/PT-Perkebunan-Nusantara-IV-Persero/328929549705",
+    "fb": "328929549705",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara IX",
+    "rawFb": "https://www.facebook.com/ptpn09",
+    "fb": "ptpn09",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara V",
+    "rawFb": "https://www.facebook.com/pages/PT-Perkebunan-Nusantara-V-Persero/1430808697164788",
+    "fb": "1430808697164788",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara VI",
+    "rawFb": "https://id-id.facebook.com/ptpnVI",
+    "fb": "ptpnVI",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara VII",
+    "rawFb": "https://id-id.facebook.com/pages/PT-Perkebunan-Nusantara-VII-PERSERO/102869616505644?sk=info",
+    "fb": "102869616505644",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara VIII",
+    "rawFb": "https://www.facebook.com/pages/Perkebunan-Nusantara-VIII/145483318812097",
+    "fb": "145483318812097",
+    "twitter": ""
+  },
+  {
+    "name": "PT Perkebunan Nusantara XI",
+    "rawFb": "https://www.facebook.com/ptpn11",
+    "fb": "ptpn11",
+    "twitter": "ptpn11"
+  },
+  {
+    "name": "PT Pertani",
+    "rawFb": "https://www.facebook.com/pages/PT-Pertani-Persero/249687625117927",
+    "fb": "249687625117927",
+    "twitter": ""
+  },
+  {
+    "name": "PT Sang Hyang Seri",
+    "rawFb": "https://id-id.facebook.com/pages/PT-Sang-Hyang-Seri-Persero/213266588707257",
+    "fb": "213266588707257",
+    "twitter": ""
+  },
+  {
+    "name": "PT Pupuk Sriwidjaja",
+    "rawFb": "https://www.facebook.com/pages/PT-Pupuk-Sriwidjaja-Palembang/157362670977664",
+    "fb": "157362670977664",
+    "twitter": "pusripalembang"
+  },
+  {
+    "name": "Perum Perhutani",
+    "rawFb": "https://www.facebook.com/pages/Perum-Perhutani/224379790937318",
+    "fb": "224379790937318",
+    "twitter": "PerumPerhutani"
+  },
+  {
+    "name": "PT Kertas Leces",
+    "rawFb": "https://www.facebook.com/pages/PT-Kertas-Leces-PTKL-Probolinggo/77208773950",
+    "fb": "77208773950",
+    "twitter": ""
+  },
+  {
+    "name": "PT Balai Pustaka",
+    "rawFb": "https://www.facebook.com/Multimedia.PT.Balai.Pustaka.Persero?ref=stream",
+    "fb": "Multimedia.PT.Balai.Pustaka.Persero",
+    "twitter": "PTBalaiPustaka"
+  },
+  {
+    "name": "PT Antam Tbk",
+    "rawFb": "https://www.facebook.com/pages/PT-Antam-Persero-Tbk/258118647629283",
+    "fb": "258118647629283",
+    "twitter": "OfficialAntam"
+  },
+  {
+    "name": "PT Pertamina",
+    "rawFb": "https://www.facebook.com/ptpertaminapersero",
+    "fb": "ptpertaminapersero",
+    "twitter": "PTPERTAMINA"
+  },
+  {
+    "name": "PT Perusahaan Gas Negara Tbk",
+    "rawFb": "https://www.facebook.com/pages/PT-Perusahaan-Gas-Negara-Persero-Tbk/130479023722680",
+    "fb": "130479023722680",
+    "twitter": ""
+  },
+  {
+    "name": "PT PLN",
+    "rawFb": "https://www.facebook.com/cc123pln",
+    "fb": "cc123pln",
+    "twitter": "pln_123"
+  },
+  {
+    "name": "PT Tambang Batubara Bukit Asam Tbk",
+    "rawFb": "https://www.facebook.com/BukitAsamOfficial",
+    "fb": "BukitAsamOfficial",
+    "twitter": ""
+  },
+  {
+    "name": "PT Inka",
+    "rawFb": "https://www.facebook.com/pages/PT-INKA/113480665416468",
+    "fb": "113480665416468",
+    "twitter": "ptinka"
+  },
+  {
+    "name": "PT LEN Industri",
+    "rawFb": "https://www.facebook.com/pages/PTLen-Industri-Persero/129652197116026",
+    "fb": "129652197116026",
+    "twitter": "HumasLen"
+  },
+  {
+    "name": "PT Barata Indonesia",
+    "rawFb": "https://www.facebook.com/ptbarata",
+    "fb": "ptbarata",
+    "twitter": ""
+  },
+  {
+    "name": "PT Boma Bisma Indra",
+    "rawFb": "https://www.facebook.com/pages/PT-Boma-Bisma-Indra-Persero/108337514684",
+    "fb": "108337514684",
+    "twitter": ""
+  },
+  {
+    "name": "PT Telekomunikasi Indonesia Tbk",
+    "rawFb": "https://www.facebook.com/TelekomunikasiIndonesia",
+    "fb": "TelekomunikasiIndonesia",
+    "twitter": "TelkomIndonesia"
+  },
+  {
+    "name": "Perum Produksi Film Negara",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "StudioPFN"
+  },
+  {
+    "name": "PT Indosat Tbk",
+    "rawFb": "https://www.facebook.com/Indosat.IM3",
+    "fb": "Indosat.IM3",
+    "twitter": "IndosatMania"
+  },
+  {
+    "name": "PT DAHANA",
+    "rawFb": "https://www.facebook.com/dahana.persero",
+    "fb": "dahana.persero",
+    "twitter": "ptdahana"
+  },
+  {
+    "name": "PT PINDAD",
+    "rawFb": "https://www.facebook.com/pages/PT-PINDAD-Persero/179347639820",
+    "fb": "179347639820",
+    "twitter": "PTPINDAD"
+  },
+  {
+    "name": "PT Semen Baturaja",
+    "rawFb": "https://www.facebook.com/pages/PT-Semen-Baturaja-PERSERO/166100293465058",
+    "fb": "166100293465058",
+    "twitter": ""
+  },
+  {
+    "name": "PT Semen Gresik Tbk",
+    "rawFb": "https://www.facebook.com/semengresik",
+    "fb": "semengresik",
+    "twitter": ""
+  },
+  {
+    "name": "PT Semen Kupang",
+    "rawFb": "https://www.facebook.com/semenkupang",
+    "fb": "semenkupang",
+    "twitter": ""
+  },
+  {
+    "name": "PT Garam",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "infogaram"
+  },
+  {
+    "name": "PT Asuransi Kredit Indonesia",
+    "rawFb": "https://www.facebook.com/pages/PT-Persero-Asuransi-Kredit-Indonesia/100919599991648",
+    "fb": "100919599991648",
+    "twitter": ""
+  },
+  {
+    "name": "PT POS Indonesia",
+    "rawFb": "https://www.facebook.com/posindonesia",
+    "fb": "posindonesia",
+    "twitter": "PosIndonesia"
+  },
+  {
+    "name": "PT PERTAMINA",
+    "rawFb": "https://www.facebook.com/ptpertaminapersero",
+    "fb": "ptpertaminapersero",
+    "twitter": "PTPERTAMINA"
+  },
+  {
+    "name": "Hanura",
+    "rawFb": "https://www.facebook.com/hanura.official",
+    "fb": "hanura.official",
+    "twitter": "PartaiHANURA"
+  },
+  {
+    "name": "PDIP",
+    "rawFb": "https://www.facebook.com/DPP.PDI.Perjuangan",
+    "fb": "DPP.PDI.Perjuangan",
+    "twitter": "PDI_Perjuangan"
+  },
+  {
+    "name": "PPP",
+    "rawFb": "https://www.facebook.com/pppdpp",
+    "fb": "pppdpp",
+    "twitter": "DPP_PPP"
+  },
+  {
+    "name": "PKS",
+    "rawFb": "https://www.facebook.com/HumasPartaiKeadilanSejahtera",
+    "fb": "HumasPartaiKeadilanSejahtera",
+    "twitter": "PKSejahtera"
+  },
+  {
+    "name": "Demokrat",
+    "rawFb": "https://www.facebook.com/pdemokrat",
+    "fb": "pdemokrat",
+    "twitter": "PDemokrat"
+  },
+  {
+    "name": "Nasdem",
+    "rawFb": "https://www.facebook.com/pages/Partai-Nasdem/135724689838285",
+    "fb": "135724689838285",
+    "twitter": "PemudaNasDem"
+  },
+  {
+    "name": "Gerindra",
+    "rawFb": "https://www.facebook.com/gerindra",
+    "fb": "gerindra",
+    "twitter": "Gerindra"
+  },
+  {
+    "name": "Golkar",
+    "rawFb": "https://www.facebook.com/PagePartaiGolkar",
+    "fb": "PagePartaiGolkar",
+    "twitter": "Golkar5"
+  },
+  {
+    "name": "PKB",
+    "rawFb": "https://www.facebook.com/pkb2pkb",
+    "fb": "pkb2pkb",
+    "twitter": "BeritaPKB"
+  },
+  {
+    "name": "PAN",
+    "rawFb": "https://www.facebook.com/amanatnasional",
+    "fb": "amanatnasional",
+    "twitter": ""
+  },
+  {
+    "name": "PBB",
+    "rawFb": "https://www.facebook.com/pages/DPP-Partai-Bulan-Bintang-wwwbulan-bintangorg/114716555303039",
+    "fb": "114716555303039",
+    "twitter": "DPPBulanBintang"
+  },
+  {
+    "name": "Partai Nasional Aceh",
+    "rawFb": "https://www.facebook.com/infopna12",
+    "fb": "infopna12",
+    "twitter": "infoPNA12"
+  },
+  {
+    "name": "Persib",
+    "rawFb": "https://www.facebook.com/pages/PERSIB-Bandung/21164211233",
+    "fb": "21164211233",
+    "twitter": "PersibOfficial"
+  },
+  {
+    "name": "PSM",
+    "rawFb": "https://www.facebook.com/pages/PSM-Makassar/163185546552",
+    "fb": "163185546552",
+    "twitter": "PMSnews"
+  },
+  {
+    "name": "Sriwijaya",
+    "rawFb": "https://www.facebook.com/sriwijayafc",
+    "fb": "sriwijayafc",
+    "twitter": "_SriwijayaFC_"
+  },
+  {
+    "name": "Deltras",
+    "rawFb": "https://www.facebook.com/deltamaniasidoarjo",
+    "fb": "deltamaniasidoarjo",
+    "twitter": "deltras_fc"
+  },
+  {
+    "name": "Semen Padang",
+    "rawFb": "https://www.facebook.com/semenpadangfc",
+    "fb": "semenpadangfc",
+    "twitter": "FCSemenPadang"
+  },
+  {
+    "name": "Arema",
+    "rawFb": "https://www.facebook.com/aremaindonesiafc",
+    "fb": "aremaindonesiafc",
+    "twitter": "Aremafc_ISL"
+  },
+  {
+    "name": "Persija",
+    "rawFb": "https://www.facebook.com/pages/PERSIJA-JAKARTA/195433703597",
+    "fb": "195433703597",
+    "twitter": "Persija_Jkt"
+  },
+  {
+    "name": "Persebaya",
+    "rawFb": "https://www.facebook.com/pages/Persebaya-Surabaya-1927/185380884826216",
+    "fb": "185380884826216",
+    "twitter": "FCPERSEBAYA"
+  },
+  {
+    "name": "Persijap",
+    "rawFb": "https://www.facebook.com/FansPersijap",
+    "fb": "FansPersijap",
+    "twitter": "Persijap"
+  },
+  {
+    "name": "Bontang FC",
+    "rawFb": "https://www.facebook.com/bontang.FC",
+    "fb": "bontang.FC",
+    "twitter": "bontangfc_1988"
+  },
+  {
+    "name": "Persema",
+    "rawFb": "https://www.facebook.com/persema",
+    "fb": "persema",
+    "twitter": "FCPERSEMA"
+  },
+  {
+    "name": "Persipura",
+    "rawFb": "https://www.facebook.com/persipura",
+    "fb": "persipura",
+    "twitter": "PERSIPURA_"
+  },
+  {
+    "name": "Persiram",
+    "rawFb": "https://www.facebook.com/pages/Persiram-RAJA-Ampat/257095531010842",
+    "fb": "257095531010842",
+    "twitter": "persiram_raja4"
+  },
+  {
+    "name": "Barito Putra",
+    "rawFb": "https://www.facebook.com/PsBaritoPuteraKalsel",
+    "fb": "PsBaritoPuteraKalsel",
+    "twitter": "baritoputera"
+  },
+  {
+    "name": "Mitra Kukar",
+    "rawFb": "https://www.facebook.com/mitrakukar",
+    "fb": "mitrakukar",
+    "twitter": "MitraKukar"
+  },
+  {
+    "name": "Persisam",
+    "rawFb": "https://www.facebook.com/PersisamID",
+    "fb": "PersisamID",
+    "twitter": "PersisamID"
+  },
+  {
+    "name": "Persepam",
+    "rawFb": "https://www.facebook.com/Persepam.mu",
+    "fb": "Persepam.mu",
+    "twitter": "PersepamMadura"
+  },
+  {
+    "name": "Gresik United",
+    "rawFb": "https://www.facebook.com/ultrasmaniagresik",
+    "fb": "ultrasmaniagresik",
+    "twitter": "GresikUnited_FC"
+  },
+  {
+    "name": "Persela",
+    "rawFb": "https://www.facebook.com/PerselaFC",
+    "fb": "PerselaFC",
+    "twitter": "PerselaFC"
+  },
+  {
+    "name": "Persita",
+    "rawFb": "https://www.facebook.com/pages/Persita-Tangerang/26633412083",
+    "fb": "26633412083",
+    "twitter": "PersitaOfficial"
+  },
+  {
+    "name": "Persiba Bantul",
+    "rawFb": "https://www.facebook.com/persiba",
+    "fb": "persiba",
+    "twitter": "persiba"
+  },
+  {
+    "name": "Perseru",
+    "rawFb": "https://www.facebook.com/Perseru",
+    "fb": "Perseru",
+    "twitter": "PERSERU_SERUI"
+  },
+  {
+    "name": "Persik",
+    "rawFb": "https://www.facebook.com/Persik",
+    "fb": "Persik",
+    "twitter": "Persik_ID"
+  },
+  {
+    "name": "Pelita Bandung Raya",
+    "rawFb": "https://www.facebook.com/PelitaBandungRayaFc",
+    "fb": "PelitaBandungRayaFc",
+    "twitter": "pbandungrayafc"
+  },
+  {
+    "name": "Persikabo",
+    "rawFb": "https://www.facebook.com/PBLOfficial",
+    "fb": "PBLOfficial",
+    "twitter": "PersikaboLovers"
+  },
+  {
+    "name": "Persiraja",
+    "rawFb": "https://www.facebook.com/pages/PERSIRAJA/54724763780",
+    "fb": "54724763780",
+    "twitter": "Persiraja"
+  },
+  {
+    "name": "Komisi Pemberantasan Korupsi",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KPK_RI"
+  },
+  {
+    "name": "SAR Nasional",
+    "rawFb": "https://www.facebook.com/pages/Badan-SAR-Nasional/107501425128",
+    "fb": "107501425128",
+    "twitter": "SAR_NASIONAL"
+  },
+  {
+    "name": "Departemen Agama (Depag)",
+    "rawFb": "https://www.facebook.com/pages/Kementerian-Agama-RI/286506207927",
+    "fb": "286506207927",
+    "twitter": "Kemenag_RI"
+  },
+  {
+    "name": "Departemen Energi Dan Sumber Daya Mineral (Dep ESDM)",
+    "rawFb": "https://www.facebook.com/kesdm",
+    "fb": "kesdm",
+    "twitter": "KESDM"
+  },
+  {
+    "name": "Departemen Luar Negeri (Deplu)",
+    "rawFb": "https://www.facebook.com/Kemlu.RI",
+    "fb": "Kemlu.RI",
+    "twitter": "Portal_Kemlu_RI"
+  },
+  {
+    "name": "Departemen Hukum Dan Hak Asasi Manusia (Depkumham)",
+    "rawFb": "https://www.facebook.com/KEMENKUMHAM.RI",
+    "fb": "KEMENKUMHAM.RI",
+    "twitter": "Humas_Kumham"
+  },
+  {
+    "name": "Departemen Kehutanan (Dephut)",
+    "rawFb": "https://www.facebook.com/pages/Kementerian-Kehutanan-RI/138151149577999",
+    "fb": "138151149577999",
+    "twitter": "Kemenhut"
+  },
+  {
+    "name": "Departemen Keuangan (Depkeu)",
+    "rawFb": "https://www.facebook.com/pages/Kementerian-Keuangan-Republik-Indonesia/217934864971247",
+    "fb": "217934864971247",
+    "twitter": "KemenkeuRI"
+  },
+  {
+    "name": "Departemen Kelautan Dan Perikanan (DKP)",
+    "rawFb": "https://www.facebook.com/pages/Kementerian-Kelautan-Dan-Perikanan-KKP/196629527026251",
+    "fb": "196629527026251",
+    "twitter": "KelautanKKP"
+  },
+  {
+    "name": "Departemen Kebudayaan Dan Pariwisata (Depbudpar)",
+    "rawFb": "https://www.facebook.com/Kemdikbud.RI",
+    "fb": "Kemdikbud.RI",
+    "twitter": "Kemdikbud_RI"
+  },
+  {
+    "name": "Departemen Komunikasi Dan Informatika (Depkominfo)",
+    "rawFb": "https://www.facebook.com/Kemkominfo",
+    "fb": "Kemkominfo",
+    "twitter": "kemkominfo"
+  },
+  {
+    "name": "Departemen Pekerjaan Umum (PU)",
+    "rawFb": "https://www.facebook.com/publikasi.kementerianpu",
+    "fb": "publikasi.kementerianpu",
+    "twitter": "KemenPU"
+  },
+  {
+    "name": "Departemen Pendidikan Nasional (Depdiknas)",
+    "rawFb": "https://www.facebook.com/Kemdikbud.RI",
+    "fb": "Kemdikbud.RI",
+    "twitter": "Kemdikbud_RI"
+  },
+  {
+    "name": "Departemen Perdagangan (Depdag)",
+    "rawFb": "https://www.facebook.com/pages/Kementerian-Perdagangan/608925165792115",
+    "fb": "608925165792115",
+    "twitter": "Kemendag"
+  },
+  {
+    "name": "Departemen Pertanian (Deptan)",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kementan"
+  },
+  {
+    "name": "Departemen Perindustrian (Depperin)",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Kemenperin_RI"
+  },
+  {
+    "name": "Departemen Tenaga Kerja Dan Transmigrasi (Depnakertrans)",
+    "rawFb": "https://www.facebook.com/pages/Kementerian-Tenaga-Kerja-dan-Transmigrasi-RI/233402133510931?notif_t=page_new_likes",
+    "fb": "233402133510931",
+    "twitter": "humasnakertrans"
+  },
+  {
+    "name": "Kementerian Negara Koperasi Dan UKM",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "depkop"
+  },
+  {
+    "name": "Kementerian Negara Lingkungan Hidup w",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HumasKLH"
+  },
+  {
+    "name": "Kementerian Negara Perencanaan Pembangunan Nasional/BAPPENAS",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "bappenas"
+  },
+  {
+    "name": "Kementerian Negara Pemberdayaan Perempuan",
+    "rawFb": "https://www.facebook.com/kppdanpa",
+    "fb": "kppdanpa",
+    "twitter": ""
+  },
+  {
+    "name": "Kementerian Negara Pembangunan Daerah Tertinggal w",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KPDT_RI"
+  },
+  {
+    "name": "Kementerian Negara Pemuda Dan Olahraga",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KemenporaRI"
+  },
+  {
+    "name": "Kementerian Negara Riset Dan Teknologi",
+    "rawFb": "https://www.facebook.com/ristekgaul",
+    "fb": "ristekgaul",
+    "twitter": "ristekgaul"
+  },
+  {
+    "name": "Sekretariat Kabinet",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "setkabgoid"
+  },
+  {
+    "name": "Jaksa Agung",
+    "rawFb": "https://www.facebook.com/Kejaksaan.Republik.Indonesia",
+    "fb": "Kejaksaan.Republik.Indonesia",
+    "twitter": ""
+  },
+  {
+    "name": "Tentara Nasional Indonesia",
+    "rawFb": "https://www.facebook.com/pages/Pusat-Penerangan-TNI/350005585069284",
+    "fb": "350005585069284",
+    "twitter": "Puspen_TNI"
+  },
+  {
+    "name": "Kepolisian Negara Republik Indonesia",
+    "rawFb": "https://www.facebook.com/polri",
+    "fb": "polri",
+    "twitter": ""
+  },
+  {
+    "name": "Kementerian Koordinator Bidang PolhukamKementerian Koordinator Kesejahteraan Rakyat",
+    "rawFb": "https://www.facebook.com/pages/Kemenko-Polhukam-RI/169257903141478",
+    "fb": "169257903141478",
+    "twitter": "Kemenkopolhukam"
+  },
+  {
+    "name": "ANRI (Arsip Nasional)",
+    "rawFb": "https://www.facebook.com/pages/Arsip-Nasional-Republik-Indonesia/147810415382310",
+    "fb": "147810415382310",
+    "twitter": "ArsipNasionalRI"
+  },
+  {
+    "name": "KPU Komisi Pemilihan Umum",
+    "rawFb": "https://www.facebook.com/pages/KPU-Republik-Indonesia/137473109756643",
+    "fb": "137473109756643",
+    "twitter": "KPURI2014"
+  },
+  {
+    "name": "BPK Badan Pengawas Keuangan",
+    "rawFb": "https://www.facebook.com/auditboard.RI",
+    "fb": "auditboard.RI",
+    "twitter": "bpkri"
+  },
+  {
+    "name": "PPATK Pusat Pelaporan Analisis dan Transaksi Keuangan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "PPATK"
+  },
+  {
+    "name": "BPS (Biro Pusat Statistik)",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "BPS_Indonesia"
+  },
+  {
+    "name": "BMKG Badan Meteorologi Klimatologi dan Geofisika",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "infoBMKG"
+  },
+  {
+    "name": "Traffic Management Center",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "TMCPoldaMetro"
+  },
+  {
+    "name": "Safir Senduk",
+    "rawFb": "https://www.facebook.com/safirsenduk",
+    "fb": "safirsenduk",
+    "twitter": "SafirSenduk"
+  },
+  {
+    "name": "Roy Shakti",
+    "rawFb": "https://www.facebook.com/pages/Roy-Shakti-Pakar-Kartu-Kredit/179559162075625?ref=hl",
+    "fb": "179559162075625",
+    "twitter": "RoyShakti"
+  },
+  {
+    "name": "Ligwina Hananto",
+    "rawFb": "https://www.facebook.com/pages/QM-Financial/334787519678",
+    "fb": "334787519678",
+    "twitter": "mrshananto"
+  },
+  {
+    "name": "Aidil Akbar Madjid",
+    "rawFb": "https://www.facebook.com/aidilakbarmadjid",
+    "fb": "aidilakbarmadjid",
+    "twitter": "AidilAKBAR"
+  },
+  {
+    "name": "Freddy Pieloor",
+    "rawFb": "https://www.facebook.com/FREDDYPIELOOR?ref=ts&fref=ts",
+    "fb": "FREDDYPIELOOR",
+    "twitter": "FreddyPieloor"
+  },
+  {
+    "name": "NOAH",
+    "rawFb": "https://www.facebook.com/NOAH.ID.MUSIC",
+    "fb": "NOAH.ID.MUSIC",
+    "twitter": "NOAH_ID"
+  },
+  {
+    "name": "Slank",
+    "rawFb": "https://www.facebook.com/slankband",
+    "fb": "slankband",
+    "twitter": "slankdotcom"
+  },
+  {
+    "name": "SMASH",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "SMASHindonesia"
+  },
+  {
+    "name": "Cherrybelle",
+    "rawFb": "https://www.facebook.com/CherryBelle.Official.FanPage",
+    "fb": "CherryBelle.Official.FanPage",
+    "twitter": "Cherrybelleindo"
+  },
+  {
+    "name": "Vieratalle",
+    "rawFb": "https://www.facebook.com/Vierratale.official",
+    "fb": "Vierratale.official",
+    "twitter": "Vierratale"
+  },
+  {
+    "name": "Kotak",
+    "rawFb": "https://www.facebook.com/KotakAsli",
+    "fb": "KotakAsli",
+    "twitter": "kotakband_"
+  },
+  {
+    "name": "Geisha",
+    "rawFb": "https://www.facebook.com/GeishaIndonesia",
+    "fb": "GeishaIndonesia",
+    "twitter": "geishaindonesia"
+  },
+  {
+    "name": "Superman is Dead",
+    "rawFb": "https://www.facebook.com/SupermanIsDeadSidOfficial",
+    "fb": "SupermanIsDeadSidOfficial",
+    "twitter": "SID_Official"
+  },
+  {
+    "name": "Dmasiv",
+    "rawFb": "https://www.facebook.com/pages/dMasiv/194148335787",
+    "fb": "194148335787",
+    "twitter": "dmasivband"
+  },
+  {
+    "name": "Bondan and Fade 2 black",
+    "rawFb": "https://www.facebook.com/bondanf2b",
+    "fb": "bondanf2b",
+    "twitter": "BondanF2B"
+  },
+  {
+    "name": "Nidji",
+    "rawFb": "https://www.facebook.com/NIDJIholic?ref=br_tf",
+    "fb": "NIDJIholic",
+    "twitter": "nidji"
+  },
+  {
+    "name": "Endank Soekamti",
+    "rawFb": "https://www.facebook.com/endanksoekamti",
+    "fb": "endanksoekamti",
+    "twitter": "EndankSoekamti_"
+  },
+  {
+    "name": "Gugun and Blues Shelter",
+    "rawFb": "https://www.facebook.com/pages/Gugun-Blues-Shelter/231675880190849",
+    "fb": "231675880190849",
+    "twitter": "GBluesShelter"
+  },
+  {
+    "name": "Ada Band",
+    "rawFb": "https://www.facebook.com/pages/ADA-Indonesia/173265536020370?v=info",
+    "fb": "173265536020370",
+    "twitter": "ADA_INDONESIA"
+  },
+  {
+    "name": "Princess",
+    "rawFb": "https://www.facebook.com/PrincessIndonesia",
+    "fb": "PrincessIndonesia",
+    "twitter": "princess_ind"
+  },
+  {
+    "name": "Last Child",
+    "rawFb": "https://www.facebook.com/lastchild",
+    "fb": "lastchild",
+    "twitter": "myLASTCHILD"
+  },
+  {
+    "name": "Armada",
+    "rawFb": "https://www.facebook.com/armada.musik",
+    "fb": "armada.musik",
+    "twitter": "band_Armada"
+  },
+  {
+    "name": "Pas Band",
+    "rawFb": "https://www.facebook.com/pasband.info",
+    "fb": "pasband.info",
+    "twitter": "PASbandOfficial"
+  },
+  {
+    "name": "The Brandals",
+    "rawFb": "https://www.facebook.com/pages/The-Brandals/112570826262",
+    "fb": "112570826262",
+    "twitter": "Thebrandals"
+  },
+  {
+    "name": "Alexa",
+    "rawFb": "https://www.facebook.com/Alexatheband",
+    "fb": "Alexatheband",
+    "twitter": "ALEXAtheBand"
+  },
+  {
+    "name": "Maliq and D'essential",
+    "rawFb": "https://www.facebook.com/Maliqndessentials",
+    "fb": "Maliqndessentials",
+    "twitter": "MaliqMusic"
+  },
+  {
+    "name": "The Changcuters",
+    "rawFb": "https://www.facebook.com/thechangcutersrock",
+    "fb": "thechangcutersrock",
+    "twitter": "twitchangcuters"
+  },
+  {
+    "name": "Kerispatih",
+    "rawFb": "https://www.facebook.com/kerispatih.band",
+    "fb": "kerispatih.band",
+    "twitter": "kerispatih_band"
+  },
+  {
+    "name": "Sheila on 7",
+    "rawFb": "https://www.facebook.com/pages/Sheila-on-7/108424945858274",
+    "fb": "108424945858274",
+    "twitter": "sheilaon7"
+  },
+  {
+    "name": "Gigi",
+    "rawFb": "https://www.facebook.com/pages/Gigi-band/118388814844519",
+    "fb": "118388814844519",
+    "twitter": "gigi_band"
+  },
+  {
+    "name": "Kangen Band",
+    "rawFb": "https://www.facebook.com/official.kangenband",
+    "fb": "official.kangenband",
+    "twitter": "kangenband_"
+  },
+  {
+    "name": "Naif",
+    "rawFb": "https://www.facebook.com/Naif8and",
+    "fb": "Naif8and",
+    "twitter": "Naifband"
+  },
+  {
+    "name": "The Sigit",
+    "rawFb": "https://www.facebook.com/thesigitofficial",
+    "fb": "thesigitofficial",
+    "twitter": "thesigit"
+  },
+  {
+    "name": "Repvblik",
+    "rawFb": "https://www.facebook.com/pages/Repvblik/202317706632226",
+    "fb": "202317706632226",
+    "twitter": "repvblik_ind"
+  },
+  {
+    "name": "Ungu",
+    "rawFb": "https://www.facebook.com/UNGUBand",
+    "fb": "UNGUBand",
+    "twitter": "ungu_tweet"
+  },
+  {
+    "name": "Kahitna",
+    "rawFb": "https://www.facebook.com/KAHITNA",
+    "fb": "KAHITNA",
+    "twitter": "kahitnafull"
+  },
+  {
+    "name": "Yovie and The Nuno",
+    "rawFb": "https://www.facebook.com/pages/Yovie-and-Nuno/39816754628",
+    "fb": "39816754628",
+    "twitter": "yovieandnuno"
+  },
+  {
+    "name": "Overtunes",
+    "rawFb": "https://www.facebook.com/TheOvertunes",
+    "fb": "TheOvertunes",
+    "twitter": "theovertunes"
+  },
+  {
+    "name": "Lyla",
+    "rawFb": "https://www.facebook.com/LYLAFANSCLUB",
+    "fb": "LYLAFANSCLUB",
+    "twitter": "lylaindonesia"
+  },
+  {
+    "name": "/rif",
+    "rawFb": "https://www.facebook.com/pages/rif/126719926577?sk=timeline",
+    "fb": "126719926577",
+    "twitter": "__rif"
+  },
+  {
+    "name": "7 icons",
+    "rawFb": "https://www.facebook.com/7ICONS",
+    "fb": "7ICONS",
+    "twitter": ""
+  },
+  {
+    "name": "Alexa",
+    "rawFb": "https://www.facebook.com/Alexatheband",
+    "fb": "Alexatheband",
+    "twitter": "alexatheband"
+  },
+  {
+    "name": "Andra and The Backbone",
+    "rawFb": "https://www.facebook.com/backbone.official",
+    "fb": "backbone.official",
+    "twitter": "abackbone"
+  },
+  {
+    "name": "Cokelat",
+    "rawFb": "https://www.facebook.com/CokelatBand",
+    "fb": "CokelatBand",
+    "twitter": "cokelatband"
+  },
+  {
+    "name": "CJR",
+    "rawFb": "https://www.facebook.com/pages/Cjr-Is-Cjr/789905201029819",
+    "fb": "789905201029819",
+    "twitter": "cjrcomate31"
+  },
+  {
+    "name": "Ecoutez!",
+    "rawFb": "https://www.facebook.com/pages/ECOUTEZ/45224000026",
+    "fb": "45224000026",
+    "twitter": "ecoutez_ekute"
+  },
+  {
+    "name": "Five Minutes",
+    "rawFb": "https://www.facebook.com/FiveMinutesIndonesia",
+    "fb": "FiveMinutesIndonesia",
+    "twitter": "fiveminutes_fm"
+  },
+  {
+    "name": "Wali Band",
+    "rawFb": "https://www.facebook.com/pages/WALI-BAND/118270987889",
+    "fb": "118270987889",
+    "twitter": "bandwali"
+  },
+  {
+    "name": "White Shoes & The Couples Company",
+    "rawFb": "https://www.facebook.com/pages/White-Shoes-The-Couples-Company/56185409640",
+    "fb": "56185409640",
+    "twitter": "wsatcc"
+  },
+  {
+    "name": "D'Bagindas",
+    "rawFb": "https://www.facebook.com/pages/dbagindas/259860837382982",
+    "fb": "259860837382982",
+    "twitter": "Bagindaria_ID_"
+  },
+  {
+    "name": "D'Cinnamons",
+    "rawFb": "https://www.facebook.com/pages/DCinnamons/59197338558",
+    "fb": "59197338558",
+    "twitter": "dcinnamonsband"
+  },
+  {
+    "name": "Dewa 19",
+    "rawFb": "https://www.facebook.com/Dewa19",
+    "fb": "Dewa19",
+    "twitter": "de19wa"
+  },
+  {
+    "name": "J-Rocks",
+    "rawFb": "https://www.facebook.com/jrocks.official",
+    "fb": "jrocks.official",
+    "twitter": "jrocks1spirit"
+  },
+  {
+    "name": "Jamrud",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "jamrudband"
+  },
+  {
+    "name": "Jikustik",
+    "rawFb": "https://www.facebook.com/pages/Jikustik/657051284333946?rf=695709510469250",
+    "fb": "657051284333946",
+    "twitter": "jikustik"
+  },
+  {
+    "name": "JKT48",
+    "rawFb": "https://www.facebook.com/official.JKT48",
+    "fb": "official.JKT48",
+    "twitter": "officialjkt48"
+  },
+  {
+    "name": "Mocca",
+    "rawFb": "https://www.facebook.com/moccaband",
+    "fb": "moccaband",
+    "twitter": "moccaofficial"
+  },
+  {
+    "name": "Naff",
+    "rawFb": "https://www.facebook.com/NaFFOnline",
+    "fb": "NaFFOnline",
+    "twitter": "naff_band"
+  },
+  {
+    "name": "Netral",
+    "rawFb": "https://www.facebook.com/pages/Netral/220045414763494?rf=189253567860385",
+    "fb": "220045414763494",
+    "twitter": "netral_official"
+  },
+  {
+    "name": "Project Pop",
+    "rawFb": "https://www.facebook.com/project.pop",
+    "fb": "project.pop",
+    "twitter": "projectpop"
+  },
+  {
+    "name": "Radja",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "radja_band"
+  },
+  {
+    "name": "Ran",
+    "rawFb": "https://www.facebook.com/ranforyourlife",
+    "fb": "ranforyourlife",
+    "twitter": "ranforyourlife"
+  },
+  {
+    "name": "Seventeen",
+    "rawFb": "https://www.facebook.com/SeventeenBand",
+    "fb": "SeventeenBand",
+    "twitter": "seventeenband"
+  },
+  {
+    "name": "Saykoji",
+    "rawFb": "https://www.facebook.com/saykoji",
+    "fb": "saykoji",
+    "twitter": "saykoji"
+  },
+  {
+    "name": "Setia Band",
+    "rawFb": "https://www.facebook.com/SetiaBand",
+    "fb": "SetiaBand",
+    "twitter": "_setia_band_"
+  },
+  {
+    "name": "SHE",
+    "rawFb": "https://www.facebook.com/shestheband",
+    "fb": "shestheband",
+    "twitter": "she_band"
+  },
+  {
+    "name": "Ten 2 Five",
+    "rawFb": "https://www.facebook.com/ten2fiveband",
+    "fb": "ten2fiveband",
+    "twitter": "ten2fiveband"
+  },
+  {
+    "name": "Tangga",
+    "rawFb": "https://www.facebook.com/TANGGAMUSIC",
+    "fb": "TANGGAMUSIC",
+    "twitter": "tanggamusic"
+  },
+  {
+    "name": "The Virgin",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "thevirginrcm"
+  },
+  {
+    "name": "Hijau Daun",
+    "rawFb": "https://www.facebook.com/hijaudaun",
+    "fb": "hijaudaun",
+    "twitter": "hijaudauntweet"
+  },
+  {
+    "name": "Letto",
+    "rawFb": "https://www.facebook.com/pages/Letto-Band/116726395015445",
+    "fb": "116726395015445",
+    "twitter": "lettoband"
+  },
+  {
+    "name": "The Dance Company",
+    "rawFb": "https://www.facebook.com/pages/The-Dance-Company/103105913062773",
+    "fb": "103105913062773",
+    "twitter": "tdc_band"
+  },
+  {
+    "name": "The Rain",
+    "rawFb": "https://www.facebook.com/TheRain",
+    "fb": "TheRain",
+    "twitter": "therainband"
+  },
+  {
+    "name": "Zigaz",
+    "rawFb": "https://www.facebook.com/pages/Zigaz-Band/231542615914",
+    "fb": "231542615914",
+    "twitter": "ZIGAZrocks"
+  },
+  {
+    "name": "Zivilia",
+    "rawFb": "https://www.facebook.com/pages/ZIVILIA-BAND/110476975653027",
+    "fb": "110476975653027",
+    "twitter": "zivilia"
+  },
+  {
+    "name": "Putra Nababan",
+    "rawFb": "https://www.facebook.com/pages/Putra-Nababan/450291004997946",
+    "fb": "450291004997946",
+    "twitter": "PutraNababan"
+  },
+  {
+    "name": "Tina Talisa",
+    "rawFb": "https://www.facebook.com/pages/Tina-Talisa/184336824414",
+    "fb": "184336824414",
+    "twitter": "TerasTinaTalisa"
+  },
+  {
+    "name": "Desi Anwar",
+    "rawFb": "https://www.facebook.com/pages/Desi-Anwar/214602385643",
+    "fb": "214602385643",
+    "twitter": "desianwar"
+  },
+  {
+    "name": "Karni Ilyas",
+    "rawFb": "https://www.facebook.com/pages/Karni-Ilyas/256239354400055",
+    "fb": "256239354400055",
+    "twitter": "karniilyas"
+  },
+  {
+    "name": "Najwa Shihab",
+    "rawFb": "https://www.facebook.com/pages/Najwa-Shihab/59617814993",
+    "fb": "59617814993",
+    "twitter": "najwashihab"
+  },
+  {
+    "name": "Tommy Tjokro",
+    "rawFb": "https://www.facebook.com/tomtjok.tjokro",
+    "fb": "tomtjok.tjokro",
+    "twitter": "Tomtjok"
+  },
+  {
+    "name": "Budiono Darsono",
+    "rawFb": "https://www.facebook.com/bdi.budionodarsono",
+    "fb": "bdi.budionodarsono",
+    "twitter": "budionodarsono"
+  },
+  {
+    "name": "Fifi Aleyda Yahya",
+    "rawFb": "https://www.facebook.com/pages/Fifi-Aleyda-Yahya/118318544852203",
+    "fb": "118318544852203",
+    "twitter": "fifialeyda"
+  },
+  {
+    "name": "Andy Flores Noya",
+    "rawFb": "https://www.facebook.com/fpandyfnoya",
+    "fb": "fpandyfnoya",
+    "twitter": ""
+  },
+  {
+    "name": "Rosiana Silalahi",
+    "rawFb": "https://www.facebook.com/RosiannaSilalahi",
+    "fb": "RosiannaSilalahi",
+    "twitter": "Rosianna766Hi"
+  },
+  {
+    "name": "Meutya Hafid",
+    "rawFb": "https://www.facebook.com/pages/Meutya-Hafid/85241740520",
+    "fb": "85241740520",
+    "twitter": "meutya_hafid"
+  },
+  {
+    "name": "Jeremy Teti",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "_jeremyteti"
+  },
+  {
+    "name": "Marisa Anita",
+    "rawFb": "https://www.facebook.com/pages/Marissa-Anita/168461089859683",
+    "fb": "168461089859683",
+    "twitter": "marissaanita"
+  },
+  {
+    "name": "Senandung Nacita",
+    "rawFb": "https://www.facebook.com/pages/senandung-nacita/198400063514216",
+    "fb": "198400063514216",
+    "twitter": "s_nacita"
+  },
+  {
+    "name": "Sandrina Malakiano",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "smalakiano"
+  },
+  {
+    "name": "Frida Lidwina",
+    "rawFb": "https://www.facebook.com/pages/Frida-Lidwina/51011802974",
+    "fb": "51011802974",
+    "twitter": "flidwina"
+  },
+  {
+    "name": "Prita Laura",
+    "rawFb": "https://www.facebook.com/pages/Prita-Laura/43552087552",
+    "fb": "43552087552",
+    "twitter": "pritalaura"
+  },
+  {
+    "name": "Gadiza Fauzi",
+    "rawFb": "https://www.facebook.com/gadiza.fauzi.14",
+    "fb": "gadiza.fauzi.14",
+    "twitter": "gadizafauzi"
+  },
+  {
+    "name": "Isyana Bagoes Oka",
+    "rawFb": "https://www.facebook.com/endiruruh?fref=browse_search",
+    "fb": "endiruruh",
+    "twitter": "isyanabagoesoka"
+  },
+  {
+    "name": "Eva Julianti",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "e_julianti"
+  },
+  {
+    "name": "Shara Aryo",
+    "rawFb": "https://www.facebook.com/pages/Shara-Aryo/69943418552",
+    "fb": "69943418552",
+    "twitter": ""
+  },
+  {
+    "name": "Virgie Baker",
+    "rawFb": "https://www.facebook.com/BakerVirgie",
+    "fb": "BakerVirgie",
+    "twitter": ""
+  },
+  {
+    "name": "Zelda Savitri",
+    "rawFb": "https://www.facebook.com/people/Zelda-Savitri/100001454637620",
+    "fb": "100001454637620",
+    "twitter": "zeld_ung"
+  },
+  {
+    "name": "Kania Sutisnawinata",
+    "rawFb": "https://www.facebook.com/kania.sutisnawinata.1",
+    "fb": "kania.sutisnawinata.1",
+    "twitter": "kaniaswinata"
+  },
+  {
+    "name": "Aviani Malik",
+    "rawFb": "https://www.facebook.com/pages/AVIANI-MALIK/114994641854467",
+    "fb": "114994641854467",
+    "twitter": "avimalik"
+  },
+  {
+    "name": "Zackia Arfan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "zackiarfan"
+  },
+  {
+    "name": "Rieke Amru",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "rikeamru"
+  },
+  {
+    "name": "Nova Rini",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nova_rini"
+  },
+  {
+    "name": "Juanita Wiratmaja",
+    "rawFb": "https://www.facebook.com/pages/Juanita-Wiratmaja-SCTV/509900159064484?ref=br_rs",
+    "fb": "509900159064484",
+    "twitter": "juanita_aline"
+  },
+  {
+    "name": "Anastasya Putri",
+    "rawFb": "https://www.facebook.com/anastasya.putri.50",
+    "fb": "anastasya.putri.50",
+    "twitter": "me_putri"
+  },
+  {
+    "name": "Bayu Sutiyono",
+    "rawFb": "https://www.facebook.com/pages/Bayu-Sutiyono/139571722779886",
+    "fb": "139571722779886",
+    "twitter": "bayusutiyono"
+  },
+  {
+    "name": "Chantal Della Concetta",
+    "rawFb": "https://www.facebook.com/chantaldellaconcetta?ref=br_rs",
+    "fb": "chantaldellaconcetta",
+    "twitter": ""
+  },
+  {
+    "name": "Adriana Bustami",
+    "rawFb": "https://www.facebook.com/pages/Adriana-Bustami/239565192797836",
+    "fb": "239565192797836",
+    "twitter": "dianabustami"
+  },
+  {
+    "name": "Ferissa Djohan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "fer_djo"
+  },
+  {
+    "name": "VJ daniel",
+    "rawFb": "https://www.facebook.com/VJDanielOfficial",
+    "fb": "VJDanielOfficial",
+    "twitter": "vjdaniel"
+  },
+  {
+    "name": "Vidi aldiano",
+    "rawFb": "https://www.facebook.com/VidiAldiano?fref=ts",
+    "fb": "VidiAldiano",
+    "twitter": "vidialdiano"
+  },
+  {
+    "name": "Deddy Mahendra Desta",
+    "rawFb": "https://www.facebook.com/DeddyMahendraDestaDestaOvj?ref=ts&fref=ts",
+    "fb": "DeddyMahendraDestaDestaOvj",
+    "twitter": "desta80s"
+  },
+  {
+    "name": "Deddy corbuzier",
+    "rawFb": "https://www.facebook.com/mastercorbuzier",
+    "fb": "mastercorbuzier",
+    "twitter": "corbuzer"
+  },
+  {
+    "name": "ringgo agus rahman",
+    "rawFb": "https://www.facebook.com/pages/Ringgo-agus-rahman-lovers/186844197219",
+    "fb": "186844197219",
+    "twitter": "ringgoagus"
+  },
+  {
+    "name": "Glenn Fredly",
+    "rawFb": "https://www.facebook.com/pages/Glen-fredly/435929406457654?fref=ts",
+    "fb": "435929406457654",
+    "twitter": "GlennFredly"
+  },
+  {
+    "name": "Gading Marten",
+    "rawFb": "https://www.facebook.com/pages/Gading-Marten/226265450761910",
+    "fb": "226265450761910",
+    "twitter": "gadiiing"
+  },
+  {
+    "name": "Armand maulana",
+    "rawFb": "https://www.facebook.com/pages/armand-maulana/240200780207",
+    "fb": "240200780207",
+    "twitter": "armandmaulana"
+  },
+  {
+    "name": "kevin aprilio",
+    "rawFb": "https://www.facebook.com/pages/Kevin-Aprilio/35021957015",
+    "fb": "35021957015",
+    "twitter": "apriliokevin"
+  },
+  {
+    "name": "Afgan",
+    "rawFb": "https://www.facebook.com/AfganOfficial1?fref=ts",
+    "fb": "AfganOfficial1",
+    "twitter": "afgansyah_reza"
+  },
+  {
+    "name": "Rio dewanto",
+    "rawFb": "https://www.facebook.com/pages/Rio-Dewanto/337798076258677",
+    "fb": "337798076258677",
+    "twitter": "Riodewantoo"
+  },
+  {
+    "name": "Vino G sebastian",
+    "rawFb": "https://www.facebook.com/B212VGB",
+    "fb": "B212VGB",
+    "twitter": "_VinoGBastian"
+  },
+  {
+    "name": "Raffi Ahmad",
+    "rawFb": "https://www.facebook.com/pages/Raffi-Ahmad/148155805263902",
+    "fb": "148155805263902",
+    "twitter": "RaffiAhmadLagi"
+  },
+  {
+    "name": "Olga Syahputra",
+    "rawFb": "https://www.facebook.com/pages/Olga-syahputra/150196321670537",
+    "fb": "150196321670537",
+    "twitter": "OlgaSyahputra82"
+  },
+  {
+    "name": "Anjasmara",
+    "rawFb": "https://www.facebook.com/anjasmara.prasetya",
+    "fb": "anjasmara.prasetya",
+    "twitter": "anjasmara"
+  },
+  {
+    "name": "Tukul Arwana",
+    "rawFb": "https://www.facebook.com/fanspage.tukularwana",
+    "fb": "fanspage.tukularwana",
+    "twitter": "TukulWongNdeso"
+  },
+  {
+    "name": "Tora sudiro",
+    "rawFb": "https://www.facebook.com/Torasudi",
+    "fb": "Torasudi",
+    "twitter": "t_ORASUDI_ro"
+  },
+  {
+    "name": "Nikolas saputra",
+    "rawFb": "https://www.facebook.com/pages/Nicholas-Saputra/160981653945750",
+    "fb": "160981653945750",
+    "twitter": "nicsap"
+  },
+  {
+    "name": "Irwansyah",
+    "rawFb": "https://www.facebook.com/IRWANSYAH.OneSyahDevotee",
+    "fb": "IRWANSYAH.OneSyahDevotee",
+    "twitter": "Irwansyah_zs"
+  },
+  {
+    "name": "Evan Sanders",
+    "rawFb": "https://www.facebook.com/pages/Evan-Sanders/114980865191958",
+    "fb": "114980865191958",
+    "twitter": "evansanders_id"
+  },
+  {
+    "name": "Aliando syarief",
+    "rawFb": "https://www.facebook.com/pages/Aliando-Syarief-Alicious/157874861064230",
+    "fb": "157874861064230",
+    "twitter": "alysyarief"
+  },
+  {
+    "name": "Al Ghazali Kohler",
+    "rawFb": "https://www.facebook.com/AL7Official",
+    "fb": "AL7Official",
+    "twitter": "AlKohler7"
+  },
+  {
+    "name": "Joe Taslim",
+    "rawFb": "https://www.facebook.com/joetaslim.page",
+    "fb": "joetaslim.page",
+    "twitter": "Joe_Taslim"
+  },
+  {
+    "name": "Iko Uwais",
+    "rawFb": "https://www.facebook.com/pages/Iko-Uwais/155706447787255",
+    "fb": "155706447787255",
+    "twitter": "iko_uwais"
+  },
+  {
+    "name": "Randy Pangalila",
+    "rawFb": "https://www.facebook.com/pages/Randy-Pangalila/188354774576662",
+    "fb": "188354774576662",
+    "twitter": "randpunk90"
+  },
+  {
+    "name": "Boy Hamzah",
+    "rawFb": "https://www.facebook.com/pages/boy-hamzah/106124162806152?fref=ts",
+    "fb": "106124162806152",
+    "twitter": "boyhamzah"
+  },
+  {
+    "name": "Chico Jericho",
+    "rawFb": "https://www.facebook.com/pages/chicco-jerikho/71490253478",
+    "fb": "71490253478",
+    "twitter": "cjerikho829"
+  },
+  {
+    "name": "Fedi Nuril",
+    "rawFb": "https://www.facebook.com/pages/Fedi-Nuril-Fc/123153981103737?fref=ts",
+    "fb": "123153981103737",
+    "twitter": "realfedinuril"
+  },
+  {
+    "name": "Tulus",
+    "rawFb": "https://www.facebook.com/musiktulus",
+    "fb": "musiktulus",
+    "twitter": "tulusm"
+  },
+  {
+    "name": "Judika",
+    "rawFb": "https://www.facebook.com/Judika",
+    "fb": "Judika",
+    "twitter": "Judikajude"
+  },
+  {
+    "name": "Shandy Sandoro",
+    "rawFb": "https://www.facebook.com/sandhysondoroband?ref=ts&fref=ts",
+    "fb": "sandhysondoroband",
+    "twitter": "SondoroMusic"
+  },
+  {
+    "name": "Rio Febrian",
+    "rawFb": "https://www.facebook.com/riofebrian25?fref=ts",
+    "fb": "riofebrian25",
+    "twitter": "riofebrian25"
+  },
+  {
+    "name": "Petra Sihombing",
+    "rawFb": "https://www.facebook.com/pages/Petra-Sihombing/97513897539?ref=ts",
+    "fb": "97513897539",
+    "twitter": "petra_sihombing"
+  },
+  {
+    "name": "Ello",
+    "rawFb": "https://www.facebook.com/pages/Ello/37598944098?fref=ts",
+    "fb": "37598944098",
+    "twitter": "MarcelloTahitoe"
+  },
+  {
+    "name": "Marcell siahaan",
+    "rawFb": "https://www.facebook.com/marcellsiahaan",
+    "fb": "marcellsiahaan",
+    "twitter": "mkhshn"
+  },
+  {
+    "name": "Mike Mohede",
+    "rawFb": "https://www.facebook.com/pages/Mike-Mohede/129094723794524",
+    "fb": "129094723794524",
+    "twitter": "MichaelMohede"
+  },
+  {
+    "name": "Bebi romeo",
+    "rawFb": "https://www.facebook.com/pages/Bebi-Romeo/619820951365349",
+    "fb": "619820951365349",
+    "twitter": "bebiromeo2"
+  },
+  {
+    "name": "Ahmad dhani",
+    "rawFb": "https://www.facebook.com/pages/ahmad-dhani/225074140365",
+    "fb": "225074140365",
+    "twitter": "AHMADDHANIPRAST"
+  },
+  {
+    "name": "denni cagur",
+    "rawFb": "https://www.facebook.com/pages/Denny-cagur/607513425988603?ref=ts&fref=ts",
+    "fb": "607513425988603",
+    "twitter": "DennyCagur"
+  },
+  {
+    "name": "narji cagur",
+    "rawFb": "https://www.facebook.com/pages/Abang-Narji-Cagur/333996936702491",
+    "fb": "333996936702491",
+    "twitter": "AbangNarjiCagur"
+  },
+  {
+    "name": "wendy cagur",
+    "rawFb": "https://www.facebook.com/SiWendyCagur",
+    "fb": "SiWendyCagur",
+    "twitter": "WCIndonesia"
+  },
+  {
+    "name": "Andika pratama",
+    "rawFb": "https://www.facebook.com/pages/Andika-Pratama/108378012538726",
+    "fb": "108378012538726",
+    "twitter": "dhikacungkring"
+  },
+  {
+    "name": "Tengku wisnu",
+    "rawFb": "https://www.facebook.com/pages/Tengku-Wisnu/117705024930225",
+    "fb": "117705024930225",
+    "twitter": "teukuwisnu2"
+  },
+  {
+    "name": "Dude harlino",
+    "rawFb": "https://www.facebook.com/pages/DUDE-HARLINO-FanPage-/243956682294867",
+    "fb": "243956682294867",
+    "twitter": "dude2harlino"
+  },
+  {
+    "name": "Vicky Niti Negoro",
+    "rawFb": "https://www.facebook.com/pages/Vicky-Nitinegoro/113884555338433",
+    "fb": "113884555338433",
+    "twitter": "vickykciv"
+  },
+  {
+    "name": "Samuel rizal",
+    "rawFb": "https://www.facebook.com/SamuelRizalA?fref=ts",
+    "fb": "SamuelRizalA",
+    "twitter": "samuelrizal01"
+  },
+  {
+    "name": "herjunot ali",
+    "rawFb": "https://www.facebook.com/pages/Herjunot-Ali/109571059084448",
+    "fb": "109571059084448",
+    "twitter": "Herjunot7Ali"
+  },
+  {
+    "name": "El rumi",
+    "rawFb": "https://www.facebook.com/pages/El-Jalaluddin-Rumi/453902777973732",
+    "fb": "453902777973732",
+    "twitter": "El8Rumi"
+  },
+  {
+    "name": "Dimas beck",
+    "rawFb": "https://www.facebook.com/pages/Dimas-Beck-Lovers-Becklovers-/126090210740441?fref=ts",
+    "fb": "126090210740441",
+    "twitter": "dimasbeck_"
+  },
+  {
+    "name": "ryan delon",
+    "rawFb": "https://www.facebook.com/pages/ryan-delon-situmeang/118607501492631",
+    "fb": "118607501492631",
+    "twitter": "MrRD_sit"
+  },
+  {
+    "name": "ricky harun",
+    "rawFb": "https://www.facebook.com/pages/Ricky-Harun_Galang-Ggs/863438627009464",
+    "fb": "863438627009464",
+    "twitter": "RickyHarun45MF"
+  },
+  {
+    "name": "adipati dolken",
+    "rawFb": "https://www.facebook.com/pages/Adipati-Dolken/334043883411397",
+    "fb": "334043883411397",
+    "twitter": "adiipati"
+  },
+  {
+    "name": "ashraf sinclair",
+    "rawFb": "https://www.facebook.com/officialashrafsinclair?ref=br_rs",
+    "fb": "officialashrafsinclair",
+    "twitter": "ashraf sinclair"
+  },
+  {
+    "name": "oka antara",
+    "rawFb": "https://www.facebook.com/pages/Oka-antara/147222758664175",
+    "fb": "147222758664175",
+    "twitter": "okaantara"
+  },
+  {
+    "name": "baim wong",
+    "rawFb": "https://www.facebook.com/pages/We-Love-Baim-Wong/199442116787994",
+    "fb": "199442116787994",
+    "twitter": "_baimwong"
+  },
+  {
+    "name": "Christian sugiono",
+    "rawFb": "https://www.facebook.com/pages/Christian-Sugiono/221779291190072",
+    "fb": "221779291190072",
+    "twitter": "csugiono"
+  },
+  {
+    "name": "saipul jamil",
+    "rawFb": "https://www.facebook.com/saipuljamilindonesia",
+    "fb": "saipuljamilindonesia",
+    "twitter": "saipul_jamil"
+  },
+  {
+    "name": "Irfan hakim ",
+    "rawFb": "https://www.facebook.com/IrfanHakimPage",
+    "fb": "IrfanHakimPage",
+    "twitter": "irfanhakim"
+  },
+  {
+    "name": "Andi arsyil",
+    "rawFb": "https://www.facebook.com/pages/Andi-Arsyil-Rahman-Putra/104184559671",
+    "fb": "104184559671",
+    "twitter": "arsyilrahman"
+  },
+  {
+    "name": "Ruben onsu",
+    "rawFb": "https://www.facebook.com/pages/Ruben-Onsu/87530503143?ref=ts&fref=ts",
+    "fb": "87530503143",
+    "twitter": "ruben_onsu"
+  },
+  {
+    "name": "boy william",
+    "rawFb": "https://www.facebook.com/pages/boy-william/219218448112469",
+    "fb": "219218448112469",
+    "twitter": "boywilliam"
+  },
+  {
+    "name": "uya kuya",
+    "rawFb": "https://www.facebook.com/pages/Uya-emang-Kuya/115799048456417",
+    "fb": "115799048456417",
+    "twitter": "UyaKuya_SCTV"
+  },
+  {
+    "name": "indra herlambang",
+    "rawFb": "https://www.facebook.com/indraherlambang13",
+    "fb": "indraherlambang13",
+    "twitter": "indraherlambang"
+  },
+  {
+    "name": "ivan gunawan",
+    "rawFb": "https://www.facebook.com/pages/Ivan-Gunawan/653342668115656?fref=ts",
+    "fb": "653342668115656",
+    "twitter": "OFCIvanGunawan"
+  },
+  {
+    "name": "sammy simorangkir",
+    "rawFb": "https://www.facebook.com/pages/Sammy-Simorangkir/131626690247812",
+    "fb": "131626690247812",
+    "twitter": "sammy0809SmrgkR"
+  },
+  {
+    "name": "Choky sitohang",
+    "rawFb": "https://www.facebook.com/ChokySitohangFull.New?ref=ts&fref=ts",
+    "fb": "ChokySitohangFull.New",
+    "twitter": "VictorySitohang"
+  },
+  {
+    "name": "Reuben elishama",
+    "rawFb": "https://www.facebook.com/reuben.elishama.9",
+    "fb": "reuben.elishama.9",
+    "twitter": "reu_reu"
+  },
+  {
+    "name": "Ramzi",
+    "rawFb": "https://www.facebook.com/ramzi.tebe.7",
+    "fb": "ramzi.tebe.7",
+    "twitter": "ramzi_tebe"
+  },
+  {
+    "name": "Basuki tjahaya purnama",
+    "rawFb": "https://www.facebook.com/AhokBTP",
+    "fb": "AhokBTP",
+    "twitter": "basuki_btp"
+  },
+  {
+    "name": "Hattarajasa",
+    "rawFb": "https://www.facebook.com/M.Hatta.Rajasa",
+    "fb": "M.Hatta.Rajasa",
+    "twitter": "hattarajasa"
+  },
+  {
+    "name": "Mahfud md",
+    "rawFb": "https://www.facebook.com/mmd.mahfudmd",
+    "fb": "mmd.mahfudmd",
+    "twitter": "mohmahfudmd"
+  },
+  {
+    "name": "Jokowidodo",
+    "rawFb": "https://www.facebook.com/JKWofficial",
+    "fb": "JKWofficial",
+    "twitter": "jokowi_do2"
+  },
+  {
+    "name": "Anas Urbaningrum",
+    "rawFb": "https://www.facebook.com/pages/Anas-Urbaningrum/138554352826249",
+    "fb": "138554352826249",
+    "twitter": "anasurbaningrum"
+  },
+  {
+    "name": "Prabowo Subianto",
+    "rawFb": "https://www.facebook.com/PrabowoSubianto",
+    "fb": "PrabowoSubianto",
+    "twitter": "Prabowo08"
+  },
+  {
+    "name": "Yusril ihza Mahendra",
+    "rawFb": "https://www.facebook.com/pages/Yusril-Ihza-Mahendra/302310959806242",
+    "fb": "302310959806242",
+    "twitter": "Yusrilihza_Mhd"
+  },
+  {
+    "name": "Dahlan iskan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "iskan_dahlan"
+  },
+  {
+    "name": "Tifatul sembiring",
+    "rawFb": "https://www.facebook.com/tifatul.sembiring",
+    "fb": "tifatul.sembiring",
+    "twitter": "tifsembiring"
+  },
+  {
+    "name": "Jusuf Kalla",
+    "rawFb": "https://www.facebook.com/pages/MUH-JUSUF-KALLA/46629561325",
+    "fb": "46629561325",
+    "twitter": "Pak_JK"
+  },
+  {
+    "name": "Fajrul",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "fadjroeL"
+  },
+  {
+    "name": "Indra J. Piliang",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "IndraJPiliang"
+  },
+  {
+    "name": "Alissa Wahid",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "AlissaWahid"
+  },
+  {
+    "name": "Budimandjatmiko",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "budimandjatmiko"
+  },
+  {
+    "name": "Benhan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "benhan"
+  },
+  {
+    "name": "Ulil",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ulil"
+  },
+  {
+    "name": "Kahfi Siregar",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kahfi_siregar"
+  },
+  {
+    "name": "Wimar",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "wimar"
+  },
+  {
+    "name": "Fauzi bowo",
+    "rawFb": "https://www.facebook.com/bangfauzibowo",
+    "fb": "bangfauzibowo",
+    "twitter": "bangfauzibowo"
+  },
+  {
+    "name": "Pramono Anung",
+    "rawFb": "https://www.facebook.com/pages/Pramono-Anung/744536835564211",
+    "fb": "744536835564211",
+    "twitter": "pramonoanung"
+  },
+  {
+    "name": "Poppy Dharsono",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "PoppyDharsono"
+  },
+  {
+    "name": "Lukman saifuddin",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "lukmansaifuddin"
+  },
+  {
+    "name": "Marzuki alie",
+    "rawFb": "https://www.facebook.com/pages/Marzuki-Alie/65059916338",
+    "fb": "65059916338",
+    "twitter": "marzukialie_MA"
+  },
+  {
+    "name": "Boediono",
+    "rawFb": "https://www.facebook.com/pages/BOEDIONO/81041498233",
+    "fb": "81041498233",
+    "twitter": "boediono"
+  },
+  {
+    "name": "Hidayat Nurwahid",
+    "rawFb": "https://www.facebook.com/MHidayatNurWahid",
+    "fb": "MHidayatNurWahid",
+    "twitter": "hnurwahid"
+  },
+  {
+    "name": "Ruhut Sitompul",
+    "rawFb": "https://www.facebook.com/ruhutsitompul2",
+    "fb": "ruhutsitompul2",
+    "twitter": "ruhutsitompul"
+  },
+  {
+    "name": "Megawati",
+    "rawFb": "https://www.facebook.com/megawati.soekarnoputri",
+    "fb": "megawati.soekarnoputri",
+    "twitter": ""
+  },
+  {
+    "name": "Luna Maya",
+    "rawFb": "https://www.facebook.com/officiallunamaya",
+    "fb": "officiallunamaya",
+    "twitter": "LunaMaya26"
+  },
+  {
+    "name": "Sherina Munaf",
+    "rawFb": "https://www.facebook.com/SherinaOfficial",
+    "fb": "SherinaOfficial",
+    "twitter": "sherinasinna"
+  },
+  {
+    "name": "Bunga Citra Lestari",
+    "rawFb": "https://www.facebook.com/bclofficialpage",
+    "fb": "bclofficialpage",
+    "twitter": "bclsinclair"
+  },
+  {
+    "name": "Agnes Monica",
+    "rawFb": "https://www.facebook.com/agnesmonica",
+    "fb": "agnesmonica",
+    "twitter": "agnezmo"
+  },
+  {
+    "name": "Olla Ramlan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "olla_ramlan"
+  },
+  {
+    "name": "Shireen Sungkar",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "shireensungkar"
+  },
+  {
+    "name": "Raisa",
+    "rawFb": "https://www.facebook.com/Raisa6690",
+    "fb": "Raisa6690",
+    "twitter": "raisa6690"
+  },
+  {
+    "name": "Jessica Iskandar",
+    "rawFb": "https://www.facebook.com/jessicaiskandarofficial",
+    "fb": "jessicaiskandarofficial",
+    "twitter": "jess_iskandar"
+  },
+  {
+    "name": "Laudya Cintya Bella",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Bellaudya829"
+  },
+  {
+    "name": "Gita Gutawa",
+    "rawFb": "https://www.facebook.com/GitaGutawa",
+    "fb": "GitaGutawa",
+    "twitter": "gitagut"
+  },
+  {
+    "name": "Julia Perez",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "juliaperrez"
+  },
+  {
+    "name": "Ayu Dewi",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "mrsayudewi"
+  },
+  {
+    "name": "Sandra Dewi",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "SandraDewi88"
+  },
+  {
+    "name": "Memes",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "memes605"
+  },
+  {
+    "name": "Chantal Concetta",
+    "rawFb": "https://www.facebook.com/chantaldellaconcetta",
+    "fb": "chantaldellaconcetta",
+    "twitter": "chantalconcetta"
+  },
+  {
+    "name": "Dona agnesia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "dagnesia"
+  },
+  {
+    "name": "Thalita Latief",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "thalitalatief"
+  },
+  {
+    "name": "Farah Quinn",
+    "rawFb": "https://www.facebook.com/ItsFarahQuinn",
+    "fb": "ItsFarahQuinn",
+    "twitter": "quinnfarah"
+  },
+  {
+    "name": "Tasya Kamila",
+    "rawFb": "https://www.facebook.com/TasyaKamilaOfficial",
+    "fb": "TasyaKamilaOfficial",
+    "twitter": "tasyakamila"
+  },
+  {
+    "name": "Andien",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "andienaisyah"
+  },
+  {
+    "name": "Pevita Pearce",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "pevpearce"
+  },
+  {
+    "name": "Wulan Guritno",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "WulanGuritno"
+  },
+  {
+    "name": "Mona Ratuliu",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "mratuliu"
+  },
+  {
+    "name": "Dea Mirella",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "deamirella"
+  },
+  {
+    "name": "Asmirandah",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "itsmeAsmirandah"
+  },
+  {
+    "name": "Happy Salma",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Happy_Salma"
+  },
+  {
+    "name": "Aura Kasih",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "aurakasih87"
+  },
+  {
+    "name": "Syahnaz Sadiqah",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "RealSyahnazS"
+  },
+  {
+    "name": "Widy Vierratale",
+    "rawFb": "https://www.facebook.com/pages/Widy-Vierra/44971471700",
+    "fb": "44971471700",
+    "twitter": "_widikidiw_"
+  },
+  {
+    "name": "Nikita Willy",
+    "rawFb": "https://www.facebook.com/pages/Nikita-Willy/49414159393",
+    "fb": "49414159393",
+    "twitter": "nikitawilly_24"
+  },
+  {
+    "name": "Haruka JKT48",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "HarukaN_JKT48"
+  },
+  {
+    "name": "Sheryl Sheinafia",
+    "rawFb": "https://www.facebook.com/sherylsheinafia05",
+    "fb": "sherylsheinafia05",
+    "twitter": "sherylsheinafia"
+  },
+  {
+    "name": "Sarah Sechan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "sarseh"
+  },
+  {
+    "name": "Julie Estelle",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Julstelle"
+  },
+  {
+    "name": "Sophie Navita",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "sophieNavita"
+  },
+  {
+    "name": "Adinia Wirasti",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "AdiniaWirasti"
+  },
+  {
+    "name": "Rossa",
+    "rawFb": "https://www.facebook.com/RossaOfficial",
+    "fb": "RossaOfficial",
+    "twitter": "mynameisrossa"
+  },
+  {
+    "name": "Fitri Tropica",
+    "rawFb": "https://www.facebook.com/pages/FITRI-TROPICA/207202594045",
+    "fb": "207202594045",
+    "twitter": "fitrop"
+  },
+  {
+    "name": "Anggun C Sasmi",
+    "rawFb": "https://www.facebook.com/anggun.official",
+    "fb": "anggun.official",
+    "twitter": "Anggun_Cipta"
+  },
+  {
+    "name": "Cinta Laura",
+    "rawFb": "https://www.facebook.com/CintaLaura.OfficialPage",
+    "fb": "CintaLaura.OfficialPage",
+    "twitter": "xcintakiehlx"
+  },
+  {
+    "name": "Rianti C",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "riantic"
+  },
+  {
+    "name": "Titi Rajo Bintang",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "TitiRajoBintang"
+  },
+  {
+    "name": "Nirina Zubir",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nirina_zubir"
+  },
+  {
+    "name": "Maudy Ayunda",
+    "rawFb": "https://www.facebook.com/AyundaFazaMaudy",
+    "fb": "AyundaFazaMaudy",
+    "twitter": "maudyayunda"
+  },
+  {
+    "name": "Chelsea Islan",
+    "rawFb": "https://www.facebook.com/pages/Chelsea-islan/1468991113364871",
+    "fb": "1468991113364871",
+    "twitter": "chelseaislan"
+  },
+  {
+    "name": "Kimberly Ryder",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kimbrlyryder"
+  },
+  {
+    "name": "Sophia Latjuba",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "sophialatjuba88"
+  },
+  {
+    "name": "Nabilah JKT48",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nabilahJKT48"
+  },
+  {
+    "name": "Dian Sastrowardoyo",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "therealDiSastr"
+  },
+  {
+    "name": "Naysilla Mirdad",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "naymirdad"
+  },
+  {
+    "name": "Dinda Kanyadewi",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "dindakanyaa"
+  },
+  {
+    "name": "Atiqah Hasiholan",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "atiqahhasiholan"
+  },
+  {
+    "name": "Marshanda",
+    "rawFb": "https://www.facebook.com/marshandafilm",
+    "fb": "marshandafilm",
+    "twitter": "marshanda"
+  },
+  {
+    "name": "Acha Septriasa",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "septriasa_acha"
+  },
+  {
+    "name": "Zaskia Adya Mecca",
+    "rawFb": "https://www.facebook.com/ZaskiaMeccaOfficial",
+    "fb": "ZaskiaMeccaOfficial",
+    "twitter": "zaskiadyamecca"
+  },
+  {
+    "name": "Velove",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Vaelovexia"
+  },
+  {
+    "name": "Zaskia Sungkar",
+    "rawFb": "https://www.facebook.com/pages/Zaskia-Sungkar/1499240397010919",
+    "fb": "1499240397010919",
+    "twitter": "zaskiasungkarIR"
+  },
+  {
+    "name": "Nia Ramadhani",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "NRamadhani"
+  },
+  {
+    "name": "Kinaryosih",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kinaryosih_03"
+  },
+  {
+    "name": "Nuri Maulida",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nurimaulida"
+  },
+  {
+    "name": "Ayudia Bing Slamet",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ayudiac"
+  },
+  {
+    "name": "Kirana larasati",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "_kiranalara"
+  },
+  {
+    "name": "Dinda Hauw",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "dindahw"
+  },
+  {
+    "name": "Tyas Mirasih",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "TyasMirasih8487"
+  },
+  {
+    "name": "Raline Shah",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ralineshah"
+  },
+  {
+    "name": "Prisia Nasution",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "itsPrisia"
+  },
+  {
+    "name": "Olga Lydia",
+    "rawFb": "https://www.facebook.com/olga.lydia.35?fref=ts",
+    "fb": "olga.lydia.35",
+    "twitter": "OlgaLy_DIA"
+  },
+  {
+    "name": "Olivia Jensen",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "OliveJensen"
+  },
+  {
+    "name": "Yuki kato",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "yukikato"
+  },
+  {
+    "name": "Christie Julia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "christiejulia"
+  },
+  {
+    "name": "Tina Toon",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "tinatoon93"
+  },
+  {
+    "name": "Jessica Mila",
+    "rawFb": "https://www.facebook.com/jessica.m.agnesia.5?fref=ts",
+    "fb": "jessica.m.agnesia.5",
+    "twitter": "Jscmila"
+  },
+  {
+    "name": "Poppy Sovia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "popsovia"
+  },
+  {
+    "name": "Ayu hastari",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Ayuhastari"
+  },
+  {
+    "name": "Alice Norin",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "alicesofieNORIN"
+  },
+  {
+    "name": "Audi Marissa",
+    "rawFb": "https://www.facebook.com/pages/Audi-marissa/260259620764429",
+    "fb": "260259620764429",
+    "twitter": "audimarissa_"
+  },
+  {
+    "name": "Nindy",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nindysings"
+  },
+  {
+    "name": "Ardina Rasti",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ardinarasti6"
+  },
+  {
+    "name": "Titi Kamal",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Titi_KamaLL"
+  },
+  {
+    "name": "Titi DJ",
+    "rawFb": "https://www.facebook.com/TitiDJOfficial",
+    "fb": "TitiDJOfficial",
+    "twitter": "ti2dj"
+  },
+  {
+    "name": "Nadya Hutagalung",
+    "rawFb": "https://www.facebook.com/NadyaHutagalungPage",
+    "fb": "NadyaHutagalungPage",
+    "twitter": "Nadya_HutaGalng"
+  },
+  {
+    "name": "Shandy Aulia",
+    "rawFb": "https://www.facebook.com/pages/Shandy-Aulia/209290562455174",
+    "fb": "209290562455174",
+    "twitter": "shandy_aulia"
+  },
+  {
+    "name": "Rachel maryam",
+    "rawFb": "https://www.facebook.com/rachelmaryams?fref=ts",
+    "fb": "rachelmaryams",
+    "twitter": "cumarachel"
+  },
+  {
+    "name": "Tike Priatnakusumah",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "tikeprie"
+  },
+  {
+    "name": "Ersa mayori",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ersamayori"
+  },
+  {
+    "name": "Dewi rezer",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "rezerdewi"
+  },
+  {
+    "name": "Soimah",
+    "rawFb": "https://www.facebook.com/pages/Soimah-Pancawati/103961707268",
+    "fb": "103961707268",
+    "twitter": "showimah"
+  },
+  {
+    "name": "Donita",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "donitabhubiy"
+  },
+  {
+    "name": "Gracia Indri",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Graciaz14"
+  },
+  {
+    "name": "Kartika Putri",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "KarthykaPutri"
+  },
+  {
+    "name": "Marcella Zalianty",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "mzalianty80"
+  },
+  {
+    "name": "Millane Fernandez",
+    "rawFb": "https://www.facebook.com/millanefernandez",
+    "fb": "millanefernandez",
+    "twitter": "millanef"
+  },
+  {
+    "name": "Chelsea Olivia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "chelseaolivia92"
+  },
+  {
+    "name": "Nadine Chandrawinata",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nadinelist"
+  },
+  {
+    "name": "Melaney Ricardo",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "MelaneyRicardo"
+  },
+  {
+    "name": "Intan Nuraini",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "intanuraini"
+  },
+  {
+    "name": "Cindy Bernadette",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "cindybernadette"
+  },
+  {
+    "name": "Laura Basuki",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "LauraBas"
+  },
+  {
+    "name": "Melly Goeslaw",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "melly_goeslaw"
+  },
+  {
+    "name": "Indy Barends",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "indybarends"
+  },
+  {
+    "name": "Dewi Sandra",
+    "rawFb": "https://www.facebook.com/pages/Dewi-Sandra/49586517592",
+    "fb": "49586517592",
+    "twitter": "dewisandra"
+  },
+  {
+    "name": "Shanty",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "shanty78"
+  },
+  {
+    "name": "Nagita Slavina",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Lady6igi"
+  },
+  {
+    "name": "Syahrini",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "PrincesSyahrini"
+  },
+  {
+    "name": "Aurel Hermansyah",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "aurelhermansyah"
+  },
+  {
+    "name": "Prilly Latuconsina",
+    "rawFb": "https://www.facebook.com/pages/Prilly-Latuconsina/327452267415356",
+    "fb": "327452267415356",
+    "twitter": "PrillyBie"
+  },
+  {
+    "name": "Enzy Storia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "EnzyStoria"
+  },
+  {
+    "name": "Zaskia Gotix",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Zaskia_Gotix"
+  },
+  {
+    "name": "Gisel",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "gisel_la"
+  },
+  {
+    "name": "Ariel Tatum",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "arieltatum"
+  },
+  {
+    "name": "Sharena",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "MissSharena"
+  },
+  {
+    "name": "Kade Devie",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "kddevie"
+  },
+  {
+    "name": "Poppy Bunga",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "_PoppyBunga"
+  },
+  {
+    "name": "Dini Aminarti",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "dhiniaminarti29"
+  },
+  {
+    "name": "Cut Meyriska",
+    "rawFb": "https://www.facebook.com/pages/Cut-Meyriska/928683410494867",
+    "fb": "928683410494867",
+    "twitter": "cutmeyriska"
+  },
+  {
+    "name": "Eva celia",
+    "rawFb": "https://www.facebook.com/pages/Eva-Celia-Lesmana/155572797835677",
+    "fb": "155572797835677",
+    "twitter": "evaceliaa"
+  },
+  {
+    "name": "Nina Zatulini",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "NinaZatulini"
+  },
+  {
+    "name": "Nafa Urbach",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "nafaurbach15"
+  },
+  {
+    "name": "Nova Eliza",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "novaeliza"
+  },
+  {
+    "name": "Mieke Amalia",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "mieke_amalia"
+  },
+  {
+    "name": "Audi Item",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "aawdee_uwais"
+  },
+  {
+    "name": "Ashanty",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ashantysiddik"
+  },
+  {
+    "name": "Astrid ",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "astridbasjar"
+  },
+  {
+    "name": "Putri Titian",
+    "rawFb": "https://www.facebook.com/pages/Putri-Titian/127551525482",
+    "fb": "127551525482",
+    "twitter": "tiaaaaan"
+  },
+  {
+    "name": "Mikha Tambayong",
+    "rawFb": "https://www.facebook.com/MMMT.maudymikha?ref=ts&fref=ts",
+    "fb": "MMMT.maudymikha",
+    "twitter": "maudymikha"
+  },
+  {
+    "name": "Citra Kirana",
+    "rawFb": "https://www.facebook.com/pages/Citra-Kirana/1383941375220354",
+    "fb": "1383941375220354",
+    "twitter": "citraciki"
+  },
+  {
+    "name": "Raditya Dika",
+    "rawFb": "https://www.facebook.com/radityadikapages",
+    "fb": "radityadikapages",
+    "twitter": "radityadika"
+  },
+  {
+    "name": "Djenar Maesa Ayu",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "djenarmaesaayu"
+  },
+  {
+    "name": "Nia Dinata",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "tehniadinata"
+  },
+  {
+    "name": "Ndoro Kakung",
+    "rawFb": "https://www.facebook.com/ndorokakung?fref=ts",
+    "fb": "ndorokakung",
+    "twitter": "ndorokakung"
+  },
+  {
+    "name": "Moammar emka",
+    "rawFb": "https://www.facebook.com/pages/Moammar-Emka/283768426740",
+    "fb": "283768426740",
+    "twitter": "moammaremka"
+  },
+  {
+    "name": "Habiburahman elshirazy",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "h_elshirazy"
+  },
+  {
+    "name": "Dewi Lestari",
+    "rawFb": "https://www.facebook.com/pages/Dewi-Lestari/6846134641",
+    "fb": "6846134641",
+    "twitter": "deelestari"
+  },
+  {
+    "name": "Arif Muhamad",
+    "rawFb": "https://www.facebook.com/pages/Poconggg/160943630633564",
+    "fb": "160943630633564",
+    "twitter": "Poconggg"
+  },
+  {
+    "name": "Trinity ",
+    "rawFb": "https://www.facebook.com/TrinityTraveler",
+    "fb": "TrinityTraveler",
+    "twitter": "TrinityTraveler"
+  },
+  {
+    "name": "Asma Nadia",
+    "rawFb": "https://www.facebook.com/AsmaNadia.Penulis",
+    "fb": "AsmaNadia.Penulis",
+    "twitter": "asmanadia"
+  },
+  {
+    "name": "Sitta Karina",
+    "rawFb": "https://www.facebook.com/sittakarina",
+    "fb": "sittakarina",
+    "twitter": "sittakarina"
+  },
+  {
+    "name": "Clara NG",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "clara_ng"
+  },
+  {
+    "name": "Vabyo",
+    "rawFb": "https://www.facebook.com/vabyo?fref=ts",
+    "fb": "vabyo",
+    "twitter": "vabyo"
+  },
+  {
+    "name": "Alanda Kariza",
+    "rawFb": "https://www.facebook.com/alandakarizapage",
+    "fb": "alandakarizapage",
+    "twitter": "alandakariza"
+  },
+  {
+    "name": "Fira Basuki",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "FiraBasuki"
+  },
+  {
+    "name": "Adhitya Mulya",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "adhityamulya"
+  },
+  {
+    "name": "Ninit Yunita",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "ninityunita"
+  },
+  {
+    "name": "Ahmad Fuadi",
+    "rawFb": "https://www.facebook.com/fuadiN5M",
+    "fb": "fuadiN5M",
+    "twitter": "fuadi1"
+  },
+  {
+    "name": "Bernard Batubara",
+    "rawFb": "https://www.facebook.com/batubara.bernard",
+    "fb": "batubara.bernard",
+    "twitter": "benzbara_"
+  },
+  {
+    "name": "Pidi Baiq",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "pidibaiq"
+  },
+  {
+    "name": "Marischka Prudence",
+    "rawFb": "https://www.facebook.com/marischka.prudencefull?fref=ts",
+    "fb": "marischka.prudencefull",
+    "twitter": "marischkaprue"
+  },
+  {
+    "name": "Adis",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "takdos"
+  },
+  {
+    "name": "Ika Natassa",
+    "rawFb": "https://www.facebook.com/ika.natassa?fref=ts",
+    "fb": "ika.natassa",
+    "twitter": "ikanatassa"
+  },
+  {
+    "name": "Rhein Fathia",
+    "rawFb": "https://www.facebook.com/RheinFathiaWriter",
+    "fb": "RheinFathiaWriter",
+    "twitter": "rheinfathia"
+  },
+  {
+    "name": "Andrea Hirata",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "Andreahirata"
+  },
+  {
+    "name": "Claudia Kaunang",
+    "rawFb": "https://www.facebook.com/ClaudiaKaunangFanpage",
+    "fb": "ClaudiaKaunangFanpage",
+    "twitter": "ClaudiaKaunang"
+  },
+  {
+    "name": "Wahyu Aditya",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "maswaditya"
+  },
+  {
+    "name": "windy ariestanty",
+    "rawFb": "https://www.facebook.com/windy.ariestanty?fref=ts",
+    "fb": "windy.ariestanty",
+    "twitter": "windyariestanty"
+  },
+  {
+    "name": "Merry Riana",
+    "rawFb": "https://www.facebook.com/inspirationbymerryriana",
+    "fb": "inspirationbymerryriana",
+    "twitter": "MerryRiana"
+  },
+  {
+    "name": "Iwan Setyawan",
+    "rawFb": "https://www.facebook.com/pages/Iwan-Setyawan-9-summers-10-autumns/102167306543767",
+    "fb": "102167306543767",
+    "twitter": "Iwan9S10A"
+  },
+  {
+    "name": "Ita sembiring",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "theitasembiring"
+  },
+  {
+    "name": "Dara Prayoga",
+    "rawFb": "",
+    "fb": "",
+    "twitter": "daraprayoga_"
+  },
+  {
+    "name": "Alit Susanto",
+    "rawFb": "https://www.facebook.com/shitliciousdotcom",
+    "fb": "shitliciousdotcom",
+    "twitter": "shitlicious"
+  }
+]
