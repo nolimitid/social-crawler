@@ -10,8 +10,8 @@ module.exports.getUser = function(req, ids){
       tokenSecret = rec.tokens.tokenSecret;
     });
   var client = new Twitter({
-    consumer_key: 'Ru17p9AvxtGWqzsd938ceCcVt',
-    consumer_secret: 'QGwjxIQ08b4LFkmnKh9HXgCxMSqDErlUGCKM4hsiXBBVzFoKTt',
+    consumer_key: 'consumer-key',
+    consumer_secret: 'consumer-secret',
     access_token_key: token,
     access_token_secret: tokenSecret
   });
