@@ -9,8 +9,10 @@
  * http://sailsjs.org/#/documentation/reference/sails.config/sails.config.bootstrap.html
  */
 
-module.exports.bootstrap = function(cb) {
+module.exports.bootstrap = function (cb) {
 
+  global.Promise = require('bluebird');
+  global.format = require('util').format;
   sails.services.passport.loadStrategies();
 
   // It's very important to trigger this callback method when you are finished
