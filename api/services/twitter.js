@@ -2,9 +2,43 @@ var Twitter = require('twitter');
 
 var twitter = {
   client      : null,
+  token       : null,
+  generate_token: function(req){
+    var that = this;
+
+    var consumerKey = req.param('consumer_key'),
+        consumerSecret = req.param('consumer_secret');
+
+    var obj = {
+      consumerKey: consumerKey,
+      consumerSecret : consumerSecret
+    };
+
+    //if (!(consumerKey && consumerSecret)) return reject('please provide `consumer_key` and `consumer_secret` parameter');
+
+    var opt = {
+      consumer_key       : sails.config.passport.twitter.options.consumerKey,
+      consumer_secret    : sails.config.passport.twitter.options.consumerSecret
+    };
+
+    that.client = new Twitter(opt);
+    that.token = opt;
+
+    that.client.post('/oauth/request_token', {
+    }, function (err, users) {
+
+      //if (err) return reject(err);
+      //
+      //resolve(users);
+    });
+  },
   createClient: function (req) {
     var that = this;
     return new Promise(function (resolve, reject) {
+      if (!(sails.config.passport.twitter.options.consumerKey && sails.config.passport.twitter.options.consumerSecret)) {
+        reject(new Error('consumer key and secret not yet provided'));
+      }
+
       Passport
         .findOne({user: req.user.id, provider: 'twitter'})
         .exec(function (err, rec) {
@@ -18,6 +52,7 @@ var twitter = {
           };
 
           that.client = new Twitter(opt);
+          that.token = opt;
 
           resolve(this.client);
         });

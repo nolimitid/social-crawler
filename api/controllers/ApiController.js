@@ -7,6 +7,10 @@
 var Promise = require('bluebird');
 
 module.exports = {
+  generate_token: function(req, res){
+    twitter
+      .generate_token(req);
+  },
   users_lookup: function (req, res) {
     var ids = req.param('ids').split(',');
 
@@ -15,11 +19,13 @@ module.exports = {
       .then(function () {
         return twitter.usersLookup(ids);
       }, function (rej) {
+        console.error(twitter.token);
         res.serverError(rej);
       })
       .then(function (users) {
         res.json(users);
       }, function (rej) {
+        console.error(twitter.token);
         res.serverError(rej);
       });
   },
