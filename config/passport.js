@@ -20,14 +20,24 @@ module.exports.passport = {
   },
 
   twitter: {
-    name: 'Twitter',
+    name    : 'Twitter',
     protocol: 'oauth',
     strategy: require('passport-twitter').Strategy,
-    options: {
-      consumerKey: 'G6Lzoxrk5Npd2rUfWuwktSYfV',
+    options : {
+      consumerKey   : 'G6Lzoxrk5Npd2rUfWuwktSYfV',
       consumerSecret: 'VW0xNRgNVKYyRHqknA8eCQpzpd5h38y0CAg27t4qfQ1ZhCWp95'
     }
-  }
+  },
+
+  youtube: {
+    name    : 'Youtube',
+    protocol: 'oauth2',
+    strategy: require('passport-youtube').Strategy,
+    options : {
+      clientID    : '681206281547-j86ringbcqohtes6fpnei8m2c8drhlln.apps.googleusercontent.com',
+      clientSecret: 'XKb6knXEIcPZHZTyZcUhFgpt'
+    }
+  },
 
   //github: {
   //  name: 'GitHub',
@@ -39,15 +49,15 @@ module.exports.passport = {
   //  }
   //},
   //
-  //facebook: {
-  //  name: 'Facebook',
-  //  protocol: 'oauth2',
-  //  strategy: require('passport-facebook').Strategy,
-  //  options: {
-  //    clientID: 'your-client-id',
-  //    clientSecret: 'your-client-secret'
-  //  }
-  //},
+  facebook: {
+    name: 'Facebook',
+    protocol: 'oauth2',
+    strategy: require('passport-facebook').Strategy,
+    options: {
+      clientID: '1764297723794605',
+      clientSecret: '8c7befe94e5bb62bb7eb3ee6177fe37f'
+    }
+  }
   //
   //google: {
   //  name: 'Google',
