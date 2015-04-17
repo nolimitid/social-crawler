@@ -12,6 +12,9 @@ var twitter    = null;
 var tokens     = {};
 
 module.exports = {
+  main    : function (req, res) {
+    res.view();
+  },
   receive: function (req, res) {
     console.log(req.allParams());
     twitter.getAccessToken(req.param('oauth_token'), tokens[req.param('oauth_token')], req.param('oauth_verifier'), function (error, accessToken, accessTokenSecret, results) {
