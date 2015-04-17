@@ -34,6 +34,7 @@
     "request": "^2.55.0",
     "sails": "^0.11.0",
     "sails-disk": "~0.10.0",
+    "sails-mongo": "^0.10.6",
     "twitter": "^1.2.4",
     "validator": "^3.27.0"
   },
