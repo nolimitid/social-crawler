@@ -1,0 +1,16 @@
+{
+  "name": "social-crawler",
+  "version": "0.0.0",
+  "homepage": "https://github.com/nolimitid/social-crawler",
+  "authors": [
+    "Andi N. Dirgantara <andi.n.dirgantara@gmail.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}

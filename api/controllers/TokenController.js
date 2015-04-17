@@ -12,30 +12,31 @@ var twitter    = null;
 var tokens     = {};
 
 module.exports = {
-  main    : function (req, res) {
+  main   : function (req, res) {
     res.view();
   },
-  receive: function (req, res) {
-    console.log(req.allParams());
+  hooks  : function (req, res) {
     twitter.getAccessToken(req.param('oauth_token'), tokens[req.param('oauth_token')], req.param('oauth_verifier'), function (error, accessToken, accessTokenSecret, results) {
       if (error) {
         console.error(error);
-        res.negotiate(error);
-      } else {
-        res.json({
-          consumerKey        : data.consumerKey,
-          consumerSecret     : data.consumerSecret,
-          access_token       : accessToken,
-          access_token_secret: accessTokenSecret
-        });
+        return res.negotiate(error);
       }
+      
+      res.json({
+        consumerKey        : data.consumerKey,
+        consumerSecret     : data.consumerSecret,
+        access_token       : accessToken,
+        access_token_secret: accessTokenSecret,
+        user_id            : results.user_id,
+        screen_name        : results.screen_name
+      });
     });
   },
   twitter: function (req, res) {
     data = {
       consumerKey   : req.param('consumer_key'),
       consumerSecret: req.param('consumer_secret'),
-      callback      : format('http://%s:%s/token/receive', req.host, 1337)
+      callback      : format('%s/token/hooks', sails.getBaseurl())
     };
     if (!(req.param('consumer_key') && req.param('consumer_secret'))) return res.badRequest('please give consumer_key, consumer_secret');
 
