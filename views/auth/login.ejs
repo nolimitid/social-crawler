@@ -1,19 +1,52 @@
-<% if (errors) {%>
-  <% errors.forEach(function (error) { %>
-    <%= __(error) %>
-  <% }) %>
-<% } %>
+<div class="container">
+  <div class="row">
+    <div class="col-md-4 col-md-offset-4">
+      <div class="login-panel panel panel-default">
+        <div class="panel-heading">
+          <h3 class="panel-title">Please Sign In</h3>
+        </div>
 
-<form role="form" action="/auth/local" method="post">
-  <input type="text" name="identifier" placeholder="Username or Email">
-  <input type="password" name="password" placeholder="Password">
-  <button type="submit">Sign in</button>
-</form>
+        <% if (errors) { %>
+        <% errors.forEach(function (error) { %>
+        <div class="bg-danger"><%= __(error) %></div>
+        <% }) %>
+        <% } %>
 
-<% if (providers) {%>
-  <h4>You can also use one of these...</h4>
+        <div class="panel-body">
+          <form role="form" action="/auth/local" method="post">
 
-  <% Object.keys(providers).forEach(function (key) { %>
-    <a href="/auth/<%= providers[key].slug %>" role="button"><%= providers[key].name %></a>
-  <% }) %>
-<% } %>
+            <fieldset>
+              <div class="form-group">
+                <input class="form-control" type="text" name="identifier" placeholder="Username or Email" required
+                       autofocus>
+              </div>
+              <div class="form-group">
+                <input class="form-control" type="password" name="password" placeholder="Password" required>
+              </div>
+              <!--<div class="checkbox">-->
+              <!--<label>-->
+              <!--<input name="remember" type="checkbox" value="Remember Me">Remember Me-->
+              <!--</label>-->
+              <!--</div>-->
+
+              <button class="btn btn-lg btn-success btn-block" type="submit">Sign in</button>
+            </fieldset>
+
+            <% if (providers) { %>
+            <h4>You can also use one of these...</h4>
+
+            <% Object.keys(providers).forEach(function (key) { %>
+            <a href="/auth/<%= providers[key].slug %>" class="btn btn-block btn-social btn-<%= providers[key].slug %>">
+              <i class="fa fa-<%= providers[key].slug %>"></i>
+              Sign in with <%= providers[key].name %>
+            </a>
+            <!--<a href="/auth/<%= providers[key].slug %>" role="button"><%= providers[key].name %></a>-->
+            <% }) %>
+            <% } %>
+
+          </form>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
